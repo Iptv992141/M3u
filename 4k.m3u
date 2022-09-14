@@ -1139,36 +1139,52 @@ http://208.86.19.13:81/606.stream/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WC. WILLOW CRICKET USA" tvg-logo="http://38.143.137.20/logo/prestige/United-States/willow_us.png" group-title="WORLD CRICKET",WC. WILLOW CRICKET USA
 http://qqtv.nl:8080/557999/557999/30327.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WC. WILLOW CRICKET EXTRA HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/willow_us.png" group-title="WORLD CRICKET",WC. WILLOW CRICKET EXTRA HD
 http://qqtv.nl:8080/557999/557999/381931
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WC. ASTRO CRICKET HD" tvg-logo="http://38.143.137.20/logo/prestige/Malaysia/astro-citra-my.png" group-title="WORLD CRICKET",WC. ASTRO CRICKET HD
 http://qqtv.nl:8080/557999/557999/319604
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WC. WILLOW CRICKET CANADA HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/willow_us.png" group-title="WORLD CRICKET",WC. WILLOW CRICKET CANADA HD
 http://qqtv.nl:8080/557999/557999/30329
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WC. FLOWER SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/flow_sports_uk.png" group-title="WORLD CRICKET",WC. FLOWER SPORTS
 http://qqtv.nl:8080/557999/557999/275731
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WC. JIO CRICKET ENGLISH HD" tvg-logo="http://38.143.137.20/logo/prestige/United-Arab-Emirates/osn_barker_channel.png" group-title="WORLD CRICKET",WC. JIO CRICKET ENGLISH HD
 http://qqtv.nl:8080/557999/557999/30599
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WC. GEO SUPER PK" tvg-logo="http://38.143.137.20/logo/prestige/India/geo-super.png" group-title="WORLD CRICKET",WC. GEO SUPER PK
 http://qqtv.nl:8080/557999/557999/5230
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WC. ATN CRICKET PLUS HD CANADA" tvg-logo="http://38.143.137.20/logo/prestige/India/atn-punjabi-in-ca.png" group-title="WORLD CRICKET",WC. ATN CRICKET PLUS HD CANADA
 http://qqtv.nl:8080/557999/557999/30328
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WC. PTV SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/Pakistan/ptv_sports_pk.png" group-title="WORLD CRICKET",WC. PTV SPORTS
 http://qqtv.nl:8080/557999/557999/5216
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WC. TEN SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/India/ten_sports_in_pakistan.png" group-title="WORLD CRICKET",WC. TEN SPORTS
 http://qqtv.nl:8080/557999/557999/30574
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WC. SONY TEN 1 CRICKET ." tvg-logo="http://38.143.137.20/logo/prestige/India/ten_cricket_in.png" group-title="WORLD CRICKET",WC. SONY TEN 1 CRICKET .
 http://qqtv.nl:8080/557999/557999/30617
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WC. SONY TEN 2 CRICKET HD" tvg-logo="http://38.143.137.20/logo/prestige/India/ten_cricket_in.png" group-title="WORLD CRICKET",WC. SONY TEN 2 CRICKET HD
 http://qqtv.nl:8080/557999/557999/7244
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WC. SONY TEN 3 CRICKET HD" tvg-logo="https://www.comparedth.com/files/upload_files/thumb/1521188137_IC-290.png" group-title="WORLD CRICKET",WC. SONY TEN 3 CRICKET HD
 http://qqtv.nl:8080/557999/557999/30623
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WC. JIO CRICKET 1 HD" tvg-logo="https://www.comparedth.com/files/upload_files/thumb/1521188137_IC-290.png" group-title="WORLD CRICKET",WC. JIO CRICKET 1 HD
 http://qqtv.nl:8080/557999/557999/7243
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WC. SPORTMAX CRICKET HD" tvg-logo="http://38.143.137.20/logo/prestige/India/ten_cricket_in.png" group-title="WORLD CRICKET",WC. SPORTMAX CRICKET HD
 http://qqtv.nl:8080/557999/557999/30622
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WC. SONY ESPN HD" tvg-logo="https://i.pinimg.com/originals/bb/bc/19/bbbc19c4df468d67a3fcd39734cace3c.png" group-title="WORLD CRICKET",WC. SONY ESPN HD
 http://qqtv.nl:8080/557999/557999/30626
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WC. STAR SPORTS FIRST" tvg-logo="http://38.143.137.20/logo/prestige/India/star_sports_in_1_tamil.png" group-title="WORLD CRICKET",WC. STAR SPORTS FIRST
 http://qqtv.nl:8080/557999/557999/30628
 
@@ -1177,368 +1193,550 @@ http://103.99.249.138:81/play/a012/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORTS ACTION HD" tvg-logo="" group-title="SPORTS SPECIAL_BJ TECH ( ALL Channels)",SKY SPORTS ACTION HD
 http://103.99.249.138:81/play/UK-SKYSPORTSACTION
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORTS CRICKET HD" tvg-logo="" group-title="SPORTS SPECIAL_BJ TECH ( ALL Channels)",SKY SPORTS CRICKET HD
 http://103.99.249.138:81/play/UK-SKYSPORTSCRICEKT
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORTS FOOTBALL" tvg-logo="" group-title="SPORTS SPECIAL_BJ TECH ( ALL Channels)",SKY SPORTS FOOTBALL
 http://103.99.249.138:81/play/UK-SKYSPORTSFOOTBALL
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORTS MAIN EVENTS" tvg-logo="" group-title="SPORTS SPECIAL_BJ TECH ( ALL Channels)",SKY SPORTS MAIN EVENTS
 http://103.99.249.138:81/play/UK-SKYSPORTSMAINEVENT
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORTS PREMIERE LEAGUE" tvg-logo="" group-title="SPORTS SPECIAL_BJ TECH ( ALL Channels)",SKY SPORTS PREMIERE LEAGUE
 http://103.99.249.138:81/play/UK-SKYSPORTSPREMIERLEAUGE
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T SPORTS HD" tvg-logo="" group-title="SPORTS SPECIAL_BJ TECH ( ALL Channels)",T SPORTS HD
 http://103.99.249.138:81/play/a00q
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPER SPORTS CRICKET FHD" tvg-logo="" group-title="SPORTS SPECIAL_BJ TECH ( ALL Channels)",SUPER SPORTS CRICKET FHD
 http://humiptv.live:8080/live/13526319495_980/B4RtBbisKa/769.ts
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPER SPORTS ACTION FHD" tvg-logo="" group-title="SPORTS SPECIAL_BJ TECH ( ALL Channels)",SUPER SPORTS ACTION FHD
 http://humiptv.live:8080/live/13526319495_980/B4RtBbisKa/774.ts
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPER SPORTS MAXIMO FHD" tvg-logo="" group-title="SPORTS SPECIAL_BJ TECH ( ALL Channels)",SUPER SPORTS MAXIMO FHD
 http://humiptv.live:8080/live/13526319495_980/B4RtBbisKa/781.ts
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPER SPORTS FOOTBALL" tvg-logo="" group-title="SPORTS SPECIAL_BJ TECH ( ALL Channels)",SUPER SPORTS FOOTBALL
 http://humiptv.live:8080/live/13526319495_980/B4RtBbisKa/523.ts
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPER SPORTS ACTION" tvg-logo="" group-title="SPORTS SPECIAL_BJ TECH ( ALL Channels)",SUPER SPORTS ACTION
 http://humiptv.live:8080/live/13526319495_980/B4RtBbisKa/521.ts
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPER SPORTS GRANSLAND" tvg-logo="" group-title="SPORTS SPECIAL_BJ TECH ( ALL Channels)",SUPER SPORTS GRANSLAND
 http://humiptv.live:8080/live/13526319495_980/B4RtBbisKa/519.ts
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPER SPORTS PSL" tvg-logo="" group-title="SPORTS SPECIAL_BJ TECH ( ALL Channels)",SUPER SPORTS PSL
 http://humiptv.live:8080/live/13526319495_980/B4RtBbisKa/517.ts
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPER SPORTS CRICKET HD" tvg-logo="" group-title="SPORTS SPECIAL_BJ TECH ( ALL Channels)",SUPER SPORTS CRICKET HD
 http://humiptv.live:8080/live/13526319495_980/B4RtBbisKa/516.ts
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPER SPORTS LA LIGA" tvg-logo="" group-title="SPORTS SPECIAL_BJ TECH ( ALL Channels)",SUPER SPORTS LA LIGA
 http://humiptv.live:8080/live/13526319495_980/B4RtBbisKa/515.ts
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPER SPORTS GOLF" tvg-logo="" group-title="SPORTS SPECIAL_BJ TECH ( ALL Channels)",SUPER SPORTS GOLF
 http://humiptv.live:8080/live/13526319495_980/B4RtBbisKa/525.ts
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPER SPORTS MOTORSPORTS" tvg-logo="" group-title="SPORTS SPECIAL_BJ TECH ( ALL Channels)",SUPER SPORTS MOTORSPORTS
 http://humiptv.live:8080/live/13526319495_980/B4RtBbisKa/560.ts
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPER SPORTS RUBBY" tvg-logo="" group-title="SPORTS SPECIAL_BJ TECH ( ALL Channels)",SUPER SPORTS RUBBY
 http://humiptv.live:8080/live/13526319495_980/B4RtBbisKa/524.ts
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPER SPORTS VARIETY 1 HD" tvg-logo="" group-title="SPORTS SPECIAL_BJ TECH ( ALL Channels)",SUPER SPORTS VARIETY 1 HD
 http://humiptv.live:8080/live/13526319495_980/B4RtBbisKa/522.ts
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPER SPORTS VARIETY 2 HD" tvg-logo="" group-title="SPORTS SPECIAL_BJ TECH ( ALL Channels)",SUPER SPORTS VARIETY 2 HD
 http://humiptv.live:8080/live/13526319495_980/B4RtBbisKa/520.ts
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUN MUSIC HD" tvg-logo="" group-title="SUN NEXT",SUN MUSIC HD
 http://31.172.87.52:2200/R-EX/TAMIL_SUN_MUSIC_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUN TV HD" tvg-logo="" group-title="SUN NEXT",SUN TV HD
 http://31.172.87.52:2200/R-EX/TAMIL_SUN_TV_HD-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SURYA MOVIES" tvg-logo="" group-title="SUN NEXT",SURYA MOVIES
 http://31.172.87.52:2200/R-EX/MALAYALAM_SURYA_MOVIES-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SURYA MUSIC" tvg-logo="" group-title="SUN NEXT",SURYA MUSIC
 http://31.172.87.52:2200/R-EX/MALAYALAM_SURYA_MUSIC-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SURYA TV" tvg-logo="" group-title="SUN NEXT",SURYA TV
 http://31.172.87.52:2200/R-EX/MALAYALAM_SURYA_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS HD" tvg-logo="" group-title="ENGLISH CRICKET ( HUNDRED LEAGUE)",BEIN SPORTS HD
 http://31.172.87.52:2200//EX/bein13sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FANCODE HD" tvg-logo="" group-title="ENGLISH CRICKET ( HUNDRED LEAGUE)",FANCODE HD
 https://3uog.short.gy/LIVE_EVENTS_BJ_TECH_SPECIAL.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPER SPORTS CRICKET" tvg-logo="" group-title="ENGLISH CRICKET ( HUNDRED LEAGUE)",SUPER SPORTS CRICKET
 http://103.99.249.138:81/play/SUPERSPROTSCRICKET
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORTS HD" tvg-logo="" group-title="ENGLISH CRICKET ( HUNDRED LEAGUE)",SKY SPORTS HD
 http://103.99.249.138:81/play/UK-SKYSPORTSCRICEKT
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR MAA GOLD" tvg-logo="" group-title="STAR CHANNELS AUG 2022",STAR MAA GOLD
 http://89.187.179.108:8080/MaaGold-telu/index.m3u8?token=test
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR PRAVAH HD" tvg-logo="" group-title="STAR CHANNELS AUG 2022",STAR PRAVAH HD
 http://31.172.87.51:2200/R-EX/MARATHI_STAR_PARVAH_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star S Hin 1 HD- Rs19" tvg-logo="" group-title="STAR CHANNELS AUG 2022",Star S Hin 1 HD- Rs19
 http://103.179.246.243:8000/play/a026
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Spo 1 HD-Rs19" tvg-logo="" group-title="STAR CHANNELS AUG 2022",Star Spo 1 HD-Rs19
 http://103.179.246.243:8000/play/a00c
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Spo 2 HD- Rs19" tvg-logo="" group-title="STAR CHANNELS AUG 2022",Star Spo 2 HD- Rs19
 http://103.179.246.243:8000/play/a00d
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 3 Rs 4" tvg-logo="" group-title="STAR CHANNELS AUG 2022",Star Sports 3 Rs 4
 http://103.179.246.243:8000/play/a00l
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports S 1 HD-Rs19" tvg-logo="" group-title="STAR CHANNELS AUG 2022",Star Sports S 1 HD-Rs19
 http://103.179.246.243:8000/play/a018
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports S 2 HD-Rs10" tvg-logo="" group-title="STAR CHANNELS AUG 2022",Star Sports S 2 HD-Rs10
 http://103.179.246.243:8000/play/a019
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SUVARNA HD" tvg-logo="" group-title="STAR CHANNELS AUG 2022",STAR SUVARNA HD
 http://89.187.179.108:8080/SuvarnaTV-Kannada/index.m3u8?token=test
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR VIJAY HD" tvg-logo="" group-title="STAR CHANNELS AUG 2022",STAR VIJAY HD
 http://31.172.87.55:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR VIJAY SUPER" tvg-logo="" group-title="STAR CHANNELS AUG 2022",STAR VIJAY SUPER
 http://31.172.87.55:2200/R-EX/TAMIL_VIJAY_SUPER-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO HD" tvg-logo="" group-title="STAR CHANNELS AUG 2022",HBO HD
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR MOVIES HD" tvg-logo="" group-title="STAR CHANNELS AUG 2022",STAR MOVIES HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR UTSAV" tvg-logo="" group-title="STAR CHANNELS AUG 2022",STAR UTSAV
 http://144.217.70.181:9587/hin2/STARUTSAV/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR WORD HD" tvg-logo="" group-title="STAR CHANNELS AUG 2022",STAR WORD HD
 http://103.174.4.171:8000/play/a07p/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR WORLD PREMIUM" tvg-logo="" group-title="STAR CHANNELS AUG 2022",STAR WORLD PREMIUM
 http://103.174.4.171:8000/play/a07q/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTV ACTION" tvg-logo="" group-title="STAR CHANNELS AUG 2022",UTV ACTION
 http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zoom" tvg-logo="" group-title="STAR CHANNELS AUG 2022",Zoom
 http://144.217.70.181:9587/hin2/STARPLUSHD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR MAA TV HD" tvg-logo="" group-title="STAR CHANNELS AUG 2022",STAR MAA TV HD
 http://89.187.179.108:8080/MAATVHD/LOCAL/TEL/index.m3u8?token=test
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR BHART HD" tvg-logo="" group-title="STAR CHANNELS AUG 2022",STAR BHART HD
 http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR GOLD 2" tvg-logo="" group-title="STAR CHANNELS AUG 2022",STAR GOLD 2
 http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR GOLD HD" tvg-logo="" group-title="STAR CHANNELS AUG 2022",STAR GOLD HD
 http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR GOLD HD" tvg-logo="" group-title="STAR CHANNELS AUG 2022",STAR GOLD HD
 http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR GOLD SELECT" tvg-logo="" group-title="STAR CHANNELS AUG 2022",STAR GOLD SELECT
 http://208.86.19.13:81/709.stream/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR PLUS HD" tvg-logo="" group-title="STAR CHANNELS AUG 2022",STAR PLUS HD
 http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR PLUS HD" tvg-logo="" group-title="STAR CHANNELS AUG 2022",STAR PLUS HD
 http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS 1 HD English" tvg-logo="" group-title="STAR CHANNELS AUG 2022",STAR SPORTS 1 HD English
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76561
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTV HD" tvg-logo="" group-title="STAR CHANNELS AUG 2022",UTV HD
 http://208.86.19.13:81/723.stream/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANCIENT HD" tvg-logo="" group-title="REDCLIENT HD/TAMIL/MRATHI/TELGU",ANCIENT HD
 http://31.172.87.52:2200/R-EX/MALAYALAM_ASIANET_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANCIENT MOVIES" tvg-logo="" group-title="REDCLIENT HD/TAMIL/MRATHI/TELGU",ANCIENT MOVIES
 http://31.172.87.52:2200/R-EX/MALAYALAM_ASIANET_MOVIE-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SURYA MOVIES" tvg-logo="" group-title="REDCLIENT HD/TAMIL/MRATHI/TELGU",SURYA MOVIES
 http://31.172.87.52:2200/R-EX/MALAYALAM_SURYA_MOVIES-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SURYA MUSIC" tvg-logo="" group-title="REDCLIENT HD/TAMIL/MRATHI/TELGU",SURYA MUSIC
 http://31.172.87.52:2200/R-EX/MALAYALAM_SURYA_MUSIC-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SURYA TV" tvg-logo="" group-title="REDCLIENT HD/TAMIL/MRATHI/TELGU",SURYA TV
 http://31.172.87.52:2200/R-EX/MALAYALAM_SURYA_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY CHANNEL" tvg-logo="" group-title="REDCLIENT HD/TAMIL/MRATHI/TELGU",DISNEY CHANNEL
 http://31.172.87.53:2200/R-EX/KIDS_Disney_TV-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV TELGU" tvg-logo="" group-title="REDCLIENT HD/TAMIL/MRATHI/TELGU",ETV TELGU
 http://89.187.179.108:8080/ETVHD/LOCAL/TEL/index.m3u8?token=test
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HUNGAMA Channel" tvg-logo="" group-title="REDCLIENT HD/TAMIL/MRATHI/TELGU",HUNGAMA Channel
 http://31.172.87.55:2200/R-EX/KIDS_Hungama_TV-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR MAA" tvg-logo="" group-title="REDCLIENT HD/TAMIL/MRATHI/TELGU",STAR MAA
 http://89.187.179.108:8080/MAATVHD/LOCAL/TEL/index.m3u8?token=test
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR MAA GOLD" tvg-logo="" group-title="REDCLIENT HD/TAMIL/MRATHI/TELGU",STAR MAA GOLD
 http://89.187.179.108:8080/MaaGold-telu/index.m3u8?token=test
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR PRAVAH HD" tvg-logo="" group-title="REDCLIENT HD/TAMIL/MRATHI/TELGU",STAR PRAVAH HD
 http://31.172.87.51:2200/R-EX/MARATHI_STAR_PARVAH_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SUVARNA HD" tvg-logo="" group-title="REDCLIENT HD/TAMIL/MRATHI/TELGU",STAR SUVARNA HD
 http://89.187.179.108:8080/SuvarnaTV-Kannada/index.m3u8?token=test
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE MARATHI HD" tvg-logo="" group-title="REDCLIENT HD/TAMIL/MRATHI/TELGU",ZEE MARATHI HD
 http://1tv1.net:8080/live/hamza2022/123456/99363.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee tamil" tvg-logo="" group-title="REDCLIENT HD/TAMIL/MRATHI/TELGU",Zee tamil
 http://tv.googledrivelinks.com:8088/live.php?c=Zee_Tamil&q=800&e=.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE TAMIL" tvg-logo="" group-title="REDCLIENT HD/TAMIL/MRATHI/TELGU",ZEE TAMIL
 http://31.172.87.55:2200/R-EX/TAMIL_ZEE_TAMIL_SD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAYA MAX" tvg-logo="" group-title="REDCLIENT HD/TAMIL/MRATHI/TELGU",JAYA MAX
 http://31.172.87.55:2200/R-EX/TAMIL_JAYA_MAX-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUN LIFE" tvg-logo="" group-title="REDCLIENT HD/TAMIL/MRATHI/TELGU",SUN LIFE
 http://31.172.87.55:2200/R-EX/TAMIL_SUN_LIFE_TAMIL-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS TAMIL HD" tvg-logo="" group-title="REDCLIENT HD/TAMIL/MRATHI/TELGU",COLORS TAMIL HD
 http://31.172.87.52:2200/R-EX/TAMIL_COLORS_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KTV HD" tvg-logo="" group-title="REDCLIENT HD/TAMIL/MRATHI/TELGU",KTV HD
 http://31.172.87.55:2200/R-EX/TAMIL_KTV_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUN MUSIC HD" tvg-logo="" group-title="REDCLIENT HD/TAMIL/MRATHI/TELGU",SUN MUSIC HD
 http://31.172.87.52:2200/R-EX/TAMIL_SUN_MUSIC_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR VIJAY SUPER" tvg-logo="" group-title="REDCLIENT HD/TAMIL/MRATHI/TELGU",STAR VIJAY SUPER
 http://31.172.87.55:2200/R-EX/TAMIL_VIJAY_SUPER-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR VIJAY HD" tvg-logo="" group-title="REDCLIENT HD/TAMIL/MRATHI/TELGU",STAR VIJAY HD
 http://31.172.87.55:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUN TV HD" tvg-logo="" group-title="REDCLIENT HD/TAMIL/MRATHI/TELGU",SUN TV HD
 http://31.172.87.52:2200/R-EX/TAMIL_SUN_TV_HD-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24.7 MUSIC" tvg-logo="" group-title="AIRTEL DTH 3",24.7 MUSIC
 http://103.174.5.42:8000/play/a06y/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="9XM" tvg-logo="" group-title="AIRTEL DTH 3",9XM
 http://103.174.5.42:8000/play/a079/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AASTHA" tvg-logo="" group-title="AIRTEL DTH 3",AASTHA
 http://103.174.5.42:8000/play/a07z/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABN TV" tvg-logo="" group-title="AIRTEL DTH 3",ABN TV
 http://103.174.5.42:8000/play/a06r/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABP News" tvg-logo="" group-title="AIRTEL DTH 3",ABP News
 http://103.174.5.42:8000/play/a07l/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AYENEH HD" tvg-logo="" group-title="AIRTEL DTH 3",AYENEH HD
 http://103.174.5.42:8000/play/a06t/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aaj Tak" tvg-logo="" group-title="AIRTEL DTH 3",Aaj Tak
 http://103.174.5.42:8000/play/a07k/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B4U KADAK" tvg-logo="" group-title="AIRTEL DTH 3",B4U KADAK
 http://103.174.5.42:8000/play/a07w/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B4U Music" tvg-logo="" group-title="AIRTEL DTH 3",B4U Music
 http://103.174.5.42:8000/play/a07f/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B4U Plus" tvg-logo="" group-title="AIRTEL DTH 3",B4U Plus
 http://103.174.5.42:8000/play/a07p/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Big Magic" tvg-logo="" group-title="AIRTEL DTH 3",Big Magic
 http://103.174.5.42:8000/play/a07v/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHANNEL ONE HD" tvg-logo="" group-title="AIRTEL DTH 3",CHANNEL ONE HD
 http://103.174.5.42:8000/play/a06k/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Citruss TV" tvg-logo="" group-title="AIRTEL DTH 3",Citruss TV
 http://103.174.5.42:8000/play/a057/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dangal 2" tvg-logo="" group-title="AIRTEL DTH 3",Dangal 2
 http://103.174.5.42:8000/play/a07r/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dhinchaak 2" tvg-logo="" group-title="AIRTEL DTH 3",Dhinchaak 2
 http://103.174.5.42:8000/play/a085/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Enter10" tvg-logo="" group-title="AIRTEL DTH 3",Enter10
 http://103.174.5.42:8000/play/a084/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Filmachi Bhojpuri" tvg-logo="" group-title="AIRTEL DTH 3",Filmachi Bhojpuri
 http://103.174.5.42:8000/play/a080/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEM ACADEMY" tvg-logo="" group-title="AIRTEL DTH 3",GEM ACADEMY
 http://103.174.5.42:8000/play/a06c/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEM ARABIA" tvg-logo="" group-title="AIRTEL DTH 3",GEM ARABIA
 http://103.174.5.42:8000/play/a06a/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEM AZ" tvg-logo="" group-title="AIRTEL DTH 3",GEM AZ
 http://103.174.5.42:8000/play/a06e/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEM BOLLYWOOD" tvg-logo="" group-title="AIRTEL DTH 3",GEM BOLLYWOOD
 http://103.174.5.42:8000/play/a065/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEM CLASSIC" tvg-logo="" group-title="AIRTEL DTH 3",GEM CLASSIC
 http://103.174.5.42:8000/play/a066/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEM DRAMA" tvg-logo="" group-title="AIRTEL DTH 3",GEM DRAMA
 http://103.174.5.42:8000/play/a06g/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEM FILM" tvg-logo="" group-title="AIRTEL DTH 3",GEM FILM
 http://103.174.5.42:8000/play/a06f/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEM FIT" tvg-logo="" group-title="AIRTEL DTH 3",GEM FIT
 http://103.174.5.42:8000/play/a061/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEM FOOD" tvg-logo="" group-title="AIRTEL DTH 3",GEM FOOD
 http://103.174.5.42:8000/play/a060/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEM JUNIOR" tvg-logo="" group-title="AIRTEL DTH 3",GEM JUNIOR
 http://103.174.5.42:8000/play/a069/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEM KIDS" tvg-logo="" group-title="AIRTEL DTH 3",GEM KIDS
 http://103.174.5.42:8000/play/a06d/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEM LIFE+" tvg-logo="" group-title="AIRTEL DTH 3",GEM LIFE+
 http://103.174.5.42:8000/play/a064/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEM SERIES" tvg-logo="" group-title="AIRTEL DTH 3",GEM SERIES
 http://103.174.5.42:8000/play/a067/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEM TRAVEL" tvg-logo="" group-title="AIRTEL DTH 3",GEM TRAVEL
 http://103.174.5.42:8000/play/a068/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEM TV" tvg-logo="" group-title="AIRTEL DTH 3",GEM TV
 http://103.174.5.42:8000/play/a06b/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GRAND CINEMA HD" tvg-logo="" group-title="AIRTEL DTH 3",GRAND CINEMA HD
 http://103.174.5.42:8000/play/a06n/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hadi TV4" tvg-logo="" group-title="AIRTEL DTH 3",Hadi TV4
 http://103.174.5.42:8000/play/a071/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IMAM ASR" tvg-logo="" group-title="AIRTEL DTH 3",IMAM ASR
 http://103.174.5.42:8000/play/a06z/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="India News" tvg-logo="" group-title="AIRTEL DTH 3",India News
 http://103.174.5.42:8000/play/a07c/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="India TV" tvg-logo="" group-title="AIRTEL DTH 3",India TV
 http://103.174.5.42:8000/play/a07g/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Javanan" tvg-logo="" group-title="AIRTEL DTH 3",Javanan
 http://103.174.5.42:8000/play/a06m/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KOMALA TV" tvg-logo="" group-title="AIRTEL DTH 3",KOMALA TV
 http://103.174.5.42:8000/play/a06u/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MARJAEYAT TV HD" tvg-logo="" group-title="AIRTEL DTH 3",MARJAEYAT TV HD
 http://103.174.5.42:8000/play/a06p/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAXX" tvg-logo="" group-title="AIRTEL DTH 3",MAXX
 http://103.174.5.42:8000/play/a06h/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Action" tvg-logo="" group-title="AIRTEL DTH 3",MBC Action
 http://103.174.5.42:8000/play/a05a/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Bollywood" tvg-logo="" group-title="AIRTEL DTH 3",MBC Bollywood
 http://103.174.5.42:8000/play/a058/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC MAX" tvg-logo="" group-title="AIRTEL DTH 3",MBC MAX
 http://103.174.5.42:8000/play/a05b/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC1" tvg-logo="" group-title="AIRTEL DTH 3",MBC1
 http://103.174.5.42:8000/play/a055/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC2" tvg-logo="" group-title="AIRTEL DTH 3",MBC2
 http://103.174.5.42:8000/play/a059/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC3" tvg-logo="" group-title="AIRTEL DTH 3",MBC3
 http://103.174.5.42:8000/play/a05c/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC4" tvg-logo="" group-title="AIRTEL DTH 3",MBC4
 http://103.174.5.42:8000/play/a056/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Beats" tvg-logo="" group-title="AIRTEL DTH 3",MTV Beats
 http://103.174.5.42:8000/play/a07d/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Manoranjan Movies" tvg-logo="" group-title="AIRTEL DTH 3",Manoranjan Movies
 http://103.174.5.42:8000/play/a07u/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Manoranjan TV" tvg-logo="" group-title="AIRTEL DTH 3",Manoranjan TV
 http://103.174.5.42:8000/play/a07x/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Masti" tvg-logo="" group-title="AIRTEL DTH 3",Masti
 http://103.174.5.42:8000/play/a07e/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movie Plus" tvg-logo="" group-title="AIRTEL DTH 3",Movie Plus
 http://103.174.5.42:8000/play/a07t/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News 18 India" tvg-logo="" group-title="AIRTEL DTH 3",News 18 India
 http://103.174.5.42:8000/play/a078/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News 24 Think First" tvg-logo="" group-title="AIRTEL DTH 3",News 24 Think First
 http://103.174.5.42:8000/play/a083/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News Nation" tvg-logo="" group-title="AIRTEL DTH 3",News Nation
 http://103.174.5.42:8000/play/a07h/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Popcorn Movies" tvg-logo="" group-title="AIRTEL DTH 3",Popcorn Movies
 http://103.174.5.42:8000/play/a086/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RADIS" tvg-logo="" group-title="AIRTEL DTH 3",RADIS
 http://103.174.5.42:8000/play/a06l/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RISHTEY CINEPLEX" tvg-logo="" group-title="AIRTEL DTH 3",RISHTEY CINEPLEX
 http://103.174.5.42:8000/play/a07s/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RIVER" tvg-logo="" group-title="AIRTEL DTH 3",RIVER
 http://103.174.5.42:8000/play/a063/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RUBIX" tvg-logo="" group-title="AIRTEL DTH 3",RUBIX
 http://103.174.5.42:8000/play/a062/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Republic Bharat" tvg-logo="" group-title="AIRTEL DTH 3",Republic Bharat
 http://103.174.5.42:8000/play/a07j/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sanskar TV" tvg-logo="" group-title="AIRTEL DTH 3",Sanskar TV
 http://103.174.5.42:8000/play/a087/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Wah" tvg-logo="" group-title="AIRTEL DTH 3",Sony Wah
 http://103.174.5.42:8000/play/a07a/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Utsav Movies" tvg-logo="" group-title="AIRTEL DTH 3",Star Utsav Movies
 http://103.174.5.42:8000/play/a077/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TAPESH HD" tvg-logo="" group-title="AIRTEL DTH 3",TAPESH HD
 http://103.174.5.42:8000/play/a06s/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV9 Bharatvarsh" tvg-logo="" group-title="AIRTEL DTH 3",TV9 Bharatvarsh
 http://103.174.5.42:8000/play/a07y/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Times Now Navbharat" tvg-logo="" group-title="AIRTEL DTH 3",Times Now Navbharat
 http://103.174.5.42:8000/play/a07i/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VALIASR TV" tvg-logo="" group-title="AIRTEL DTH 3",VALIASR TV
 http://103.174.5.42:8000/play/a070/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wanasah" tvg-logo="" group-title="AIRTEL DTH 3",Wanasah
 http://103.174.5.42:8000/play/a05e/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE ANMOL CINEMA" tvg-logo="" group-title="AIRTEL DTH 3",ZEE ANMOL CINEMA
 http://103.174.5.42:8000/play/a082/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE Chitra Mandir" tvg-logo="" group-title="AIRTEL DTH 3",ZEE Chitra Mandir
 http://103.174.5.42:8000/play/a07n/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE Hindustan" tvg-logo="" group-title="AIRTEL DTH 3",ZEE Hindustan
 http://103.174.5.42:8000/play/a07b/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE News" tvg-logo="" group-title="AIRTEL DTH 3",ZEE News
 http://103.174.5.42:8000/play/a07m/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE Punjabi" tvg-logo="" group-title="AIRTEL DTH 3",ZEE Punjabi
 http://103.174.5.42:8000/play/a07o/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zing" tvg-logo="" group-title="AIRTEL DTH 3",Zing
 http://103.174.5.42:8000/play/a081/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="POGO" tvg-logo="" group-title="KIDS SPECIAL CHANNELS",POGO
 http://144.217.70.181:9587/hin2/POGO/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONIC" tvg-logo="" group-title="KIDS SPECIAL CHANNELS",SONIC
 http://144.217.70.181:9587/hin2/SONIC/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY INDIA" tvg-logo="" group-title="KIDS SPECIAL CHANNELS",DISNEY INDIA
 https://3uog.short.gy/Disney_india.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPER HUNGAMA HINDI" tvg-logo="" group-title="KIDS SPECIAL CHANNELS",SUPER HUNGAMA HINDI
 https://3uog.short.gy/Hungama_Hindi_bj_special.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HUNGAMA TAMIL" tvg-logo="" group-title="KIDS SPECIAL CHANNELS",HUNGAMA TAMIL
 https://3uog.short.gy/Hungama_Tamil.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HUNDAMA HD" tvg-logo="" group-title="KIDS SPECIAL CHANNELS",HUNDAMA HD
 http://144.217.70.181:9587/hin2/HUNGAMA/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CARTOON NETWORK" tvg-logo="" group-title="KIDS SPECIAL CHANNELS",CARTOON NETWORK
 http://31.172.87.52:2200/R-EX/KIDS_Cartoon_Network-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY CHANNEL HINDI" tvg-logo="" group-title="KIDS SPECIAL CHANNELS",DISNEY CHANNEL HINDI
 https://3uog.short.gy/Disney_Hindi_bjtechknowledge.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY JR" tvg-logo="" group-title="KIDS SPECIAL CHANNELS",DISNEY JR
 http://31.172.87.52:2200/R-EX/KIDS_Disney_TV-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="POGO" tvg-logo="" group-title="KIDS SPECIAL CHANNELS",POGO
 http://31.172.87.52:2200/R-EX/KIDS_Pogo-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|HINDI| DESI PLUS" tvg-logo="http://127.0.0.1/" group-title="AIRTEL & DISH TV",|HINDI| DESI PLUS
 http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/206314
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|HINDI| ZEE ACTION" tvg-logo="http://127.0.0.1/" group-title="AIRTEL & DISH TV",|HINDI| ZEE ACTION
 http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/206313
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|HINDI| ZEE TV HD" tvg-logo="http://127.0.0.1/" group-title="AIRTEL & DISH TV",|HINDI| ZEE TV HD
 http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/206312
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|HINDI| ZEE CINEMA HD" tvg-logo="http://127.0.0.1/" group-title="AIRTEL & DISH TV",|HINDI| ZEE CINEMA HD
 http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/206311
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|HINDI| ZING" tvg-logo="http://127.0.0.1/" group-title="AIRTEL & DISH TV",|HINDI| ZING
 http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/206310
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|HINDI| STAR BHARAT HD" tvg-logo="http://127.0.0.1/" group-title="AIRTEL & DISH TV",|HINDI| STAR BHARAT HD
 http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/206309
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|HINDI| STAR GOLD HD" tvg-logo="http://127.0.0.1/" group-title="AIRTEL & DISH TV",|HINDI| STAR GOLD HD
 http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/206308
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|HINDI| STAR GOLD SELECT HD" tvg-logo="http://127.0.0.1/" group-title="AIRTEL & DISH TV",|HINDI| STAR GOLD SELECT HD
 http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/206307
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|HINDI| STAR PLUS HD" tvg-logo="http://127.0.0.1/" group-title="AIRTEL & DISH TV",|HINDI| STAR PLUS HD
 http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/206306
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|HINDI| STAR UTSAV MOVIES" tvg-logo="http://127.0.0.1/" group-title="AIRTEL & DISH TV",|HINDI| STAR UTSAV MOVIES
 http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/206304
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|HINDI| SONY MAX HD" tvg-logo="http://127.0.0.1/" group-title="AIRTEL & DISH TV",|HINDI| SONY MAX HD
 http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/206302
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|HINDI| SONY MAX 2" tvg-logo="http://127.0.0.1/" group-title="AIRTEL & DISH TV",|HINDI| SONY MAX 2
 http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/206301
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|HINDI| SONY PIX HD" tvg-logo="http://127.0.0.1/" group-title="AIRTEL & DISH TV",|HINDI| SONY PIX HD
 http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/206300
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|HINDI| SONY BBC EARTH HD" tvg-logo="http://127.0.0.1/" group-title="AIRTEL & DISH TV",|HINDI| SONY BBC EARTH HD
 http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/206299
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|HINDI| SONY SAB HD" tvg-logo="http://127.0.0.1/" group-title="AIRTEL & DISH TV",|HINDI| SONY SAB HD
 http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/206298
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|HINDI| SONY PAL" tvg-logo="http://127.0.0.1/" group-title="AIRTEL & DISH TV",|HINDI| SONY PAL
 http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/206297
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|HINDI| SONY WAH" tvg-logo="http://127.0.0.1/" group-title="AIRTEL & DISH TV",|HINDI| SONY WAH
 http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/206296
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|HINDI| SONY YAY" tvg-logo="http://127.0.0.1/" group-title="AIRTEL & DISH TV",|HINDI| SONY YAY
@@ -1801,226 +1999,337 @@ http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/256
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/3676
 #EXTINF:-1 tvg-id="disneychannel.fr" tvg-name="|FR| DISNEY +" tvg-logo="http://webtv360.org:2578/images/4e2a0224e9390786c197199fc7082c00.png" group-title="KIDS SPECIAL_BJ",|FR| DISNEY +
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/1986
+
 #EXTINF:-1 tvg-id="disneyjunior.fr" tvg-name="|FR| DISNEY JUNIOR" tvg-logo="http://webtv360.org:2578/images/46526c6c50022a99686b0a7e190e28c9.png" group-title="KIDS SPECIAL_BJ",|FR| DISNEY JUNIOR
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/511
+
 #EXTINF:-1 tvg-id="discoverychannel.fr" tvg-name="|FR| DISNEY CHANNEL" tvg-logo="http://webtv360.org:2578/images/14ae1195634faec90fecdea9ca8949fc.png" group-title="KIDS SPECIAL_BJ",|FR| DISNEY CHANNEL
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/254
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 |KIDS| Donald Duck" tvg-logo="http://imediasmart.com/logo/fr/Kids.jpg" group-title="KIDS SPECIAL_BJ",24/7 |KIDS| Donald Duck
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/15923
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 |KIDS| Les Aventures De Tintin" tvg-logo="http://imediasmart.com/logo/fr/Kids.jpg" group-title="KIDS SPECIAL_BJ",24/7 |KIDS| Les Aventures De Tintin
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/15924
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 |KIDS| Les Dalton" tvg-logo="http://imediasmart.com/logo/fr/Kids.jpg" group-title="KIDS SPECIAL_BJ",24/7 |KIDS| Les Dalton
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/15925
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 |KIDS| Les Lapins Cretins" tvg-logo="http://imediasmart.com/logo/fr/Kids.jpg" group-title="KIDS SPECIAL_BJ",24/7 |KIDS| Les Lapins Cretins
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/15926
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 |KIDS| Looney Tunes" tvg-logo="http://imediasmart.com/logo/fr/Kids.jpg" group-title="KIDS SPECIAL_BJ",24/7 |KIDS| Looney Tunes
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/15927
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 |KIDS| Masha et Michka" tvg-logo="http://imediasmart.com/logo/fr/Kids.jpg" group-title="KIDS SPECIAL_BJ",24/7 |KIDS| Masha et Michka
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/15928
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 |KIDS| Mickey Mouse" tvg-logo="http://imediasmart.com/logo/fr/Kids.jpg" group-title="KIDS SPECIAL_BJ",24/7 |KIDS| Mickey Mouse
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/15929
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 |KIDS| Oggy et les cafards" tvg-logo="http://imediasmart.com/logo/fr/Kids.jpg" group-title="KIDS SPECIAL_BJ",24/7 |KIDS| Oggy et les cafards
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/15930
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 |KIDS| Pink Panther" tvg-logo="http://imediasmart.com/logo/fr/Kids.jpg" group-title="KIDS SPECIAL_BJ",24/7 |KIDS| Pink Panther
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/15931
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 |KIDS| Popeye" tvg-logo="http://imediasmart.com/logo/fr/Kids.jpg" group-title="KIDS SPECIAL_BJ",24/7 |KIDS| Popeye
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/15932
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 |KIDS| Rat-A-Tat" tvg-logo="http://imediasmart.com/logo/fr/Kids.jpg" group-title="KIDS SPECIAL_BJ",24/7 |KIDS| Rat-A-Tat
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/15933
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 |KIDS| Scooby-Doo" tvg-logo="http://imediasmart.com/logo/fr/Kids.jpg" group-title="KIDS SPECIAL_BJ",24/7 |KIDS| Scooby-Doo
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/15934
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 |KIDS| Shaun the sheep" tvg-logo="http://imediasmart.com/logo/fr/Kids.jpg" group-title="KIDS SPECIAL_BJ",24/7 |KIDS| Shaun the sheep
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/15935
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 |KIDS| Sponge Bob" tvg-logo="http://imediasmart.com/logo/fr/Kids.jpg" group-title="KIDS SPECIAL_BJ",24/7 |KIDS| Sponge Bob
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/15936
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 |KIDS| Sylvester The Cat And Tweety Bird" tvg-logo="http://imediasmart.com/logo/fr/Kids.jpg" group-title="KIDS SPECIAL_BJ",24/7 |KIDS| Sylvester The Cat And Tweety Bird
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/15937
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 |KIDS| Tom And Jerry" tvg-logo="http://imediasmart.com/logo/fr/Kids.jpg" group-title="KIDS SPECIAL_BJ",24/7 |KIDS| Tom And Jerry
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/15938
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 |KIDS| Wile E. Coyote and the Road Runner" tvg-logo="http://imediasmart.com/logo/fr/Kids.jpg" group-title="KIDS SPECIAL_BJ",24/7 |KIDS| Wile E. Coyote and the Road Runner
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/15939
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** |FR| PLAY TV KIDS | ***" tvg-logo="http://imediasmart.com/logo/categorie/france.jpg" group-title="KIDS SPECIAL_BJ",*** |FR| PLAY TV KIDS | ***
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/30051
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Play TV KIDS 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/PlayKids_TV.jpeg/revision/latest/scale-to-width-down/250?cb=20210303133343" group-title="KIDS SPECIAL_BJ",|FR| Play TV KIDS 1
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/30021
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Play TV KIDS 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/PlayKids_TV.jpeg/revision/latest/scale-to-width-down/250?cb=20210303133343" group-title="KIDS SPECIAL_BJ",|FR| Play TV KIDS 2
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/30022
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Play TV KIDS 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/PlayKids_TV.jpeg/revision/latest/scale-to-width-down/250?cb=20210303133343" group-title="KIDS SPECIAL_BJ",|FR| Play TV KIDS 3
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/30023
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Play TV KIDS 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/PlayKids_TV.jpeg/revision/latest/scale-to-width-down/250?cb=20210303133343" group-title="KIDS SPECIAL_BJ",|FR| Play TV KIDS 4
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/30024
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** |FR|HD| SPORT | ***" tvg-logo="http://imediasmart.com/logo/categorie/france.jpg" group-title="SPORTS NEW",*** |FR|HD| SPORT | ***
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/15917
+
 #EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="|FR| BEIN SPORTS HD1" tvg-logo="http://webtv360.org:2578/images/5cf8c329ca29fe0624f7da2cc9f92350.png" group-title="SPORTS NEW",|FR| BEIN SPORTS HD1
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/190
+
 #EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="|FR| BEIN SPORTS HD1+" tvg-logo="http://webtv360.org:2578/images/5cf8c329ca29fe0624f7da2cc9f92350.png" group-title="SPORTS NEW",|FR| BEIN SPORTS HD1+
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/2939
+
 #EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="|FR| BEIN SPORTS HD2" tvg-logo="http://webtv360.org:2578/images/cb13ffcec223434a9e664cf37781194d.png" group-title="SPORTS NEW",|FR| BEIN SPORTS HD2
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/191
+
 #EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="|FR| BEIN SPORTS HD2+" tvg-logo="http://webtv360.org:2578/images/171a567d922583a6a0e5d36b5d1e1570.png" group-title="SPORTS NEW",|FR| BEIN SPORTS HD2+
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/3088
+
 #EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="|FR| BEIN SPORTS HD3" tvg-logo="http://webtv360.org:2578/images/7c98b8895dc2970ed6004df9d2da2f02.png" group-title="SPORTS NEW",|FR| BEIN SPORTS HD3
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/192
+
 #EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="|FR| BEIN SPORTS HD3+" tvg-logo="http://webtv360.org:2578/images/7c98b8895dc2970ed6004df9d2da2f02.png" group-title="SPORTS NEW",|FR| BEIN SPORTS HD3+
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/3273
+
 #EXTINF:-1 tvg-id="bein4max.fr" tvg-name="|FR| BEIN SPORTS MAX4" tvg-logo="http://webtv360.org:2578/images/8dd4cd988a391fa518c03d667f954911.png" group-title="SPORTS NEW",|FR| BEIN SPORTS MAX4
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/3308
+
 #EXTINF:-1 tvg-id="bein5max.fr" tvg-name="|FR| BEIN SPORTS MAX5" tvg-logo="http://webtv360.org:2578/images/66ff2b358e887c959e4049ee44c28832.png" group-title="SPORTS NEW",|FR| BEIN SPORTS MAX5
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/3309
+
 #EXTINF:-1 tvg-id="bein6max.fr" tvg-name="|FR| BEIN SPORTS MAX6" tvg-logo="http://webtv360.org:2578/images/89d301f49c0b1514244f3545cb87e061.png" group-title="SPORTS NEW",|FR| BEIN SPORTS MAX6
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/3310
+
 #EXTINF:-1 tvg-id="bein7max.fr" tvg-name="|FR| BEIN SPORTS MAX7" tvg-logo="http://webtv360.org:2578/images/e6ec44ecc97fcae2b007eb54b3a113f4.png" group-title="SPORTS NEW",|FR| BEIN SPORTS MAX7
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/3311
+
 #EXTINF:-1 tvg-id="bein8max.fr" tvg-name="|FR| BEIN SPORTS MAX8" tvg-logo="http://webtv360.org:2578/images/a5ac44c9eb4fe500d0ffd8d9efdeede1.png" group-title="SPORTS NEW",|FR| BEIN SPORTS MAX8
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/3312
+
 #EXTINF:-1 tvg-id="bein9max.fr" tvg-name="|FR| BEIN SPORTS MAX9" tvg-logo="http://webtv360.org:2578/images/fc49a8bea87a45f105c3fd03f9acbf43.png" group-title="SPORTS NEW",|FR| BEIN SPORTS MAX9
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/3313
+
 #EXTINF:-1 tvg-id="bein10max.fr" tvg-name="|FR| BEIN SPORTS MAX10" tvg-logo="http://webtv360.org:2578/images/93c602f4000059e41d8b22642f40ae33.png" group-title="SPORTS NEW",|FR| BEIN SPORTS MAX10
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/3314
+
 #EXTINF:-1 tvg-id="rmcsportnews.fr" tvg-name="|FR| RMC INFO TALK SPORT" tvg-logo="http://imediasmart.com/logo/fr/RMCSPORT_NEWS.jpg" group-title="SPORTS NEW",|FR| RMC INFO TALK SPORT
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/7110
+
 #EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="|FR| RMC SPORT 1HD" tvg-logo="http://webtv360.org:2578/images/4d21d98b4dbcb6f490b46e3f3028326b.png" group-title="SPORTS NEW",|FR| RMC SPORT 1HD
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/3140
+
 #EXTINF:-1 tvg-id="rmcsport1.fr" tvg-name="|FR| RMC SPORT 1" tvg-logo="http://webtv360.org:2578/images/4d21d98b4dbcb6f490b46e3f3028326b.png" group-title="SPORTS NEW",|FR| RMC SPORT 1
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/7151
+
 #EXTINF:-1 tvg-id="rmcsport2.fr" tvg-name="|FR| RMC SPORT 2HD" tvg-logo="http://webtv360.org:2578/images/b9f677e0daf5aeac601d232be590b9d2.png" group-title="SPORTS NEW",|FR| RMC SPORT 2HD
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/3141
+
 #EXTINF:-1 tvg-id="rmcsport2.fr" tvg-name="|FR| RMC SPORT 2" tvg-logo="http://webtv360.org:2578/images/b9f677e0daf5aeac601d232be590b9d2.png" group-title="SPORTS NEW",|FR| RMC SPORT 2
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/7150
+
 #EXTINF:-1 tvg-id="rmcsport3.fr" tvg-name="|FR| RMC SPORT 3HD" tvg-logo="http://webtv360.org:2578/images/17c25093cc75d05372501b89f8a77e94.png" group-title="SPORTS NEW",|FR| RMC SPORT 3HD
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/3142
+
 #EXTINF:-1 tvg-id="rmcsport3.fr" tvg-name="|FR| RMC SPORT 3" tvg-logo="http://webtv360.org:2578/images/17c25093cc75d05372501b89f8a77e94.png" group-title="SPORTS NEW",|FR| RMC SPORT 3
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/7149
+
 #EXTINF:-1 tvg-id="rmcsport4.fr" tvg-name="|FR| RMC SPORT 4HD" tvg-logo="http://webtv360.org:2578/images/56d510bd8763e1e1101b6e9fab16494c.png" group-title="SPORTS NEW",|FR| RMC SPORT 4HD
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/3207
+
 #EXTINF:-1 tvg-id="rmcsport4.fr" tvg-name="|FR| RMC SPORT 4" tvg-logo="http://webtv360.org:2578/images/56d510bd8763e1e1101b6e9fab16494c.png" group-title="SPORTS NEW",|FR| RMC SPORT 4
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/7148
+
 #EXTINF:-1 tvg-id="rmcsportlive5.fr" tvg-name="|FR| RMC SPORT LIVE 5" tvg-logo="http://webtv360.org:2578/images/e711b29355e529f5f6fcff8aab7207aa.png" group-title="SPORTS NEW",|FR| RMC SPORT LIVE 5
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/16677
+
 #EXTINF:-1 tvg-id="rmcsportlive6.fr" tvg-name="|FR| RMC SPORT LIVE 6" tvg-logo="http://webtv360.org:2578/images/e711b29355e529f5f6fcff8aab7207aa.png" group-title="SPORTS NEW",|FR| RMC SPORT LIVE 6
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/16678
+
 #EXTINF:-1 tvg-id="rmcsportlive7.fr" tvg-name="|FR| RMC SPORT LIVE 7" tvg-logo="http://webtv360.org:2578/images/e711b29355e529f5f6fcff8aab7207aa.png" group-title="SPORTS NEW",|FR| RMC SPORT LIVE 7
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/16679
+
 #EXTINF:-1 tvg-id="rmcsportlive8.fr" tvg-name="|FR| RMC SPORT LIVE 8" tvg-logo="http://webtv360.org:2578/images/e711b29355e529f5f6fcff8aab7207aa.png" group-title="SPORTS NEW",|FR| RMC SPORT LIVE 8
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/16680
+
 #EXTINF:-1 tvg-id="rmcsportlive9.fr" tvg-name="|FR| RMC SPORT LIVE 9" tvg-logo="http://webtv360.org:2578/images/e711b29355e529f5f6fcff8aab7207aa.png" group-title="SPORTS NEW",|FR| RMC SPORT LIVE 9
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/16681
+
 #EXTINF:-1 tvg-id="rmcsportlive10.fr" tvg-name="|FR| RMC SPORT LIVE 10" tvg-logo="http://webtv360.org:2578/images/e711b29355e529f5f6fcff8aab7207aa.png" group-title="SPORTS NEW",|FR| RMC SPORT LIVE 10
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/16682
+
 #EXTINF:-1 tvg-id="rmcsportlive11.fr" tvg-name="|FR| RMC SPORT LIVE 11" tvg-logo="http://webtv360.org:2578/images/e711b29355e529f5f6fcff8aab7207aa.png" group-title="SPORTS NEW",|FR| RMC SPORT LIVE 11
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/16683
+
 #EXTINF:-1 tvg-id="rmcsportlive12.fr" tvg-name="|FR| RMC SPORT LIVE 12" tvg-logo="http://webtv360.org:2578/images/e711b29355e529f5f6fcff8aab7207aa.png" group-title="SPORTS NEW",|FR| RMC SPORT LIVE 12
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/16684
+
 #EXTINF:-1 tvg-id="rmcsportlive13.fr" tvg-name="|FR| RMC SPORT LIVE 13 HD" tvg-logo="http://webtv360.org:2578/images/e711b29355e529f5f6fcff8aab7207aa.png" group-title="SPORTS NEW",|FR| RMC SPORT LIVE 13 HD
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/16727
+
 #EXTINF:-1 tvg-id="rmcsportlive14.fr" tvg-name="|FR| RMC SPORT LIVE 14 HD" tvg-logo="http://webtv360.org:2578/images/e711b29355e529f5f6fcff8aab7207aa.png" group-title="SPORTS NEW",|FR| RMC SPORT LIVE 14 HD
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/16728
+
 #EXTINF:-1 tvg-id="rmcsportlive15.fr" tvg-name="|FR| RMC SPORT LIVE 15 HD" tvg-logo="http://webtv360.org:2578/images/e711b29355e529f5f6fcff8aab7207aa.png" group-title="SPORTS NEW",|FR| RMC SPORT LIVE 15 HD
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/16729
+
 #EXTINF:-1 tvg-id="rmcsportaccess1.fr" tvg-name="|FR| RMC ACCESS SPORT 1 HD" tvg-logo="http://webtv360.org:2578/images/e711b29355e529f5f6fcff8aab7207aa.png" group-title="SPORTS NEW",|FR| RMC ACCESS SPORT 1 HD
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/16685
+
 #EXTINF:-1 tvg-id="rmcsportaccess2.fr" tvg-name="|FR| RMC ACCESS SPORT 2 HD" tvg-logo="http://webtv360.org:2578/images/e711b29355e529f5f6fcff8aab7207aa.png" group-title="SPORTS NEW",|FR| RMC ACCESS SPORT 2 HD
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/16686
+
 #EXTINF:-1 tvg-id="rmcsportaccess3.fr" tvg-name="|FR| RMC ACCESS SPORT 3 HD" tvg-logo="http://webtv360.org:2578/images/e711b29355e529f5f6fcff8aab7207aa.png" group-title="SPORTS NEW",|FR| RMC ACCESS SPORT 3 HD
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/16687
+
 #EXTINF:-1 tvg-id="canalpluspremierleague.fr" tvg-name="|FR| CANAL+ PREMIER LEAGUE FHD" tvg-logo="http://webtv360.org:2578/images/18aeb6a1ff31f15c99aa356e0704fb8b.png" group-title="SPORTS NEW",|FR| CANAL+ PREMIER LEAGUE FHD
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/68862
+
 #EXTINF:-1 tvg-id="multisports1.fr" tvg-name="|FR| MULTISPORTS 1" tvg-logo="http://webtv360.org:2578/images/cc2ea6bfb08187f185f3181b36402691.png" group-title="SPORTS NEW",|FR| MULTISPORTS 1
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/32385
+
 #EXTINF:-1 tvg-id="multisports2.fr" tvg-name="|FR| MULTISPORTS 2" tvg-logo="http://webtv360.org:2578/images/cc2ea6bfb08187f185f3181b36402691.png" group-title="SPORTS NEW",|FR| MULTISPORTS 2
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/32386
+
 #EXTINF:-1 tvg-id="multisports3.fr" tvg-name="|FR| MULTISPORTS 3" tvg-logo="http://webtv360.org:2578/images/cc2ea6bfb08187f185f3181b36402691.png" group-title="SPORTS NEW",|FR| MULTISPORTS 3
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/32387
+
 #EXTINF:-1 tvg-id="multisports4.fr" tvg-name="|FR| MULTISPORTS 4" tvg-logo="http://webtv360.org:2578/images/cc2ea6bfb08187f185f3181b36402691.png" group-title="SPORTS NEW",|FR| MULTISPORTS 4
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/32388
+
 #EXTINF:-1 tvg-id="multisports5.fr" tvg-name="|FR| MULTISPORTS 5" tvg-logo="http://webtv360.org:2578/images/cc2ea6bfb08187f185f3181b36402691.png" group-title="SPORTS NEW",|FR| MULTISPORTS 5
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/32389
+
 #EXTINF:-1 tvg-id="multisports6.fr" tvg-name="|FR| MULTISPORTS 6" tvg-logo="http://webtv360.org:2578/images/cc2ea6bfb08187f185f3181b36402691.png" group-title="SPORTS NEW",|FR| MULTISPORTS 6
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/32390
+
 #EXTINF:-1 tvg-id="eurosport1.fr" tvg-name="|FR| EUROSPORT 1" tvg-logo="http://webtv360.org:2578/images/937edda1a3b327ac4b2a5a3c23bc7232.png" group-title="SPORTS NEW",|FR| EUROSPORT 1
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/858
+
 #EXTINF:-1 tvg-id="eurosport2.fr" tvg-name="|FR| EUROSPORT 2" tvg-logo="http://webtv360.org:2578/images/3227ebf5788eb82f257fea44ebdccc65.png" group-title="SPORTS NEW",|FR| EUROSPORT 2
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/260
+
 #EXTINF:-1 tvg-id="footplus24.fr" tvg-name="|FR| FOOT+24/24" tvg-logo="http://webtv360.org:2578/images/8a5f4b0f8240fdcac42fb40f90098a7a.png" group-title="SPORTS NEW",|FR| FOOT+24/24
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/263
+
 #EXTINF:-1 tvg-id="infosportplus.fr" tvg-name="|FR| INFOSPORT+" tvg-logo="http://webtv360.org:2578/images/bd71efe47cc05116c2c9562cfce4d515.png" group-title="SPORTS NEW",|FR| INFOSPORT+
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/199
+
 #EXTINF:-1 tvg-id="equidia.fr" tvg-name="|FR| EQUIDA LIVE" tvg-logo="http://webtv360.org:2578/images/ab136e5f43d340c3376bb989ac1aa9e5.png" group-title="SPORTS NEW",|FR| EQUIDA LIVE
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/3004
+
 #EXTINF:-1 tvg-id="lequipe21.fr" tvg-name="|FR| EQUIPE21" tvg-logo="http://webtv360.org:2578/images/0da80e8af9cc21479b724810bfea3bdf.png" group-title="SPORTS NEW",|FR| EQUIPE21
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/1750
+
 #EXTINF:-1 tvg-id="golfchannel.fr" tvg-name="|FR| GOLF CHANNEL HD" tvg-logo="http://webtv360.org:2578/images/e60f95993e80464d96f49c5cdcc8838c.png" group-title="SPORTS NEW",|FR| GOLF CHANNEL HD
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/21001
+
 #EXTINF:-1 tvg-id="golfplus.fr" tvg-name="|FR| GOLF+" tvg-logo="http://webtv360.org:2578/images/36b29e593d54b19bba13c6d4bea5e2c8.png" group-title="SPORTS NEW",|FR| GOLF+
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/6724
+
 #EXTINF:-1 tvg-id="sportenfrance.fr" tvg-name="|FR| SPORT EN FRANCE HD" tvg-logo="http://webtv360.org:2578/images/770519c82b5adf5f68266e1cbb5b60b0.jpg" group-title="SPORTS NEW",|FR| SPORT EN FRANCE HD
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/26821
+
 #EXTINF:-1 tvg-id="Kombat Sport PT" tvg-name="|FR| KOMBAT SPORT" tvg-logo="http://imediasmart.com/logo/fr/kombat-sport.jpg" group-title="SPORTS NEW",|FR| KOMBAT SPORT
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/30386
+
 #EXTINF:-1 tvg-id="extreme.fr" tvg-name="|FR| EXTREME SPORTS HD" tvg-logo="http://webtv360.org:2578/images/913d673005569509787df6221a7187bd.png" group-title="SPORTS NEW",|FR| EXTREME SPORTS HD
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/21000
+
 #EXTINF:-1 tvg-id="automotolachaine.fr" tvg-name="|FR| AUTOMOTO LA CHAINE HD" tvg-logo="http://webtv360.org:2578/images/7cb2c6cbf2ff1340a394f1d137c66f44.png" group-title="SPORTS NEW",|FR| AUTOMOTO LA CHAINE HD
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/3210
+
 #EXTINF:-1 tvg-id="oltv.fr" tvg-name="|FR| OL TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThX3RPcfRa1gTxwhnYHUdcV5Dw8DC9Z4R5cEWwNI3C3qgI4s3HGAsnxduFZ5JHaoIRgiM&usqp=CAU" group-title="SPORTS NEW",|FR| OL TV
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/7147
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY MAX HD" tvg-logo="" group-title="SONY LIV_2 BJ SPECIAL",SONY MAX HD
 https://bit.ly/32bsOnymAXhd
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY PIX HD" tvg-logo="" group-title="SONY LIV_2 BJ SPECIAL",SONY PIX HD
 https://bit.ly/32sOnypIXhd
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY SAB HD" tvg-logo="" group-title="SONY LIV_2 BJ SPECIAL",SONY SAB HD
 https://bit.ly/3fBsABhd
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY SET HD" tvg-logo="" group-title="SONY LIV_2 BJ SPECIAL",SONY SET HD
 https://bit.ly/3fKTNU8seTHd
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY SIX HD" tvg-logo="" group-title="SONY LIV_2 BJ SPECIAL",SONY SIX HD
 https://bit.ly/3h6sIXHd
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY TEN 1 HD" tvg-logo="" group-title="SONY LIV_2 BJ SPECIAL",SONY TEN 1 HD
 https://bit.ly/2B9tEN1hd
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY TEN 2 HD" tvg-logo="" group-title="SONY LIV_2 BJ SPECIAL",SONY TEN 2 HD
 https://bit.ly/2DOtEN2hd
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY TEN 3 HD" tvg-logo="" group-title="SONY LIV_2 BJ SPECIAL",SONY TEN 3 HD
 https://bit.ly/2OwtEn3hd
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DELHI CRIME S2 EP 1" tvg-logo="" group-title="NETFLIX",DELHI CRIME S2 EP 1
 https://assets-1.mypowerdisk.com/transcode_video/2da6f2b611397c9bf25044bd3a3b506b/dash/dcd8d2d38bc4bd976e17ec674ca77729.mpd
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DELHI CRIME S2 EP 2" tvg-logo="" group-title="NETFLIX",DELHI CRIME S2 EP 2
 https://assets-1.mypowerdisk.com/transcode_video/6a98b9666edf1ca379a8e0e07d95426f/dash/74a53b6a45f24c6b797bdc5a7b7f80df.mpd
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DELHI CRIME S2 EP 3" tvg-logo="" group-title="NETFLIX",DELHI CRIME S2 EP 3
 https://assets-1.mypowerdisk.com/transcode_video/462321ccbc3691f97ab4c289ca7f016f/dash/3d6582989ea99191086b6305c110a3b7.mpd
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DELHI CRIME S2 EP 4" tvg-logo="" group-title="NETFLIX",DELHI CRIME S2 EP 4
 https://assets-1.mypowerdisk.com/transcode_video/f3ad53fe3d5b79d092bf22b76c539258/dash/b81345dbb54c23f031de043c7beaa05a.mpd
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DELHI CRIME S2 EP 5" tvg-logo="" group-title="NETFLIX",DELHI CRIME S2 EP 5
 https://assets-1.mypowerdisk.com/transcode_video/321b260029110df3f2b9db7799e04686/dash/6f2741ed10a56ff6dc5d54f5f2fa9523.mpd
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HIT THE FIRST CASE 2022 HINDI" tvg-logo="" group-title="NETFLIX",HIT THE FIRST CASE 2022 HINDI
 https://assets-1.mypowerdisk.com/transcode_video/1af160318e77f2178b7e851e7e7d8cad/dash/8effe8cd51dd704101a26b1120db378b.mpd
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dasvi (2022)" tvg-logo="" group-title="NETFLIX",Dasvi (2022)
 https://assets-1.mypowerdisk.com/transcode_video/f3a709cf52342c7e56ee165265071189/dash/fecf88769543131f9ec490f0dafda4a0.mpd
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CARTER (2022)" tvg-logo="" group-title="NETFLIX",CARTER (2022)
 https://assets-1.mypowerdisk.com/transcode_video/3ce3156f6a15b3d95f5f0a97fe0b78e0/dash/6cc45608f8c0077ed59a1a8f83e61538.mpd
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Business Proposals (2022) EP_2" tvg-logo="" group-title="NETFLIX",Business Proposals (2022) EP_2
 https://assets-1.mypowerdisk.com/transcode_video/cbcbc88de3a6e1c72deb25b349f4124a/dash/51987fc3d4c74f6c58f979027be446f9.mpd
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Business Proposals Hindi (2022) EP_1" tvg-logo="" group-title="NETFLIX",Business Proposals Hindi (2022) EP_1
 https://assets-1.mypowerdisk.com/transcode_video/d8ceadd1fc397cf56c3b0a81b28a266e/dash/0ef7777248cd31db1da60dcea8b885cc.mpd
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FORREST GUMP (2022)  Hindi" tvg-logo="" group-title="NETFLIX",FORREST GUMP (2022)  Hindi
 https://assets-1.mypowerdisk.com/transcode_video/56068c344f4dff2522e98ec0001ded68/dash/56068c344f4dff2522e98ec0001ded68.mpd
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JYAADUGAR (2022)" tvg-logo="" group-title="NETFLIX",JYAADUGAR (2022)
 https://assets-1.mypowerdisk.com/transcode_video/03b3b6e5f4046e78f46e27ac2fb730a3/dash/fb9262eef55b92814cb34bd63d5b8d11.mpd
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KEEP BREATHING (2022)" tvg-logo="" group-title="NETFLIX",KEEP BREATHING (2022)
 https://assets-1.entertainvideo.com/assets/media/1a6f4431d4605cb8c1536169bfdf1c00/dash/bc15136a424427a2e1b734b108e154db.mpd
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="INDIAN PIDETAR (2022)_EP 1" tvg-logo="" group-title="NETFLIX",INDIAN PIDETAR (2022)_EP 1
 https://assets-1.mypowerdisk.com/transcode_video/550bc92b59eda7f34eb00aac77b8ff46/dash/f495fed85485fbeeae559351b5cf7478.mpd
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="THE INDIAN PIDETAR EP 2" tvg-logo="" group-title="NETFLIX",THE INDIAN PIDETAR EP 2
 https://assets-1.mypowerdisk.com/transcode_video/c77104068a47ee82bc83cd28b9398ce0/dash/268937058909183d917494394f6ae9ec.mpd
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="THE INDIAN PIDETAR EP 3" tvg-logo="" group-title="NETFLIX",THE INDIAN PIDETAR EP 3
 https://assets-1.mypowerdisk.com/transcode_video/b8ad81bb74cdecb559885c2f5e37c028/h265_1080/dash/h265_1080/3fcae140bf7b24deac4bc898cc7de9ef.mpd
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Anntee Sundar (2022) South Indian Hindi" tvg-logo="" group-title="NETFLIX",Anntee Sundar (2022) South Indian Hindi
 https://assets-1.mypowerdisk.com/transcode_video/3770bea3d09deb07c33318a26d1e7724/dash/112204dcb9a0c95b1f40612fb64a9bd5.mpd
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dhakad (2022)" tvg-logo="" group-title="NETFLIX",Dhakad (2022)
 https://assets-1.entertainvideo.com/assets/media/b799f055a77f4724bcb8e45b4ac767b9/dash/3e8f33e5290aeefb820dbd922af4f132.mpd
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ghost Stories" tvg-logo="" group-title="NETFLIX",Ghost Stories
 https://assets-1.entertainvideo.com/assets/media/d537ef13e8a045383b1e480fea0b2b62/dash/d537ef13e8a045383b1e480fea0b2b62.mpd
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Last Royal Treasure" tvg-logo="" group-title="NETFLIX",The Last Royal Treasure
 https://assets-1.entertainvideo.com/assets/media/ba2c0ee5b845b7d2d21c9c7d58b76ba7/dash/89cdfab59f8f3db103b103297c8adcdc.mpd
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Love Tactics" tvg-logo="" group-title="NETFLIX",Love Tactics
 https://assets-1.entertainvideo.com/assets/media/22f70c36c26199c4cc3182673dc7c071/dash/f4207af2aae55203cc60a7fd82e84fca.mpd
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ranveer Sing 🆚 Bear Grylls Hindi & English (2022) Part" tvg-logo="" group-title="NETFLIX",Ranveer Sing 🆚 Bear Grylls Hindi & English (2022) Part
 https://assets-1.entertainvideo.com/assets/media/5dba061b667b2ef064dc23304730fe47/dash/48c4e012ebe62109995a4261ebcbb5ad.mpd
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sex Education English & Hindi _Episode 1" tvg-logo="" group-title="NETFLIX",Sex Education English & Hindi _Episode 1
@@ -3333,72 +3642,106 @@ http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76760
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76761
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| COLORS GUJARATI HD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| COLORS GUJARATI HD VIP
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76762
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| STAR GOLD FHD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| STAR GOLD FHD VIP
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76763
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| SONY SAB FHD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| SONY SAB FHD VIP
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76764
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| CEPLEX HD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| CEPLEX HD VIP
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76765
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| COLORS BANGLA HD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| COLORS BANGLA HD VIP
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76766
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| COLORS HD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| COLORS HD VIP
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76767
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| COLORS MARATHI HD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| COLORS MARATHI HD VIP
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76768
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| STAR GOLD SELECT HD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| STAR GOLD SELECT HD VIP
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76769
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| STAR PLUS HD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| STAR PLUS HD VIP
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76770
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| STAR PRAVAH HD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| STAR PRAVAH HD VIP
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76771
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| STAR SPORTS 1 HD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| STAR SPORTS 1 HD VIP
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76772
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| STAR SPORTS 1 HDI HD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| STAR SPORTS 1 HDI HD VIP
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76773
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| STAR SPORTS 2 HD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| STAR SPORTS 2 HD VIP
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76774
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| STAR SPORTS SELECT 1 FHD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| STAR SPORTS SELECT 1 FHD VIP
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76775
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| STAR SPORTS SELECT 2 FHD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| STAR SPORTS SELECT 2 FHD VIP
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76776
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| MAA TV HD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| MAA TV HD VIP
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76777
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| JALSHA MOVIES HD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| JALSHA MOVIES HD VIP
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76778
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| GEMI TV HD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| GEMI TV HD VIP
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76779
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| ETV HD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| ETV HD VIP
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76780
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| D SPORTS VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| D SPORTS VIP
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76781
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| ASIANET HD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| ASIANET HD VIP
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76782
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| SONY TEN1 HD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| SONY TEN1 HD VIP
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76783
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| STAR JALSHA HD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| STAR JALSHA HD VIP
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76784
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| SUN MUSIC HD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| SUN MUSIC HD VIP
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76785
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| SUN TV HD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| SUN TV HD VIP
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76786
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| SURYA TV HD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| SURYA TV HD VIP
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76787
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| UDAYA TV HD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| UDAYA TV HD VIP
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76788
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| ZEE MARATHI HD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| ZEE MARATHI HD VIP
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76789
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| ZEE TALKIES HD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| ZEE TALKIES HD VIP
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76790
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| ITN TV LK VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| ITN TV LK VIP
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76791
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Sri TV LK VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Sri TV LK VIP
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76792
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| ETV ABHIRUCHI" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| ETV ABHIRUCHI
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76793
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| ETV Life" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| ETV Life
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76794
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| ABN ANDHRA J" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| ABN ANDHRA J
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76795
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Kids" tvg-logo="https://images.pluto.tv/channels/51c75f7bb6f26ba1cd00002f/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Kids
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=989&deviceId=51c75f7bb6f26ba1cd00002f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV News" tvg-logo="https://images.pluto.tv/channels/5268abcd0ce20a8472000114/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV News
@@ -3649,118 +3992,175 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b4d71754e6a4298
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=885&deviceId=5d93b635b43dd1a399b39eee&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Naruto" tvg-logo="https://images.pluto.tv/channels/5da0c85bd2c9c10009370984/colorLogoPNG.png" group-title="PLUTO TV",Naruto
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=836&deviceId=5da0c85bd2c9c10009370984&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vevo Country" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/colorLogoPNG.png" group-title="PLUTO TV",Vevo Country
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=892&deviceId=5da0d75e84830900098a1ea0&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vevo R&B" tvg-logo="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/colorLogoPNG.png" group-title="PLUTO TV",Vevo R&B
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=890&deviceId=5da0d83f66c9700009b96d0e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="pocket.watch" tvg-logo="https://images.pluto.tv/channels/5dae0a40e8ee0d000975e99b/colorLogoPNG.png" group-title="PLUTO TV",pocket.watch
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dae0a40e8ee0d000975e99b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=993&deviceId=5dae0a40e8ee0d000975e99b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Kids Animation" tvg-logo="https://images.pluto.tv/channels/5db0ad56edc89300090d2ebb/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Kids Animation
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=976&deviceId=5db0ad56edc89300090d2ebb&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Tween" tvg-logo="https://images.pluto.tv/channels/5db0ae5af8797b00095c0794/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Tween
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ae5af8797b00095c0794/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=991&deviceId=5db0ae5af8797b00095c0794&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Action Sports" tvg-logo="https://images.pluto.tv/channels/5db867744f229f0009266784/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Action Sports
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db867744f229f0009266784/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=759&deviceId=5db867744f229f0009266784&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ET Live" tvg-logo="https://images.pluto.tv/channels/5dc0c78281eddb0009a02d5e/colorLogoPNG.png" group-title="PLUTO TV",ET Live
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc0c78281eddb0009a02d5e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=190&deviceId=5dc0c78281eddb0009a02d5e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lively Place" tvg-logo="https://images.pluto.tv/channels/5dc1cb279c91420009db261d/colorLogoPNG.png" group-title="PLUTO TV",Lively Place
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc1cb279c91420009db261d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=615&deviceId=5dc1cb279c91420009db261d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBSN Los Angeles" tvg-logo="https://images.pluto.tv/channels/5dc481cda1d430000948a1b4/colorLogoPNG.png" group-title="PLUTO TV",CBSN Los Angeles
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc481cda1d430000948a1b4/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=1026&deviceId=5dc481cda1d430000948a1b4&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PGA TOUR" tvg-logo="https://images.pluto.tv/channels/5de94dacb394a300099fa22a/colorLogoPNG.png" group-title="PLUTO TV",PGA TOUR
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=713&deviceId=5de94dacb394a300099fa22a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN SPORTS XTRA" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="PLUTO TV",beIN SPORTS XTRA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC News NOW" tvg-logo="https://images.pluto.tv/channels/5df97894467dfa00091c873c/colorLogoPNG.png" group-title="PLUTO TV",NBC News NOW
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=213&deviceId=5df97894467dfa00091c873c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="America's Voice News" tvg-logo="https://images.pluto.tv/channels/5e1f7da4bc7d740009831259/colorLogoPNG.png" group-title="PLUTO TV",America's Voice News
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e1f7da4bc7d740009831259/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=240&deviceId=5e1f7da4bc7d740009831259&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COPS" tvg-logo="https://images.pluto.tv/channels/5e1f7e089f23700009d66303/colorLogoPNG.png" group-title="PLUTO TV",COPS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e1f7e089f23700009d66303/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=367&deviceId=5e1f7e089f23700009d66303&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Blaze Live" tvg-logo="https://images.pluto.tv/channels/5e46fba0c43b0d00096e5ac1/colorLogoPNG.png" group-title="PLUTO TV",Blaze Live
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46fba0c43b0d00096e5ac1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=238&deviceId=5e46fba0c43b0d00096e5ac1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="People Are Awesome" tvg-logo="https://images.pluto.tv/channels/5e54169f4b9b25000994a303/colorLogoPNG.png" group-title="PLUTO TV",People Are Awesome
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e54169f4b9b25000994a303/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=340&deviceId=5e54169f4b9b25000994a303&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Game Show Central" tvg-logo="https://images.pluto.tv/channels/5e54187aae660e00093561d6/colorLogoPNG.png" group-title="PLUTO TV",Game Show Central
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e54187aae660e00093561d6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=167&deviceId=5e54187aae660e00093561d6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nuestra Vision" tvg-logo="https://images.pluto.tv/channels/5e6690befbdf780007f78158/colorLogoPNG.png" group-title="PLUTO TV",Nuestra Vision
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6690befbdf780007f78158/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=920&deviceId=5e6690befbdf780007f78158&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Johnny Carson TV" tvg-logo="https://images.pluto.tv/channels/5e66928133461100077dfd73/colorLogoPNG.png" group-title="PLUTO TV",Johnny Carson TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e66928133461100077dfd73/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=514&deviceId=5e66928133461100077dfd73&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OAN Encore" tvg-logo="https://images.pluto.tv/channels/5e7cf6c7b156d500078c5f44/colorLogoPNG.png" group-title="PLUTO TV",OAN Encore
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e7cf6c7b156d500078c5f44/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=242&deviceId=5e7cf6c7b156d500078c5f44&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="All Reality by WE tv" tvg-logo="https://images.pluto.tv/channels/5e82530945600e0007ca076c/colorLogoPNG.png" group-title="PLUTO TV",All Reality by WE tv
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82530945600e0007ca076c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=310&deviceId=5e82530945600e0007ca076c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stories by AMC" tvg-logo="https://images.pluto.tv/channels/5e8254118601b80007b4b7ae/colorLogoPNG.png" group-title="PLUTO TV",Stories by AMC
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=135&deviceId=5e8254118601b80007b4b7ae&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Rifleman" tvg-logo="https://images.pluto.tv/channels/5e825550e758c700077b0aef/colorLogoPNG.png" group-title="PLUTO TV",The Rifleman
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e825550e758c700077b0aef/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=529&deviceId=5e825550e758c700077b0aef&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Walking Dead ESP" tvg-logo="https://images.pluto.tv/channels/5e82bb378601b80007b4bd78/colorLogoPNG.png" group-title="PLUTO TV",The Walking Dead ESP
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=925&deviceId=5e82bb378601b80007b4bd78&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Novelas Romance" tvg-logo="https://images.pluto.tv/channels/5e84db2db3851800077c871e/colorLogoPNG.png" group-title="PLUTO TV",Novelas Romance
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84db2db3851800077c871e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=941&deviceId=5e84db2db3851800077c871e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Novelas Drama" tvg-logo="https://images.pluto.tv/channels/5e84dbf4a838b60007ffbba1/colorLogoPNG.png" group-title="PLUTO TV",Novelas Drama
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=942&deviceId=5e84dbf4a838b60007ffbba1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Novelas Thriller" tvg-logo="https://images.pluto.tv/channels/5e84dc59026b9b000766f9a2/colorLogoPNG.png" group-title="PLUTO TV",Novelas Thriller
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dc59026b9b000766f9a2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=943&deviceId=5e84dc59026b9b000766f9a2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="America's Test Kitchen" tvg-logo="https://images.pluto.tv/channels/5e84f54a82f05300080e6746/colorLogoPNG.png" group-title="PLUTO TV",America's Test Kitchen
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84f54a82f05300080e6746/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=605&deviceId=5e84f54a82f05300080e6746&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Western TV" tvg-logo="https://images.pluto.tv/channels/5e8df4bc16e34700077e77d3/colorLogoPNG.png" group-title="PLUTO TV",Western TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8df4bc16e34700077e77d3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=526&deviceId=5e8df4bc16e34700077e77d3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Forensic Files en ESP" tvg-logo="https://images.pluto.tv/channels/5e94cd036cc69d0007e8a1ba/colorLogoPNG.png" group-title="PLUTO TV",Forensic Files en ESP
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e94cd036cc69d0007e8a1ba/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=933&deviceId=5e94cd036cc69d0007e8a1ba&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Deal or No Deal" tvg-logo="https://images.pluto.tv/channels/5e9debf8c881310007d7bde1/colorLogoPNG.png" group-title="PLUTO TV",Deal or No Deal
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e9debf8c881310007d7bde1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=165&deviceId=5e9debf8c881310007d7bde1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Judge Nosey" tvg-logo="https://images.pluto.tv/channels/5e9decb953e157000752321c/colorLogoPNG.png" group-title="PLUTO TV",Judge Nosey
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e9decb953e157000752321c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=160&deviceId=5e9decb953e157000752321c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Sports HQ" tvg-logo="https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG.png" group-title="PLUTO TV",CBS Sports HQ
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=702&deviceId=5e9f2c05172a0f0007db4786&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBSN Chicago" tvg-logo="https://images.pluto.tv/channels/5eb1aeb2fd4b8a00076c2047/colorLogoPNG.png" group-title="PLUTO TV",CBSN Chicago
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb1aeb2fd4b8a00076c2047/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=1023&deviceId=5eb1aeb2fd4b8a00076c2047&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBSN Boston" tvg-logo="https://images.pluto.tv/channels/5eb1af2ad345340008fccd1e/colorLogoPNG.png" group-title="PLUTO TV",CBSN Boston
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb1af2ad345340008fccd1e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=1022&deviceId=5eb1af2ad345340008fccd1e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBSN Bay Area" tvg-logo="https://images.pluto.tv/channels/5eb1afb21486df0007abc57c/colorLogoPNG.png" group-title="PLUTO TV",CBSN Bay Area
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb1afb21486df0007abc57c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=1021&deviceId=5eb1afb21486df0007abc57c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBSN Philly" tvg-logo="https://images.pluto.tv/channels/5eb1b05ea168cc000767ba67/colorLogoPNG.png" group-title="PLUTO TV",CBSN Philly
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb1b05ea168cc000767ba67/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=1030&deviceId=5eb1b05ea168cc000767ba67&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBSN Minnesota" tvg-logo="https://images.pluto.tv/channels/5eb1b0bf2240d8000732a09c/colorLogoPNG.png" group-title="PLUTO TV",CBSN Minnesota
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb1b0bf2240d8000732a09c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=1028&deviceId=5eb1b0bf2240d8000732a09c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBSN Denver" tvg-logo="https://images.pluto.tv/channels/5eb1b12146cba40007aa7e5d/colorLogoPNG.png" group-title="PLUTO TV",CBSN Denver
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb1b12146cba40007aa7e5d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=1025&deviceId=5eb1b12146cba40007aa7e5d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Little Baby Bum" tvg-logo="https://images.pluto.tv/channels/5eb301b7395671000780d100/colorLogoPNG.png" group-title="PLUTO TV",Little Baby Bum
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb301b7395671000780d100/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=995&deviceId=5eb301b7395671000780d100&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bellator MMA" tvg-logo="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" group-title="PLUTO TV",Bellator MMA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=730&deviceId=5ebc8688f3697d00072f7cf8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBSN Dallas" tvg-logo="https://images.pluto.tv/channels/5eceb0d4065c240007688ec6/colorLogoPNG.png" group-title="PLUTO TV",CBSN Dallas
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eceb0d4065c240007688ec6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=1024&deviceId=5eceb0d4065c240007688ec6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dabl" tvg-logo="https://images.pluto.tv/channels/5ef0fbed39ff730007383a69/colorLogoPNG.png" group-title="PLUTO TV",Dabl
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ef0fbed39ff730007383a69/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=614&deviceId=5ef0fbed39ff730007383a69&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dark Shadows" tvg-logo="https://images.pluto.tv/channels/5ef3958c66ac540007d6e6a7/colorLogoPNG.png" group-title="PLUTO TV",Dark Shadows
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ef3958c66ac540007d6e6a7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=535&deviceId=5ef3958c66ac540007d6e6a7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Carol Burnett Show" tvg-logo="https://images.pluto.tv/channels/5ef396d1be50a3000722808b/colorLogoPNG.png" group-title="PLUTO TV",The Carol Burnett Show
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ef396d1be50a3000722808b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=516&deviceId=5ef396d1be50a3000722808b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Three's Company" tvg-logo="https://images.pluto.tv/channels/5ef3977e5d773400077de284/colorLogoPNG.png" group-title="PLUTO TV",Three's Company
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ef3977e5d773400077de284/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=508&deviceId=5ef3977e5d773400077de284&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CSI" tvg-logo="https://images.pluto.tv/channels/5efbd29e4aa26700076c0d06/colorLogoPNG.png" group-title="PLUTO TV",CSI
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efbd29e4aa26700076c0d06/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=355&deviceId=5efbd29e4aa26700076c0d06&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Trek" tvg-logo="https://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/colorLogoPNG.png" group-title="PLUTO TV",Star Trek
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=150&deviceId=5efbd39f8c4ce900075d7698&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Demand Africa" tvg-logo="https://images.pluto.tv/channels/5f061242a7951e00075d7413/colorLogoPNG.png" group-title="PLUTO TV",Demand Africa
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f061242a7951e00075d7413/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=172&deviceId=5f061242a7951e00075d7413&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Love Stories" tvg-logo="https://images.pluto.tv/channels/5f15e181520cfa000771ce79/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Love Stories
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f15e181520cfa000771ce79/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=147&deviceId=5f15e181520cfa000771ce79&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Suspense" tvg-logo="https://images.pluto.tv/channels/5f15e281b0b8840007324b55/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Suspense
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f15e281b0b8840007324b55/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=149&deviceId=5f15e281b0b8840007324b55&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Classic TV Comedy" tvg-logo="https://images.pluto.tv/channels/5f15e32b297f96000768f928/colorLogoPNG.png" group-title="PLUTO TV",Classic TV Comedy
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f15e32b297f96000768f928/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=501&deviceId=5f15e32b297f96000768f928&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Classic TV Drama" tvg-logo="https://images.pluto.tv/channels/5f15e3cccf49290007053c67/colorLogoPNG.png" group-title="PLUTO TV",Classic TV Drama
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f15e3cccf49290007053c67/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=520&deviceId=5f15e3cccf49290007053c67&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Black News Channel" tvg-logo="https://images.pluto.tv/channels/5f1efad04320070007dbb60b/colorLogoPNG.png" group-title="PLUTO TV",Black News Channel
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1efad04320070007dbb60b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=230&deviceId=5f1efad04320070007dbb60b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Survivor" tvg-logo="https://images.pluto.tv/channels/5f21e7b24744c60007c1f6fc/colorLogoPNG.png" group-title="PLUTO TV",Survivor
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f21e7b24744c60007c1f6fc/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=296&deviceId=5f21e7b24744c60007c1f6fc&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rescue 911" tvg-logo="https://images.pluto.tv/channels/5f21e831e9fe730007706acb/colorLogoPNG.png" group-title="PLUTO TV",Rescue 911
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f21e831e9fe730007706acb/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=277&deviceId=5f21e831e9fe730007706acb&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Amazing Race" tvg-logo="https://images.pluto.tv/channels/5f21e8a6e2f12b000755afdb/colorLogoPNG.png" group-title="PLUTO TV",The Amazing Race
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f21e8a6e2f12b000755afdb/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=297&deviceId=5f21e8a6e2f12b000755afdb&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
@@ -3825,7 +4225,7 @@ https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3
 https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY TEN 3 HD" tvg-logo="" group-title="SPORTS MIX JUL 2022",SONY TEN 3 HD
-https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+h 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR BHARAT HD" tvg-logo="" group-title="STAR CHANNELS",STAR BHARAT HD
 http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
