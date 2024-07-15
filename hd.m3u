@@ -1,6 +1,62 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS BANGLA" tvg-logo="" group-title="VIDOCON DTH INDIA 🇮🇳",COLORS BANGLA
+http://208.86.19.13:81/904.stream/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="E24" tvg-logo="" group-title="VIDOCON DTH INDIA 🇮🇳",E24
+http://208.86.19.13:81/719.stream/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTC CHALDE" tvg-logo="" group-title="VIDOCON DTH INDIA 🇮🇳",PTC CHALDE
+http://208.86.19.13:81/704.stream/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR GOLD HD" tvg-logo="" group-title="VIDOCON DTH INDIA 🇮🇳",STAR GOLD HD
+http://208.86.19.13:81/717.stream/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS HD 1" tvg-logo="" group-title="VIDOCON DTH INDIA 🇮🇳",STAR SPORTS HD 1
+http://208.86.19.13:81/710.stream/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS 2 HD" tvg-logo="" group-title="VIDOCON DTH INDIA 🇮🇳",STAR SPORTS 2 HD
+http://208.86.19.13:81/715.stream/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUN BANGLA" tvg-logo="" group-title="VIDOCON DTH INDIA 🇮🇳",SUN BANGLA
+http://208.86.19.13:81/903.stream/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A SPORTS HD" tvg-logo="" group-title="VIDOCON DTH INDIA 🇮🇳",A SPORTS HD
+http://208.86.19.13:81/602.stream/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS HD" tvg-logo="" group-title="VIDOCON DTH INDIA 🇮🇳",COLORS HD
+http://208.86.19.13:81/605.stream/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEO SUPER" tvg-logo="" group-title="VIDOCON DTH INDIA 🇮🇳",GEO SUPER
+http://208.86.19.13:81/725.stream/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KD NEWS" tvg-logo="" group-title="VIDOCON DTH INDIA 🇮🇳",KD NEWS
+http://208.86.19.13:81/720.stream/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC INDIA" tvg-logo="" group-title="VIDOCON DTH INDIA 🇮🇳",MUSIC INDIA
+http://208.86.19.13:81/733.stream/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="REPUBLIC TV" tvg-logo="" group-title="VIDOCON DTH INDIA 🇮🇳",REPUBLIC TV
+http://208.86.19.13:81/727.stream/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY SAB HD" tvg-logo="" group-title="VIDOCON DTH INDIA 🇮🇳",SONY SAB HD
+http://208.86.19.13:81/702.stream/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTV HD" tvg-logo="" group-title="VIDOCON DTH INDIA 🇮🇳",UTV HD
+http://208.86.19.13:81/723.stream/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE ACTION" tvg-logo="" group-title="VIDOCON DTH INDIA 🇮🇳",ZEE ACTION
+http://208.86.19.13:81/728.stream/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE ANMOL CINEMA" tvg-logo="" group-title="VIDOCON DTH INDIA 🇮🇳",ZEE ANMOL CINEMA
+http://208.86.19.13:81/722.stream/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE BOLLYWOOD" tvg-logo="" group-title="VIDOCON DTH INDIA 🇮🇳",ZEE BOLLYWOOD
+http://208.86.19.13:81/701.stream/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE BANGLA" tvg-logo="" group-title="VIDOCON DTH INDIA 🇮🇳",ZEE BANGLA
+http://208.86.19.13:81/708.stream/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE CLASSIC" tvg-logo="" group-title="VIDOCON DTH INDIA 🇮🇳",ZEE CLASSIC
+http://208.86.19.13:81/730.stream/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE TV HD HD" tvg-logo="" group-title="VIDOCON DTH INDIA 🇮🇳",ZEE TV HD HD
+http://208.86.19.13:81/606.stream/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="দেশি টিভি" tvg-logo="http://127.0.0.1/" group-title="INDIAN MIX",দেশি টিভি
+http://208.86.19.13:81/514.stream/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SATV" tvg-logo="http://127.0.0.1/" group-title="INDIAN MIX",SATV
+http://208.86.19.13:81/613.stream/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel 9 HD" tvg-logo="https://i.imgur.com/fj8nxOw.png" group-title="INDIAN MIX",Channel 9 HD
+http://208.86.19.13:81/608.stream/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten" tvg-logo="http://127.0.0.1/" group-title="INDIAN MIX",Sony Ten
+http://208.86.19.13:81/714.stream/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thrill (576p)" tvg-logo="http://127.0.0.1/" group-title="INDIAN MIX",Thrill (576p)
+http://210.210.155.37/qwr9ew/s/s34/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peace TV ENG" tvg-logo="http://127.0.0.1/" group-title="INDIAN MIX",Peace TV ENG
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wild HD" tvg-logo="http://127.0.0.1/" group-title="INDIAN MIX",Wild HD
+http://iptv.prosto.tv:7000/ch83/video.m3u8
 
-<<<-Sports Channel->>>
+
 
 #EXTINF:-1,Star Sports Hindi HD
 http://103.131.214.129:9985/stream/channel/2266ac37e1b72080a0d27bb2fa731f3a?ticket=D72B589C2B9F82361BDB404F4CB4AACE27BFA108
@@ -21,14 +77,12 @@ http://103.131.214.129:9985/stream/channel/a287770989ae9e3f5af099180fa547c5?tick
 #EXTINF:-1,68 : Ten Sports HD
 http://103.131.214.129:9985/stream/channel/5c40cd3d24c91c8521bb66aad9a2beae?ticket=D43086BDDE97428A28D1DFC6DC6E15C7985D092F
 
-<<<-Indian Channel->>>
-
 #EXTINF:-1,167 : Colors HD
 http://103.131.214.129:9985/stream/channel/6e029ca20defbdb91861e01260602974?ticket=43D88AE9065507A66E09954271D65BDB3E9D28D5
 #EXTINF:-1,130 : Colors Infinity HD
 http://103.131.214.129:9985/stream/channel/03adc31300e7e0c4a88ded71ac262343?ticket=5DC45A4CD01A5C8EE9178B20BB1BCD2F58A7094B
 #EXTINF:-1,SonyTv
-http://103.131.214.129:9985/play/stream/channel/2ebdea93f887ba719c82200225850a7b?title=Jubilee%20Talkies%20-%20Shohrat.Shiddat.Mohabbat
+http://103.131.214.129:9985/play/stream/channel/2ebdea93f887ba719c82200225850a7b
 #EXTINF:-1,171 : SONY SAB HD
 http://103.131.214.129:9985/stream/channel/0778cb6e671de2bf5af2efe902a94c8e?ticket=403E09B4D79AB4105DD073510F94E46E11D73503
 #EXTINF:-1,StarPlus HD
@@ -60,8 +114,6 @@ http://103.131.214.129:9985/stream/channel/8e217e309237aa7ee9a25e8dd9dadbc4?tick
 #EXTINF:-1,Colors Rishtey
 http://103.131.214.129:9985/stream/channel/c2dd0f61380084ef07e9a7334e454d0d?ticket=0EEDC31BBBA329D44FE1DBA65AE2ADB1DFD02F8C
 
-<<<-Discovery->>>
-
 #EXTINF:-1,104 : History TV18 HD
 http://103.131.214.129:9985/stream/channel/b77d84d8e8d0e9085fddaa19eadcff19?ticket=72DB1918C6E3537572FF4F8B6B8F889DAED0ACE3
 #EXTINF:-1,107 : NATIONAL GEOGRAPHIC HD
@@ -74,9 +126,6 @@ http://103.131.214.129:9985/stream/channel/77f8c4fdc5d22821d4e0d39e6474eae0?tick
 http://103.131.214.129:9985/play/stream/channel/5616fe6cda28a87b489b363f2b6d7381?title=101%20%3A%20Discovery%20HD
 #EXTINF:-1,106 : SONY BBC EARTH HD
 http://103.131.214.129:9985/stream/channel/e0d1e88ecc49f962eb14fd29009b9754?ticket=DEE9F2BE75A6E87D3461DA525863EDEE29ECB03D
-
-
-<<<-News Channel->>>
 
 #EXTINF:-1,10 : Geo News
 http://103.131.214.129:9985/stream/channel/74854efdfa69d579c32f864bfd0c22c1?ticket=F993E0E7ECE72A3ADC9E76193B91A741011CDE4C
@@ -95,8 +144,6 @@ http://103.131.214.129:9985/stream/channel/40e66e448813838b994e3c15f2bd9802?tick
 #EXTINF:-1,36 : Al Jazeera English HD
 http://103.131.214.129:9985/stream/channel/8962144a1bad3459e8e67d7fef8c3f8e?ticket=45D029DF61E58703DE9AE156428155CD50512A73
 
-<<<-Drama Channel->>>
-
 #EXTINF:-1,41 : Geo HD
 http://103.131.214.129:9985/stream/channel/657b4e7a8aba7c6936b8e6a3fcdd6733?ticket=6AF08036BF2CE87501CDFDD32A129E7C5AE6BBAD
 #EXTINF:-1,43 : Hum HD
@@ -107,4 +154,3 @@ http://103.131.214.129:9985/stream/channel/f2c12629de80255a081666fa1c7714a5?tick
 http://103.131.214.129:9985/stream/channel/aa6da6db3854444e18977d46a262c7f0?ticket=570A6A57990A3518F5310B720F12EA4D8EFFDA59
 #EXTINF:-1,48 : Green Ent - HD
 http://103.131.214.129:9985/stream/channel/be368df8e84457a05d2c21c1c695d527?ticket=CA078A809895FEA4134C16B023E0EB287459FEDE
-
