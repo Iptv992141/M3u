@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:-1, PTV Home (238p)
+http://125.209.88.166:45793/BRN/PtvHome.stream/playlist.m3u8
+#EXTINF:-1, PTV News
+http://125.209.88.166:45793/BRN/PTVNews.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS BANGLA" tvg-logo="" group-title="VIDOCON DTH INDIA 🇮🇳",COLORS BANGLA
 http://208.86.19.13:81/904.stream/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="E24" tvg-logo="" group-title="VIDOCON DTH INDIA 🇮🇳",E24
