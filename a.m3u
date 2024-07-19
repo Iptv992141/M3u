@@ -1,12 +1,16 @@
 #EXTM3U
 #EXTINF:-1,Geo News
-http://103.131.214.129:9985/play/stream/channel/74854efdfa69d579c32f864bfd0c22c1
-#EXTINF:-1,SAMAA
-http://103.131.214.129:9985/play/stream/channel/8a0b301ee4447a7262c249c53424021f
+http://125.209.88.166:45793/BRN/GeoNews.stream/playlist.m3u8
+#EXTINF:-1,Sama News
+http://125.209.88.166:45793/BRN/Sama.stream/playlist.m3u8
 #EXTINF:-1, PTV Home
 http://125.209.88.166:45793/BRN/PtvHome.stream/playlist.m3u8
 #EXTINF:-1, PTV News
 http://125.209.88.166:45793/BRN/PTVNews.stream/playlist.m3u8
+#EXTINF:-1,Geo News
+http://103.131.214.129:9985/play/stream/channel/74854efdfa69d579c32f864bfd0c22c1
+#EXTINF:-1,SAMAA
+http://103.131.214.129:9985/play/stream/channel/8a0b301ee4447a7262c249c53424021f
 #EXTINF:-1,EXP NEWS
 http://103.131.214.129:9985/play/stream/channel/4e8f5c082fbe668f34483888a93c599c
 #EXTINF:-1,Dunya News HD
