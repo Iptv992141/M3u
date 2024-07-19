@@ -1,26 +1,12 @@
 #EXTM3U
-#EXTINF:-1,Peace TV Urdu HD
-http://103.131.214.129:9985/play/stream/channel/c94262deffcc0d24be7c572f526139c4
-#EXTINF:-1,Peace TV English HD
-http://103.131.214.129:9985/play/stream/channel/51a253e031a982a166a97837e1b5cef1
-#EXTINF:-1,PAIGHAM TV
-http://103.131.214.129:9985/play/stream/channel/9dd4874f15c234c832c4e7a89ec44dae
-#EXTINF:-1,ARY QTV
-http://103.131.214.129:9985/play/stream/channel/432af9ab4e9cb1e232bd8d8150d6bc43
-#EXTINF:-1,MADANI TV
-http://103.131.214.129:9985/play/stream/channel/f8bb8238cf68cee7485e82db420208b8
-#EXTINF:-1,Saudi Quran HD
-http://103.131.214.129:9985/play/stream/channel/1943e6d9a8be60d6fa8f771c7ba6fd69
-#EXTINF:-1,Saudi Sunnah HD
-http://103.131.214.129:9985/play/stream/channel/8e701eb10b09256edaf6ac555fa210bd
-#EXTINF:-1,Ahlebait TV
-http://103.131.214.129:9985/play/stream/channel/b7537bc3f742e0f8bf77eb3c21a32d3b
-#EXTINF:-1,PTV NEWS HD
-http://103.131.214.129:9985/play/stream/channel/51eb7c551bdb3f3eb4d0deaeb1273fcc
 #EXTINF:-1,Geo News
 http://103.131.214.129:9985/play/stream/channel/74854efdfa69d579c32f864bfd0c22c1
 #EXTINF:-1,SAMAA
 http://103.131.214.129:9985/play/stream/channel/8a0b301ee4447a7262c249c53424021f
+#EXTINF:-1, PTV Home
+http://125.209.88.166:45793/BRN/PtvHome.stream/playlist.m3u8
+#EXTINF:-1, PTV News
+http://125.209.88.166:45793/BRN/PTVNews.stream/playlist.m3u8
 #EXTINF:-1,EXP NEWS
 http://103.131.214.129:9985/play/stream/channel/4e8f5c082fbe668f34483888a93c599c
 #EXTINF:-1,Dunya News HD
@@ -61,6 +47,26 @@ http://103.131.214.129:9985/play/stream/channel/2d441520b1e88ff45857ab28fea47651
 http://103.131.214.129:9985/play/stream/channel/c32f62b85eec09ed60cd06401be835b0
 #EXTINF:-1,Khyber News
 http://103.131.214.129:9985/play/stream/channel/1f374de325b5d445c49540418cce43bd
+#EXTINF:-1,Peace TV Urdu HD
+http://103.131.214.129:9985/play/stream/channel/c94262deffcc0d24be7c572f526139c4
+#EXTINF:-1,Peace TV English HD
+http://103.131.214.129:9985/play/stream/channel/51a253e031a982a166a97837e1b5cef1
+#EXTINF:-1,PAIGHAM TV
+http://103.131.214.129:9985/play/stream/channel/9dd4874f15c234c832c4e7a89ec44dae
+#EXTINF:-1,ARY QTV
+http://103.131.214.129:9985/play/stream/channel/432af9ab4e9cb1e232bd8d8150d6bc43
+#EXTINF:-1,MADANI TV
+http://103.131.214.129:9985/play/stream/channel/f8bb8238cf68cee7485e82db420208b8
+#EXTINF:-1,Saudi Quran HD
+http://103.131.214.129:9985/play/stream/channel/1943e6d9a8be60d6fa8f771c7ba6fd69
+#EXTINF:-1,Saudi Sunnah HD
+http://103.131.214.129:9985/play/stream/channel/8e701eb10b09256edaf6ac555fa210bd
+#EXTINF:-1,Ahlebait TV
+http://103.131.214.129:9985/play/stream/channel/b7537bc3f742e0f8bf77eb3c21a32d3b
+#EXTINF:-1,PTV NEWS HD
+http://103.131.214.129:9985/play/stream/channel/51eb7c551bdb3f3eb4d0deaeb1273fcc
+
+
 #EXTINF:-1,Kohenoor
 http://103.131.214.129:9985/play/stream/channel/f340f7e56620ed55858e96474ee75b15
 #EXTINF:-1,ROHI TV
