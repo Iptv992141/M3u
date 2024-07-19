@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,
+http://125.209.88.166:45793/BRN/beINSP13.stream/playlist.m3u8
 #EXTINF:-1,Geo News
 http://125.209.88.166:45793/BRN/GeoNews.stream/playlist.m3u8
 #EXTINF:-1,Ary News
