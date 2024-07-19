@@ -65,8 +65,6 @@ http://103.131.214.129:9985/play/stream/channel/8e701eb10b09256edaf6ac555fa210bd
 http://103.131.214.129:9985/play/stream/channel/b7537bc3f742e0f8bf77eb3c21a32d3b
 #EXTINF:-1,PTV NEWS HD
 http://103.131.214.129:9985/play/stream/channel/51eb7c551bdb3f3eb4d0deaeb1273fcc
-
-
 #EXTINF:-1,Kohenoor
 http://103.131.214.129:9985/play/stream/channel/f340f7e56620ed55858e96474ee75b15
 #EXTINF:-1,ROHI TV
@@ -388,6 +386,6 @@ http://103.131.214.129:9985/play/stream/channel/a13a4d32bc895a996c4eb92a7541b4bb
 #EXTINF:-1,Historic Drama Seasons
 http://103.131.214.129:9985/play/stream/channel/3132afa1cc8a1aefd55b3bbfc5ad22c4
 #EXTINF:-1,Shaheen Comedy
-http://103.131.214.129:9985/play/stream/channel/09aedd180932dfed30cf417825159457?title=205%20%3A%20Shaheen%20Comedy
+http://103.131.214.129:9985/play/stream/channel/09aedd180932dfed30cf417825159457
 #EXTINF:-1,Shaheen Action
-http://103.131.214.129:9985/play/stream/channel/5bd1de589597e6e63ddcd879c63a659b?title=206%20%3A%20Shaheen%20Action
+http://103.131.214.129:9985/play/stream/channel/5bd1de589597e6e63ddcd879c63a659b
