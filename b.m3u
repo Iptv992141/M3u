@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| HOTSTAR HD" tvg-logo="http://logo.protv.cc/picons/logos/ASIA/HOTSTAR.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| HOTSTAR HD
 https://tgaadi-web.tech/portal.php?tv=636448
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| ZEE5 HD" tvg-logo="http://logo.protv.cc/picons/logos/ASIA/ZEE5.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| ZEE5 HD
@@ -11,6 +12,7 @@ https://tgaadi-web.tech/portal.php?tv=1024830
 https://tgaadi-web.tech/portal.php?tv=1024828
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| CLASSIC" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/classic-1-logo-png-transparent.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| CLASSIC
 https://tgaadi-web.tech/portal.php?tv=1024827
+
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| BOLLYWOOD 1" tvg-logo="http://logo.protv.cc/picons/logos/047bollywood.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| BOLLYWOOD 1
 https://tgaadi-web.tech/portal.php?tv=1019880
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| BOLLYWOOD 2" tvg-logo="http://logo.protv.cc/picons/logos/047bollywood.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| BOLLYWOOD 2
@@ -29,6 +31,7 @@ https://tgaadi-web.tech/portal.php?tv=1019888
 https://tgaadi-web.tech/portal.php?tv=1019886
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| BOLLYWOOD 9" tvg-logo="http://logo.protv.cc/picons/logos/047bollywood.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| BOLLYWOOD 9
 https://tgaadi-web.tech/portal.php?tv=1019887
+
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| PUNJABI 1" tvg-logo="http://logo.protv.cc/picons/logos/DD-PUNJABI.jpeg" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| PUNJABI 1
 https://tgaadi-web.tech/portal.php?tv=1019900
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| PUNJABI 2" tvg-logo="http://logo.protv.cc/picons/logos/DD-PUNJABI.jpeg" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| PUNJABI 2
@@ -39,6 +42,7 @@ https://tgaadi-web.tech/portal.php?tv=1019902
 https://tgaadi-web.tech/portal.php?tv=1019904
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| PUNJABI 5" tvg-logo="http://logo.protv.cc/picons/logos/DD-PUNJABI.jpeg" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| PUNJABI 5
 https://tgaadi-web.tech/portal.php?tv=1019903
+
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| ALTBALAJI SERIES" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| ALTBALAJI SERIES
 https://tgaadi-web.tech/portal.php?tv=636197
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| AMAZON PRIME SERIES" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| AMAZON PRIME SERIES
@@ -65,6 +69,7 @@ https://tgaadi-web.tech/portal.php?tv=636186
 https://tgaadi-web.tech/portal.php?tv=636184
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| VOOT SERIES" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| VOOT SERIES
 https://tgaadi-web.tech/portal.php?tv=636185
+
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| HINDI CLASSIC ACTION" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| HINDI CLASSIC ACTION
 https://tgaadi-web.tech/portal.php?tv=636182
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| HINDI CLASSIC COMEDY" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| HINDI CLASSIC COMEDY
@@ -79,6 +84,7 @@ https://tgaadi-web.tech/portal.php?tv=636175
 https://tgaadi-web.tech/portal.php?tv=636174
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| HINDI CLASSIC DRAMA" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| HINDI CLASSIC DRAMA
 https://tgaadi-web.tech/portal.php?tv=636193
+
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| HINDI CRIME" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| HINDI CRIME
 https://tgaadi-web.tech/portal.php?tv=636173
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| HINDI FAMILY" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| HINDI FAMILY
@@ -95,6 +101,7 @@ https://tgaadi-web.tech/portal.php?tv=636165
 https://tgaadi-web.tech/portal.php?tv=636164
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| HINDI WAR" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| HINDI WAR
 https://tgaadi-web.tech/portal.php?tv=636162
+
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| SHAMAROO HINDI" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| SHAMAROO HINDI
 https://tgaadi-web.tech/portal.php?tv=636160
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| SHAMAROO HINDI 1" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| SHAMAROO HINDI 1
@@ -107,12 +114,14 @@ https://tgaadi-web.tech/portal.php?tv=636157
 https://tgaadi-web.tech/portal.php?tv=636156
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| SHAMAROO HINDI 5" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| SHAMAROO HINDI 5
 https://tgaadi-web.tech/portal.php?tv=636155
+
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| SOLO BLOCKBUSTER" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| SOLO BLOCKBUSTER
 https://tgaadi-web.tech/portal.php?tv=636154
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| SOLO HINDI MOVIES" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| SOLO HINDI MOVIES
 https://tgaadi-web.tech/portal.php?tv=636153
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| SOLO HINDI MOVIES 5" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| SOLO HINDI MOVIES 5
 https://tgaadi-web.tech/portal.php?tv=636148
+
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| ABHISHEK BACHCHAN" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| ABHISHEK BACHCHAN
 https://tgaadi-web.tech/portal.php?tv=636141
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| AKSHAYE KHANNA" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| AKSHAYE KHANNA
@@ -183,6 +192,7 @@ https://tgaadi-web.tech/portal.php?tv=636103
 https://tgaadi-web.tech/portal.php?tv=636102
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| KUMAR SANU" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| KUMAR SANU
 https://tgaadi-web.tech/portal.php?tv=636101
+
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| LATA MANGESHKAR" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| LATA MANGESHKAR
 https://tgaadi-web.tech/portal.php?tv=636100
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| LATA MANGESKHAR 1" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| LATA MANGESKHAR 1
@@ -191,6 +201,7 @@ https://tgaadi-web.tech/portal.php?tv=636099
 https://tgaadi-web.tech/portal.php?tv=636098
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| LATA MANGESKHAR 3" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| LATA MANGESKHAR 3
 https://tgaadi-web.tech/portal.php?tv=636097
+
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| MAHENDRA KAPOOR" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| MAHENDRA KAPOOR
 https://tgaadi-web.tech/portal.php?tv=636096
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| MOHIT CHOHAN" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| MOHIT CHOHAN
@@ -209,6 +220,7 @@ https://tgaadi-web.tech/portal.php?tv=636088
 https://tgaadi-web.tech/portal.php?tv=636086
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| UDIT NARAYAN" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| UDIT NARAYAN
 https://tgaadi-web.tech/portal.php?tv=636085
+
 #EXTINF:-1 tvg-id="" tvg-name="##### PAKISTAN PREMIUM #####" tvg-logo="http://logo.protv.cc/picons/logos/logos/PREMIUM.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",##### PAKISTAN PREMIUM #####
 https://tgaadi-web.tech/portal.php?tv=636413
 #EXTINF:-1 tvg-id="" tvg-name="PAK-PREM| AFSHAN" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",PAK-PREM| AFSHAN
@@ -231,6 +243,7 @@ https://tgaadi-web.tech/portal.php?tv=636383
 https://tgaadi-web.tech/portal.php?tv=636374
 #EXTINF:-1 tvg-id="" tvg-name="PAK-PREM| WARIS BAIG" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",PAK-PREM| WARIS BAIG
 https://tgaadi-web.tech/portal.php?tv=636365
+
 #EXTINF:-1 tvg-id="" tvg-name="##### PUNJABI PREMIUM #####" tvg-logo="http://logo.protv.cc/picons/logos/logos/PREMIUM.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",##### PUNJABI PREMIUM #####
 https://tgaadi-web.tech/portal.php?tv=636449
 #EXTINF:-1 tvg-id="" tvg-name="PB-PREM| PREMIUM MOVIES 1" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",PB-PREM| PREMIUM MOVIES 1
@@ -239,6 +252,7 @@ https://tgaadi-web.tech/portal.php?tv=636447
 https://tgaadi-web.tech/portal.php?tv=636446
 #EXTINF:-1 tvg-id="" tvg-name="PB-PREM| PREMIUM MOVIES 3" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",PB-PREM| PREMIUM MOVIES 3
 https://tgaadi-web.tech/portal.php?tv=636445
+
 #EXTINF:-1 tvg-id="" tvg-name="PB-PREM| PREMIUM CLASSIC MOVIES" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",PB-PREM| PREMIUM CLASSIC MOVIES
 https://tgaadi-web.tech/portal.php?tv=636443
 #EXTINF:-1 tvg-id="" tvg-name="PB-PREM| PREMIUM ACTORS 1" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",PB-PREM| PREMIUM ACTORS 1
@@ -249,6 +263,7 @@ https://tgaadi-web.tech/portal.php?tv=636441
 https://tgaadi-web.tech/portal.php?tv=636440
 #EXTINF:-1 tvg-id="" tvg-name="PB-PREM| PREMIUM ACTORS 4" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",PB-PREM| PREMIUM ACTORS 4
 https://tgaadi-web.tech/portal.php?tv=636439
+
 #EXTINF:-1 tvg-id="" tvg-name="PB-PREM| AMRINDER GILL" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",PB-PREM| AMRINDER GILL
 https://tgaadi-web.tech/portal.php?tv=636437
 #EXTINF:-1 tvg-id="" tvg-name="PB-PREM| AMRIT MAAN" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",PB-PREM| AMRIT MAAN
@@ -281,6 +296,7 @@ https://tgaadi-web.tech/portal.php?tv=636417
 https://tgaadi-web.tech/portal.php?tv=636416
 #EXTINF:-1 tvg-id="" tvg-name="PB-PREM| SIDHU MOOSE WALA" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",PB-PREM| SIDHU MOOSE WALA
 https://tgaadi-web.tech/portal.php?tv=636415
+
 #EXTINF:-1 tvg-id="" tvg-name="##### TAMIL PREMIUM #####" tvg-logo="http://logo.protv.cc/picons/logos/logos/PREMIUM.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",##### TAMIL PREMIUM #####
 https://tgaadi-web.tech/portal.php?tv=636363
 #EXTINF:-1 tvg-id="" tvg-name="TM-PREM| SOLO MOVIES 1" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",TM-PREM| SOLO MOVIES 1
@@ -297,6 +313,7 @@ https://tgaadi-web.tech/portal.php?tv=636357
 https://tgaadi-web.tech/portal.php?tv=636356
 #EXTINF:-1 tvg-id="" tvg-name="TM-PREM| SOLO MOVIES 7" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",TM-PREM| SOLO MOVIES 7
 https://tgaadi-web.tech/portal.php?tv=636355
+
 #EXTINF:-1 tvg-id="" tvg-name="##### KANNADA PREMIUM #####" tvg-logo="http://logo.protv.cc/picons/logos/logos/PREMIUM.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",##### KANNADA PREMIUM #####
 https://tgaadi-web.tech/portal.php?tv=636555
 #EXTINF:-1 tvg-id="" tvg-name="KN-PREM| PREMIUM MOVIES 1" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",KN-PREM| PREMIUM MOVIES 1
@@ -317,6 +334,7 @@ https://tgaadi-web.tech/portal.php?tv=636547
 https://tgaadi-web.tech/portal.php?tv=636546
 #EXTINF:-1 tvg-id="" tvg-name="KN-PREM| PREMIUM MOVIES 9" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",KN-PREM| PREMIUM MOVIES 9
 https://tgaadi-web.tech/portal.php?tv=636545
+
 #EXTINF:-1 tvg-id="" tvg-name="##### ENGLISH PREMIUM #####" tvg-logo="http://logo.protv.cc/picons/logos/logos/PREMIUM.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",##### ENGLISH PREMIUM #####
 https://tgaadi-web.tech/portal.php?tv=636556
 #EXTINF:-1 tvg-id="StarPlus.uk" tvg-name="IN| UTSAV PLUS" tvg-logo="http://logo.protv.cc/picons/logos/USTAV-PLUS.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="ENTERTAINMENT",IN| UTSAV PLUS
@@ -797,6 +815,7 @@ https://tgaadi-web.tech/portal.php?tv=1540024
 https://tgaadi-web.tech/portal.php?tv=1540032
 #EXTINF:-1 tvg-id="" tvg-name="HINDI| SAGA MUSIC FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/SAGA-MUSIC.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="ENTERTAINMENT",HINDI| SAGA MUSIC FHD
 https://tgaadi-web.tech/portal.php?tv=1540013
+
 #EXTINF:-1 tvg-id="" tvg-name="IN-NEWS| A1 TV" tvg-logo="http://logo.protv.cc/picons/logos/logos/A1-TV.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="NEWS",IN-NEWS| A1 TV
 https://tgaadi-web.tech/portal.php?tv=1526155
 #EXTINF:-1 tvg-id="AajTak.in" tvg-name="IN-NEWS| AAJ TAK" tvg-logo="http://logo.protv.cc/picons/logos/logos/aajtak.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="NEWS",IN-NEWS| AAJ TAK
@@ -1067,6 +1086,7 @@ https://tgaadi-web.tech/portal.php?tv=156098
 https://tgaadi-web.tech/portal.php?tv=1526163
 #EXTINF:-1 tvg-id="" tvg-name="N-NEWS | TS ZEE NEWS MP/CHATTISGARH" tvg-logo="http://logo.protv.cc/picons/logos/logos/TS-ZEE-NEWS-MPCHATTISGARH.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="NEWS",N-NEWS | TS ZEE NEWS MP/CHATTISGARH
 https://tgaadi-web.tech/portal.php?tv=1526162
+
 #EXTINF:-1 tvg-id="AndFlix.in" tvg-name="HINDI| & FLIX FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/AFLIX.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| & FLIX FHD
 https://tgaadi-web.tech/portal.php?tv=155990
 #EXTINF:-1 tvg-id="" tvg-name="HINDI| & FLIX HINDI FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/FLIX-HINDI.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| & FLIX HINDI FHD
@@ -1233,6 +1253,7 @@ https://tgaadi-web.tech/portal.php?tv=1532846
 https://tgaadi-web.tech/portal.php?tv=280910
 #EXTINF:-1 tvg-id="Zing.in" tvg-name="HINDI| ZING" tvg-logo="http://logo.protv.cc/picons/logos/logos/ZING.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| ZING
 https://tgaadi-web.tech/portal.php?tv=156046
+
 #EXTINF:-1 tvg-id="EPIC.in" tvg-name="RELIGIOUS|  EPIC" tvg-logo="http://logo.protv.cc/picons/logos/logos/EPIC.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="RELIGIOUS",RELIGIOUS|  EPIC
 https://tgaadi-web.tech/portal.php?tv=1533111
 #EXTINF:-1 tvg-id="" tvg-name="RELIGIOUS| AADINATH TV" tvg-logo="http://logo.protv.cc/picons/logos/logos/AADINATH.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="RELIGIOUS",RELIGIOUS| AADINATH TV
@@ -1293,6 +1314,7 @@ https://tgaadi-web.tech/portal.php?tv=1533110
 https://tgaadi-web.tech/portal.php?tv=1533117
 #EXTINF:-1 tvg-id="Vedic.in" tvg-name="RELIGIOUS| VEDIC TV" tvg-logo="http://logo.protv.cc/picons/logos/logos/VEDIC.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="RELIGIOUS",RELIGIOUS| VEDIC TV
 https://tgaadi-web.tech/portal.php?tv=1533136
+
 #EXTINF:-1 tvg-id="" tvg-name="PK| HELLO CANADA" tvg-logo="http://logo.protv.cc/picons/logos/HELLO-CANADA.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="PAKISTANI",PK| HELLO CANADA
 https://tgaadi-web.tech/portal.php?tv=90452
 #EXTINF:-1 tvg-id="" tvg-name="PK| A - SPORTS HD" tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/a-sport.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="PAKISTANI",PK| A - SPORTS HD
@@ -1547,6 +1569,7 @@ https://tgaadi-web.tech/portal.php?tv=165570
 https://tgaadi-web.tech/portal.php?tv=165584
 #EXTINF:-1 tvg-id="" tvg-name="PK| ROZE TV HD" tvg-logo="http://logo.protv.cc/picons/logos/ROZE-TV-HD.jpeg" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="PAKISTANI",PK| ROZE TV HD
 https://tgaadi-web.tech/portal.php?tv=165572
+
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.uk" tvg-name="ENGLISH| ALJAZEERA HD" tvg-logo="http://logo.protv.cc/picons/logos/aljazeera.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="ENGLISH",ENGLISH| ALJAZEERA HD
 https://tgaadi-web.tech/portal.php?tv=155749
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.uk" tvg-name="ENGLISH| ALJAZEERA" tvg-logo="http://logo.protv.cc/picons/logos/aljazeera.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="ENGLISH",ENGLISH| ALJAZEERA
@@ -1689,6 +1712,7 @@ https://tgaadi-web.tech/portal.php?tv=155739
 https://tgaadi-web.tech/portal.php?tv=1116482
 #EXTINF:-1 tvg-id="TLC.uk" tvg-name="ENGLISH| TLC" tvg-logo="http://logo.protv.cc/picons/logos/tlc.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="ENGLISH",ENGLISH| TLC
 https://tgaadi-web.tech/portal.php?tv=282654
+
 #EXTINF:-1 tvg-id="" tvg-name="TAMIL| CINEMANIA 4K" tvg-logo="http://logo.protv.cc/picons/logos/logos/CINEMANIA.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="TAMIL",TAMIL| CINEMANIA 4K
 https://tgaadi-web.tech/portal.php?tv=1438226
 #EXTINF:-1 tvg-id="" tvg-name="TAMIL| &FLIX FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/AFLIX.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="TAMIL",TAMIL| &FLIX FHD
@@ -1979,6 +2003,7 @@ https://tgaadi-web.tech/portal.php?tv=315181
 https://tgaadi-web.tech/portal.php?tv=156016
 #EXTINF:-1 tvg-id="SonySIX.in" tvg-name="SPORTS| STAR SPORTS KANNADA" tvg-logo="http://logo.protv.cc/picons/logos/SONY-SIX.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| STAR SPORTS KANNADA
 https://tgaadi-web.tech/portal.php?tv=156102
+
 #EXTINF:-1 tvg-id="StarSports1.in" tvg-name="SPORTS| STAR SPORTS 1 ENGLISH HD" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-1-HD.jpg" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| STAR SPORTS 1 ENGLISH HD
 https://tgaadi-web.tech/portal.php?tv=155968
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS| STAR SPORTS HINDI 1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-1-HINDI-HD.jpg" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| STAR SPORTS HINDI 1 FHD
@@ -1991,6 +2016,7 @@ https://tgaadi-web.tech/portal.php?tv=282674
 https://tgaadi-web.tech/portal.php?tv=1114580
 #EXTINF:-1 tvg-id="StarSports1.in" tvg-name="SPORTS| STAR SPORTS 1" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-1-HD.jpg" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| STAR SPORTS 1
 https://tgaadi-web.tech/portal.php?tv=282677
+
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS| STAR SPORTS 2 FHD" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-2-HD.jpeg" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| STAR SPORTS 2 FHD
 https://tgaadi-web.tech/portal.php?tv=1114581
 #EXTINF:-1 tvg-id="StarSports2.in" tvg-name="SPORTS| STAR SPORTS 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-2-HD.jpeg" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| STAR SPORTS 2 HD
@@ -2001,6 +2027,7 @@ https://tgaadi-web.tech/portal.php?tv=282673
 https://tgaadi-web.tech/portal.php?tv=155976
 #EXTINF:-1 tvg-id="StarSports3.in" tvg-name="SPORTS| STAR SPORTS 3" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-3-HD.jpeg" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| STAR SPORTS 3
 https://tgaadi-web.tech/portal.php?tv=282678
+
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS| STAR SPORTS SELECT 1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-SELECT-1-HD.jpg" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| STAR SPORTS SELECT 1 FHD
 https://tgaadi-web.tech/portal.php?tv=1114583
 #EXTINF:-1 tvg-id="StarSportsSelect1.in" tvg-name="SPORTS| STAR SPORTS SELECT 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-SELECT-1-HD.jpg" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| STAR SPORTS SELECT 1 HD
@@ -2009,12 +2036,14 @@ https://tgaadi-web.tech/portal.php?tv=155972
 https://tgaadi-web.tech/portal.php?tv=282675
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS| STAR SPORTS SELECT 2 FHD" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-SELECT-2-HD.jpg" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| STAR SPORTS SELECT 2 FHD
 https://tgaadi-web.tech/portal.php?tv=1114584
+
 #EXTINF:-1 tvg-id="StarSportsSelect2.in" tvg-name="SPORTS| STAR SPORTS SELECT 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-SELECT-2-HD.jpg" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| STAR SPORTS SELECT 2 HD
 https://tgaadi-web.tech/portal.php?tv=155973
 #EXTINF:-1 tvg-id="StarSportsSelect2.in" tvg-name="SPORTS| STAR SPORTS SELECT 2" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-SELECT-2-HD.jpg" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| STAR SPORTS SELECT 2
 https://tgaadi-web.tech/portal.php?tv=282676
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS| STAR SPORTS TAMIL" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-TAMIL.jpg" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| STAR SPORTS TAMIL
 https://tgaadi-web.tech/portal.php?tv=155873
+
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS| TEN 1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/SONY-TEN-1.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| TEN 1 FHD
 https://tgaadi-web.tech/portal.php?tv=1114576
 #EXTINF:-1 tvg-id="SonyTEN1.in" tvg-name="SPORTS| TEN 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/TEN-1-HD.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| TEN 1 HD
@@ -2035,6 +2064,7 @@ https://tgaadi-web.tech/portal.php?tv=156024
 https://tgaadi-web.tech/portal.php?tv=282672
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS| TEN 4 FHD" tvg-logo="http://logo.protv.cc/picons/logos/SONY-TEN-4.jpeg" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| TEN 4 FHD
 https://tgaadi-web.tech/portal.php?tv=1114579
+
 #EXTINF:-1 tvg-id="NowSports1En.hk" tvg-name="SPORTS| HK NOW SPORTS 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/nowsports.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| HK NOW SPORTS 1 HD
 https://tgaadi-web.tech/portal.php?tv=1110615
 #EXTINF:-1 tvg-id="NowSports2En.hk" tvg-name="SPORTS| HK NOW SPORTS 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/nowsports.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| HK NOW SPORTS 2 HD
@@ -2049,6 +2079,7 @@ https://tgaadi-web.tech/portal.php?tv=1110619
 https://tgaadi-web.tech/portal.php?tv=1110620
 #EXTINF:-1 tvg-id="NowSports7En.hk" tvg-name="SPORTS| HK NOW SPORTS 7 HD" tvg-logo="http://logo.protv.cc/picons/logos/nowsports.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| HK NOW SPORTS 7 HD
 https://tgaadi-web.tech/portal.php?tv=1110621
+
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS| HK NOW PREMIER SPORTS 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/nowsports.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| HK NOW PREMIER SPORTS 1 HD
 https://tgaadi-web.tech/portal.php?tv=1110622
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS| HUB SPORTS 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/HUB-SPORTS-1.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| HUB SPORTS 1 HD
@@ -2057,6 +2088,7 @@ https://tgaadi-web.tech/portal.php?tv=1110667
 https://tgaadi-web.tech/portal.php?tv=1110666
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS| HUB SPORTS 3 HD" tvg-logo="http://logo.protv.cc/picons/logos/HUB-SPORTS-3.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| HUB SPORTS 3 HD
 https://tgaadi-web.tech/portal.php?tv=1110665
+
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS| MY SUPERSPORTS 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/supersport1.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| MY SUPERSPORTS 1 HD
 https://tgaadi-web.tech/portal.php?tv=1111034
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS| MY SUPERSPORTS 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/supersport2.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| MY SUPERSPORTS 2 HD
@@ -2065,6 +2097,7 @@ https://tgaadi-web.tech/portal.php?tv=1111033
 https://tgaadi-web.tech/portal.php?tv=1111032
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS| MY SUPERSPORTS 4 HD" tvg-logo="http://logo.protv.cc/picons/logos/supersport4.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| MY SUPERSPORTS 4 HD
 https://tgaadi-web.tech/portal.php?tv=1111031
+
 #EXTINF:-1 tvg-id="" tvg-name="PUNJABI| CINEMANIA 4K" tvg-logo="http://logo.protv.cc/picons/logos/logos/CINEMANIA.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="PUNJABI",PUNJABI| CINEMANIA 4K
 https://tgaadi-web.tech/portal.php?tv=1438225
 #EXTINF:-1 tvg-id="" tvg-name="PUNJABI| 7X MUSIC" tvg-logo="http://logo.protv.cc/picons/logos/logos/7X-MUSIC.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="PUNJABI",PUNJABI| 7X MUSIC
@@ -2239,6 +2272,7 @@ https://tgaadi-web.tech/portal.php?tv=155944
 https://tgaadi-web.tech/portal.php?tv=282059
 #EXTINF:-1 tvg-id="" tvg-name="PUNJABI| ZEE PUNJABI NEWS" tvg-logo="http://logo.protv.cc/picons/logos/logos/ZEE-PUNJABI-NEWS.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="PUNJABI",PUNJABI| ZEE PUNJABI NEWS
 https://tgaadi-web.tech/portal.php?tv=282060
+
 #EXTINF:-1 tvg-id="ABPAsmita.in" tvg-name="GUJARATI| ABP ASMITA" tvg-logo="http://logo.protv.cc/picons/logos/logos/ABP-ASMITA.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="GUJARATI × ASSAM",GUJARATI| ABP ASMITA
 https://tgaadi-web.tech/portal.php?tv=155811
 #EXTINF:-1 tvg-id="CNBCAwaaz.in" tvg-name="GUJARATI| CNBC AAWAZ" tvg-logo="http://logo.protv.cc/picons/logos/logos/CNBC-AAWAZ.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="GUJARATI × ASSAM",GUJARATI| CNBC AAWAZ
@@ -2327,6 +2361,7 @@ https://tgaadi-web.tech/portal.php?tv=155795
 https://tgaadi-web.tech/portal.php?tv=155806
 #EXTINF:-1 tvg-id="Zee24Kalak.in" tvg-name="GUJARATI| ZEE 24 KALAK" tvg-logo="http://logo.protv.cc/picons/logos/logos/ZEE-24-KALAK.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="GUJARATI × ASSAM",GUJARATI| ZEE 24 KALAK
 https://tgaadi-web.tech/portal.php?tv=1529347
+
 #EXTINF:-1 tvg-id="AssamTalks.in" tvg-name="ASSAM| ASSAM TALKS" tvg-logo="http://logo.protv.cc/picons/logos/logos/ASSAM-TALKS.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="GUJARATI × ASSAM",ASSAM| ASSAM TALKS
 https://tgaadi-web.tech/portal.php?tv=282680
 #EXTINF:-1 tvg-id="" tvg-name="ASSAM| DD MEGHALAYA" tvg-logo="http://logo.protv.cc/picons/logos/logos/DD-MEGHALAYA.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="GUJARATI × ASSAM",ASSAM| DD MEGHALAYA
@@ -2365,6 +2400,7 @@ https://tgaadi-web.tech/portal.php?tv=156099
 https://tgaadi-web.tech/portal.php?tv=156111
 #EXTINF:-1 tvg-id="RengoniTV.in" tvg-name="ASSAM| RENGONI" tvg-logo="http://logo.protv.cc/picons/logos/logos/RENGONI.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="GUJARATI × ASSAM",ASSAM| RENGONI
 https://tgaadi-web.tech/portal.php?tv=156100
+
 #EXTINF:-1 tvg-id="" tvg-name="MALAYALAM| BIGG BOSS 24X7 FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/BIGG-BOSS-247.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MALAYALAM",MALAYALAM| BIGG BOSS 24X7 FHD
 https://tgaadi-web.tech/portal.php?tv=1528383
 #EXTINF:-1 tvg-id="" tvg-name="MALAYALAM| BIGG BOSS 24X7 HD" tvg-logo="http://logo.protv.cc/picons/logos/logos/BIGG-BOSS-247.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MALAYALAM",MALAYALAM| BIGG BOSS 24X7 HD
@@ -2509,6 +2545,7 @@ https://tgaadi-web.tech/portal.php?tv=155836
 https://tgaadi-web.tech/portal.php?tv=155837
 #EXTINF:-1 tvg-id="" tvg-name="MALAYALAM| ZEE KERALAM HD" tvg-logo="http://logo.protv.cc/picons/logos/logos/ZEE-KERALAM.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MALAYALAM",MALAYALAM| ZEE KERALAM HD
 https://tgaadi-web.tech/portal.php?tv=282019
+
 #EXTINF:-1 tvg-id="9XJhakaas.in" tvg-name="MARATHI| 9X JHAKAAS" tvg-logo="http://logo.protv.cc/picons/logos/logos/9X-JHAKAAS.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MARATHI",MARATHI| 9X JHAKAAS
 https://tgaadi-web.tech/portal.php?tv=155764
 #EXTINF:-1 tvg-id="ABPMajha.in" tvg-name="MARATHI| ABP MAJHA" tvg-logo="http://logo.protv.cc/picons/logos/logos/ABP-MAJHA.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MARATHI",MARATHI| ABP MAJHA
