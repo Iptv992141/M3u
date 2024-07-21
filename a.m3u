@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Sony Live
+https://dai.google.com/linear/hls/event/_P6WBA4YTomLa7Aoliytog/master.m3u8
 #EXTINF:-1,Star Sports hindi
 http://flbl16.112421.net:8082/4151818/index.m3u8?token=FYCMQWAK8R
 #EXTINF:-1,MU TV
