@@ -5,9 +5,9 @@ https://dai.google.com/linear/hls/event/_P6WBA4YTomLa7Aoliytog/master.m3u8
 http://flbl16.112421.net:8082/4151818/index.m3u8?token=FYCMQWAK8R
 #EXTINF:-1,MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-#EXTINF:-1,
+#EXTINF:-1,8XM
 http://125.209.88.166:45793/BRN/8XM.stream/playlist.m3u8
-#EXTINF:-1,
+#EXTINF:-1,BeINSP13
 http://125.209.88.166:45793/BRN/beINSP13.stream/playlist.m3u8
 #EXTINF:-1,Geo News
 http://125.209.88.166:45793/BRN/GeoNews.stream/playlist.m3u8
