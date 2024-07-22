@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Play M3U8 URL</title>
+    <!-- Include Video.js CSS -->
+    <link href="https://unpkg.com/video.js/dist/video-js.min.css" rel="stylesheet">
+</head>
+<body>
+    <!-- Include Video.js library -->
+    <script src="https://unpkg.com/video.js/dist/video.min.js"></script>
+    <!-- Include hls.js library -->
+    <script src="https://unpkg.com/hls.js"></script>
+
+    <div class="video-container">
+        <video id="my-video" class="video-js" controls preload="auto" width="640" height="360">
+            <source src="YOUR_M3U8_URL_HERE" type="application/x-mpegURL">
+            <!-- Fallback for browsers that don't support HLS -->
+            <p class="vjs-no-js">
+                To view this video please enable JavaScript, and consider upgrading to a web browser that
+                <a href="https://videojs.com/html5-video-support/" target="_blank" rel="noopener noreferrer">supports HTML5 video</a>
+            </p>
+        </video>
+    </div>
+
+    <script>
+        // Initialize Video.js player
+        var player = videojs('my-video');
+        // Enable HLS playback
+        if (videojs.Hls.isSupported()) {
+            var hls = new videojs.Hls();
+            hls.loadSource('YOUR_M3U8_URL_HERE');
+            player.src({ src: 'YOUR_M3U8_URL_HERE', type: 'application/x-mpegURL' });
+            player.ready(function () {
+                player.play();
+            });
+        }
+    </script>
+</body>
+</html>
