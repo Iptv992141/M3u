@@ -11,8 +11,6 @@ http://125.209.88.166:45793/BRN/LahoreNewsHD.stream/playlist.m3u8
 http://125.209.88.166:45793/BRN/HumNewsHD.stream/playlist.m3u8
 #EXTINF:-1,GNN News
 http://125.209.88.166:45793/BRN/GNNHD.stream/playlist.m3u8
-#EXTINF:-1,Public News
-http://125.209.88.166:45793/BRN/PublicNewsHD.stream/playlist.m3u8
 #EXTINF:-1,SAMA News
 http://125.209.88.166:45793/BRN/Sama.stream/playlist.m3u8
 #EXTINF:-1,Dunya News
@@ -35,6 +33,8 @@ http://125.209.88.166:45793/BRN/PtvHome.stream/playlist.m3u8
 http://125.209.88.166:45793/BRN/PTVTeleSchool.stream/playlist.m3u8
 #EXTINF:-1,PTV Sports
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
+#EXTINF:-1,Public News
+http://125.209.88.166:45793/BRN/PublicNewsHD.stream/playlist.m3u8
 #EXTINF:-1,Express News
 http://125.209.88.166:45793/BRN/ExpressNews.stream/playlist.m3u8
 #EXTINF:-1,NEO News
