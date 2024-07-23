@@ -3,20 +3,10 @@
 http://125.209.88.166:45793/BRN/GeoNews.stream/playlist.m3u8
 #EXTINF:-1,ARY News
 http://125.209.88.166:45793/BRN/AryNews.stream/playlist.m3u8
-#EXTINF:-1,NEO News
-http://125.209.88.166:45793/BRN/NeoNewsHD.stream/playlist.m3u8
-#EXTINF:-1,GEO Tez
-http://125.209.88.166:45793/BRN/GeoTez.stream/playlist.m3u8
 #EXTINF:-1,City 42
 http://125.209.88.166:45793/BRN/City42.stream/playlist.m3u8
 #EXTINF:-1,Lahore News
 http://125.209.88.166:45793/BRN/LahoreNewsHD.stream/playlist.m3u8
-#EXTINF:-1,News One
-http://125.209.88.166:45793/BRN/NewsOne.stream/playlist.m3u8
-#EXTINF:-1,Express News
-http://125.209.88.166:45793/BRN/ExpressNews.stream/playlist.m3u8
-#EXTINF:-1,PTV News
-http://125.209.88.166:45793/BRN/PTVNews.stream/playlist.m3u8
 #EXTINF:-1,HUM News
 http://125.209.88.166:45793/BRN/HumNewsHD.stream/playlist.m3u8
 #EXTINF:-1,GNN News
@@ -33,12 +23,23 @@ http://125.209.88.166:45793/BRN/DawnNews.stream/playlist.m3u8
 http://125.209.88.166:45793/BRN/BolNews.stream/playlist.m3u8
 #EXTINF:-1,92 News
 http://125.209.88.166:45793/BRN/92News.stream/playlist.m3u8
+#EXTINF:-1,GEO Tez
+http://125.209.88.166:45793/BRN/GeoTez.stream/playlist.m3u8
+#EXTINF:-1,News One
+http://125.209.88.166:45793/BRN/NewsOne.stream/playlist.m3u8
+#EXTINF:-1,PTV News
+http://125.209.88.166:45793/BRN/PTVNews.stream/playlist.m3u8
 #EXTINF:-1,PTV Home
 http://125.209.88.166:45793/BRN/PtvHome.stream/playlist.m3u8
 #EXTINF:-1,PTV TeleSchool
 http://125.209.88.166:45793/BRN/PTVTeleSchool.stream/playlist.m3u8
 #EXTINF:-1,PTV Sports
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
+#EXTINF:-1,Express News
+http://125.209.88.166:45793/BRN/ExpressNews.stream/playlist.m3u8
+#EXTINF:-1,NEO News
+http://125.209.88.166:45793/BRN/NeoNewsHD.stream/playlist.m3u8
+
 
 #EXTINF:-1,GreenTv
 http://125.209.88.166:45793/BRN/Greentv.stream/playlist.m3u8
