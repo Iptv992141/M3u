@@ -361,6 +361,645 @@ https://tgaadi-web.tech/portal.php?tv=1540032
 #EXTINF:-1 tvg-id="" tvg-name="HINDI| SAGA MUSIC FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/SAGA-MUSIC.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="ENTERTAINMENT",HINDI| SAGA MUSIC FHD
 https://tgaadi-web.tech/portal.php?tv=1540013
 -------
+#EXTINF:-1 tvg-id="AndFlix.in" tvg-name="HINDI| & FLIX FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/AFLIX.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| & FLIX FHD
+https://tgaadi-web.tech/portal.php?tv=155990
+#EXTINF:-1 tvg-id="" tvg-name="HINDI| & FLIX HINDI FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/FLIX-HINDI.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| & FLIX HINDI FHD
+https://tgaadi-web.tech/portal.php?tv=1532831
+#EXTINF:-1 tvg-id="AndPictures.in" tvg-name="HINDI| & PICTURES" tvg-logo="http://logo.protv.cc/picons/logos/logos/INDIA-TV.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| & PICTURES
+https://tgaadi-web.tech/portal.php?tv=280744
+#EXTINF:-1 tvg-id="AndPictures.in" tvg-name="HINDI| & PICTURES FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/INDIA-TV.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| & PICTURES FHD
+https://tgaadi-web.tech/portal.php?tv=155997
+#EXTINF:-1 tvg-id="AndPrive.in" tvg-name="HINDI| & PRIVE FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/privetv.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| & PRIVE FHD
+https://tgaadi-web.tech/portal.php?tv=1532832
+#EXTINF:-1 tvg-id="" tvg-name="HINDI| COLORS CINEPLEX BOLLYWOOD" tvg-logo="http://logo.protv.cc/picons/logos/logos/COLORS-CINEPLEX-BOLLYWOOD.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| COLORS CINEPLEX BOLLYWOOD
+https://tgaadi-web.tech/portal.php?tv=946375
+#EXTINF:-1 tvg-id="Cineplex.in" tvg-name="HINDI| COLORS CINEPLEX FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/COLORS-CINEPLEX.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| COLORS CINEPLEX FHD
+https://tgaadi-web.tech/portal.php?tv=156003
+#EXTINF:-1 tvg-id="Cineplex.in" tvg-name="HINDI| COLORS CINEPLEX SD" tvg-logo="http://logo.protv.cc/picons/logos/logos/colorscineplex.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| COLORS CINEPLEX SD
+https://tgaadi-web.tech/portal.php?tv=280749
+#EXTINF:-1 tvg-id="ColorsInfinity.in" tvg-name="HINDI| COLORS INFINITY FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/COLORS-INFINITY.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| COLORS INFINITY FHD
+https://tgaadi-web.tech/portal.php?tv=1532833
+#EXTINF:-1 tvg-id="SonyMax.in" tvg-name="HINDI| SONY MAX FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/SONY-MAX.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| SONY MAX FHD
+https://tgaadi-web.tech/portal.php?tv=156013
+#EXTINF:-1 tvg-id="SonyMax.in" tvg-name="HINDI| SONY MAX HD" tvg-logo="http://logo.protv.cc/picons/logos/logos/SONY-MAX.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| SONY MAX HD
+https://tgaadi-web.tech/portal.php?tv=156106
+#EXTINF:-1 tvg-id="SonyMax2.in" tvg-name="HINDI| SONY MAX 2" tvg-logo="http://logo.protv.cc/picons/logos/logos/SONY-MAX-2.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| SONY MAX 2
+https://tgaadi-web.tech/portal.php?tv=156118
+#EXTINF:-1 tvg-id="SonyMax2.in" tvg-name="HINDI| SONY MAX 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/logos/SONY-MAX-2.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| SONY MAX 2 HD
+https://tgaadi-web.tech/portal.php?tv=280780
+#EXTINF:-1 tvg-id="SonyPix.in" tvg-name="HINDI| SONY PIX FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/SONY-PIX.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| SONY PIX FHD
+https://tgaadi-web.tech/portal.php?tv=156004
+#EXTINF:-1 tvg-id="SonyWah.in" tvg-name="HINDI| SONY WAH" tvg-logo="http://logo.protv.cc/picons/logos/logos/SONY-WAH.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| SONY WAH
+https://tgaadi-web.tech/portal.php?tv=156039
+#EXTINF:-1 tvg-id="StarGold.in" tvg-name="HINDI| STAR GOLD FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/STAR-GOLD.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| STAR GOLD FHD
+https://tgaadi-web.tech/portal.php?tv=155969
+#EXTINF:-1 tvg-id="StarGold.in" tvg-name="HINDI| STAR GOLD HD" tvg-logo="http://logo.protv.cc/picons/logos/logos/STAR-GOLD.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| STAR GOLD HD
+https://tgaadi-web.tech/portal.php?tv=280766
+#EXTINF:-1 tvg-id="StarGold2.in" tvg-name="HINDI| STAR GOLD 2 FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/STAR-GOLD-2.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| STAR GOLD 2 FHD
+https://tgaadi-web.tech/portal.php?tv=1112132
+#EXTINF:-1 tvg-id="StarGold2.in" tvg-name="HINDI| STAR GOLD 2" tvg-logo="http://logo.protv.cc/picons/logos/logos/STAR-GOLD-2.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| STAR GOLD 2
+https://tgaadi-web.tech/portal.php?tv=1532835
+#EXTINF:-1 tvg-id="UTVMovies.in" tvg-name="HINDI| STAR GOLD ROMANCE" tvg-logo="http://logo.protv.cc/picons/logos/logos/STAR-GOLD-ROMANCE.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| STAR GOLD ROMANCE
+https://tgaadi-web.tech/portal.php?tv=156033
+#EXTINF:-1 tvg-id="StarGoldSelect.in" tvg-name="HINDI| STAR GOLD SELECT FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/STAR-GOLD-SELECT.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| STAR GOLD SELECT FHD
+https://tgaadi-web.tech/portal.php?tv=155970
+#EXTINF:-1 tvg-id="" tvg-name="HINDI| STAR GOLD THRILLS" tvg-logo="http://logo.protv.cc/picons/logos/logos/STAR-GOLD-THRILLS.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| STAR GOLD THRILLS
+https://tgaadi-web.tech/portal.php?tv=1118072
+#EXTINF:-1 tvg-id="StarUtsavMovies.in" tvg-name="HINDI| STAR MOVIES FHD" tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/STAR-UTSAV-MOVIES.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| STAR MOVIES FHD
+https://tgaadi-web.tech/portal.php?tv=1112131
+#EXTINF:-1 tvg-id="StarGoldSelect.in" tvg-name="HINDI| STARGOLD SELECT HD" tvg-logo="http://logo.protv.cc/picons/logos/logos/STARGOLD-SELECT.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| STARGOLD SELECT HD
+https://tgaadi-web.tech/portal.php?tv=280778
+#EXTINF:-1 tvg-id="" tvg-name="HINDI| TATA PLAY HIFHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/TATA-PLAY-HIFHD.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| TATA PLAY HIFHD
+https://tgaadi-web.tech/portal.php?tv=1532849
+#EXTINF:-1 tvg-id="" tvg-name="HINDI| TATA PLAY HOLLYWOOD LOCAL" tvg-logo="http://logo.protv.cc/picons/logos/logos/TATA-PLAY-HOLLYWOOD-LOCAL.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| TATA PLAY HOLLYWOOD LOCAL
+https://tgaadi-web.tech/portal.php?tv=1532848
+#EXTINF:-1 tvg-id="" tvg-name="HINDI| TATA PLAY JAVED AKHTAR" tvg-logo="http://logo.protv.cc/picons/logos/logos/TATA-PLAY-JAVED-AKHTAR.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| TATA PLAY JAVED AKHTAR
+https://tgaadi-web.tech/portal.php?tv=1532850
+#EXTINF:-1 tvg-id="" tvg-name="HINDI| TATA PLAY ROMANCE" tvg-logo="http://logo.protv.cc/picons/logos/logos/TATA-PLAY-TOONS.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| TATA PLAY ROMANCE
+https://tgaadi-web.tech/portal.php?tv=1532839
+#EXTINF:-1 tvg-id="" tvg-name="HINDI| TATA PLAY SHORTV" tvg-logo="http://logo.protv.cc/picons/logos/logos/TATA-PLAY-SHORTV.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| TATA PLAY SHORTV
+https://tgaadi-web.tech/portal.php?tv=1532852
+#EXTINF:-1 tvg-id="" tvg-name="HINDI| TATA PLAY SOUTH TALKIES" tvg-logo="http://logo.protv.cc/picons/logos/logos/TATA-PLAY-TOONS.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| TATA PLAY SOUTH TALKIES
+https://tgaadi-web.tech/portal.php?tv=1532838
+#EXTINF:-1 tvg-id="" tvg-name="HINDI| TATA PLAY VIDESHI KAHANIYAN" tvg-logo="http://logo.protv.cc/picons/logos/logos/TATA-PLAY-VIDESHI-KAHANIYAN.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| TATA PLAY VIDESHI KAHANIYAN
+https://tgaadi-web.tech/portal.php?tv=1532837
+#EXTINF:-1 tvg-id="" tvg-name="HINDI| TATA PLAY ZINDAGI" tvg-logo="http://logo.protv.cc/picons/logos/logos/TATA-PLAY-ZINDAGI.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| TATA PLAY ZINDAGI
+https://tgaadi-web.tech/portal.php?tv=1532847
+#EXTINF:-1 tvg-id="" tvg-name="HINDI| TATA SKY THEATRE FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/TATA-SKY-THEATRE.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| TATA SKY THEATRE FHD
+https://tgaadi-web.tech/portal.php?tv=1532851
+#EXTINF:-1 tvg-id="ZeeAction.in" tvg-name="HINDI| ZEE ACTION" tvg-logo="http://logo.protv.cc/picons/logos/logos/ZEE-ACTION.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| ZEE ACTION
+https://tgaadi-web.tech/portal.php?tv=156139
+#EXTINF:-1 tvg-id="ZeeAnmol.in" tvg-name="HINDI| ZEE ANMOL" tvg-logo="http://logo.protv.cc/picons/logos/logos/ZEE-ANMOL.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| ZEE ANMOL
+https://tgaadi-web.tech/portal.php?tv=156165
+#EXTINF:-1 tvg-id="ZeeAnmolCinema.in" tvg-name="HINDI| ZEE ANMOL CINEMA" tvg-logo="http://logo.protv.cc/picons/logos/logos/ZEE-ANMOL-CINEMA.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| ZEE ANMOL CINEMA
+https://tgaadi-web.tech/portal.php?tv=156146
+#EXTINF:-1 tvg-id="ZETCBollywood.in" tvg-name="HINDI| ZEE BOLLWOOD" tvg-logo="http://logo.protv.cc/picons/logos/logos/ZEE-BOLLWOOD.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| ZEE BOLLWOOD
+https://tgaadi-web.tech/portal.php?tv=311859
+#EXTINF:-1 tvg-id="ZeeCafe.in" tvg-name="HINDI| ZEE CAFE HD" tvg-logo="http://logo.protv.cc/picons/logos/logos/ZEE-CAFE.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| ZEE CAFE HD
+https://tgaadi-web.tech/portal.php?tv=1532856
+#EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="HINDI| ZEE CINEMA FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/ZEE-CINEMA.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| ZEE CINEMA FHD
+https://tgaadi-web.tech/portal.php?tv=155975
+#EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="HINDI| ZEE CINEMA HD" tvg-logo="http://logo.protv.cc/picons/logos/logos/ZEE-CINEMA.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| ZEE CINEMA HD
+https://tgaadi-web.tech/portal.php?tv=280772
+#EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="HINDI| ZEE CINEMA SD" tvg-logo="http://logo.protv.cc/picons/logos/logos/zeecinema.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| ZEE CINEMA SD
+https://tgaadi-web.tech/portal.php?tv=1532857
+#EXTINF:-1 tvg-id="ZeeClassic.in" tvg-name="HINDI| ZEE CLASSIC" tvg-logo="http://logo.protv.cc/picons/logos/logos/ZEE-CLASSIC.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| ZEE CLASSIC
+https://tgaadi-web.tech/portal.php?tv=311858
+#EXTINF:-1 tvg-id="" tvg-name="HINDI| ZEE ETC BOLLYWOOD" tvg-logo="http://logo.protv.cc/picons/logos/logos/ZEE-ETC-BOLLYWOOD.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| ZEE ETC BOLLYWOOD
+https://tgaadi-web.tech/portal.php?tv=156166
+#EXTINF:-1 tvg-id="" tvg-name="HINDI| ANAADI TV" tvg-logo="http://logo.protv.cc/picons/logos/logos/ANAADI.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| ANAADI TV
+https://tgaadi-web.tech/portal.php?tv=1532845
+#EXTINF:-1 tvg-id="B4UKadak.in" tvg-name="HINDI| B4U KADAK" tvg-logo="http://logo.protv.cc/picons/logos/logos/B4UKADAK.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| B4U KADAK
+https://tgaadi-web.tech/portal.php?tv=280798
+#EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="HINDI| B4U MOVIES" tvg-logo="http://logo.protv.cc/picons/logos/logos/B4U-MOVIES.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| B4U MOVIES
+https://tgaadi-web.tech/portal.php?tv=155987
+#EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="HINDI| B4U MOVIES INDIA" tvg-logo="http://logo.protv.cc/picons/logos/logos/B4UMOVIESINDIA.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| B4U MOVIES INDIA
+https://tgaadi-web.tech/portal.php?tv=280799
+#EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="HINDI| B4U MOVIES USA" tvg-logo="http://logo.protv.cc/picons/logos/logos/B4U-MOVIES.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| B4U MOVIES USA
+https://tgaadi-web.tech/portal.php?tv=157163
+#EXTINF:-1 tvg-id="BflixMovies.in" tvg-name="HINDI| BFLIX MOVIE" tvg-logo="http://logo.protv.cc/picons/logos/logos/BFLIX-MOVIE.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| BFLIX MOVIE
+https://tgaadi-web.tech/portal.php?tv=280803
+#EXTINF:-1 tvg-id="" tvg-name="HINDI| BOX CINEMA" tvg-logo="http://logo.protv.cc/picons/logos/logos/BOX-CINEMA.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| BOX CINEMA
+https://tgaadi-web.tech/portal.php?tv=280810
+#EXTINF:-1 tvg-id="CinemaTV.in" tvg-name="HINDI| CINEMA TV" tvg-logo="http://logo.protv.cc/picons/logos/logos/cinema.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| CINEMA TV
+https://tgaadi-web.tech/portal.php?tv=155979
+#EXTINF:-1 tvg-id="CinemaTV.in" tvg-name="HINDI| CINEMA TV INDIA" tvg-logo="http://logo.protv.cc/picons/logos/CINEMA-TV-INDIA.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| CINEMA TV INDIA
+https://tgaadi-web.tech/portal.php?tv=280811
+#EXTINF:-1 tvg-id="ComedyActive.in" tvg-name="HINDI| COMEDY ACTIVE" tvg-logo="http://logo.protv.cc/picons/logos/logos/COMEDY-ACTIVE.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| COMEDY ACTIVE
+https://tgaadi-web.tech/portal.php?tv=155991
+#EXTINF:-1 tvg-id="" tvg-name="HINDI| DANGAL 2" tvg-logo="http://logo.protv.cc/picons/logos/logos/DANGAL-2.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| DANGAL 2
+https://tgaadi-web.tech/portal.php?tv=1532844
+#EXTINF:-1 tvg-id="" tvg-name="HINDI| DHAMAKA MOVIES B4U" tvg-logo="http://logo.protv.cc/picons/logos/logos/DHAMAKA-MOVIES-B4U.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| DHAMAKA MOVIES B4U
+https://tgaadi-web.tech/portal.php?tv=1532843
+#EXTINF:-1 tvg-id="" tvg-name="HINDI| DISH CINE ACTIVE" tvg-logo="http://logo.protv.cc/picons/logos/logos/DISH-CINE-ACTIVE.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| DISH CINE ACTIVE
+https://tgaadi-web.tech/portal.php?tv=155993
+#EXTINF:-1 tvg-id="" tvg-name="HINDI| ENTER 10 HD" tvg-logo="http://logo.protv.cc/picons/logos/logos/ENTER-10.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| ENTER 10 HD
+https://tgaadi-web.tech/portal.php?tv=155988
+#EXTINF:-1 tvg-id="Enterr10.in" tvg-name="HINDI| ENTERR 10" tvg-logo="http://logo.protv.cc/picons/logos/logos/ENTERR-10.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| ENTERR 10
+https://tgaadi-web.tech/portal.php?tv=280834
+#EXTINF:-1 tvg-id="ETVCinema.in" tvg-name="HINDI| ETV CINEMA" tvg-logo="http://logo.protv.cc/picons/logos/logos/ETV-CINEMA.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| ETV CINEMA
+https://tgaadi-web.tech/portal.php?tv=1532853
+#EXTINF:-1 tvg-id="" tvg-name="HINDI| GOLDMINES" tvg-logo="http://logo.protv.cc/picons/logos/logos/GOLDMINES.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| GOLDMINES
+https://tgaadi-web.tech/portal.php?tv=1532842
+#EXTINF:-1 tvg-id="" tvg-name="HINDI| GUJRATI CINEMA" tvg-logo="http://logo.protv.cc/picons/logos/logos/GUJRATI-CINEMA.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| GUJRATI CINEMA
+https://tgaadi-web.tech/portal.php?tv=1532858
+#EXTINF:-1 tvg-id="" tvg-name="HINDI| HOUSEFULL MOVIES" tvg-logo="http://logo.protv.cc/picons/logos/logos/HOUSEFULL-MOVIES.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| HOUSEFULL MOVIES
+https://tgaadi-web.tech/portal.php?tv=156054
+#EXTINF:-1 tvg-id="" tvg-name="HINDI| JAYA MOVIES" tvg-logo="http://logo.protv.cc/picons/logos/logos/JAYA-MOVIES.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| JAYA MOVIES
+https://tgaadi-web.tech/portal.php?tv=945584
+#EXTINF:-1 tvg-id="" tvg-name="HINDI| JIO PRIME FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/JIO-PRIME.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| JIO PRIME FHD
+https://tgaadi-web.tech/portal.php?tv=1532836
+#EXTINF:-1 tvg-id="MaaMovies.in" tvg-name="HINDI| MAA MOVIES" tvg-logo="http://logo.protv.cc/picons/logos/logos/MAA-MOVIES.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| MAA MOVIES
+https://tgaadi-web.tech/portal.php?tv=945555
+#EXTINF:-1 tvg-id="MahaMovie.in" tvg-name="HINDI| MAHA MOVIE HD" tvg-logo="http://logo.protv.cc/picons/logos/logos/MAHA-MOVIE.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| MAHA MOVIE HD
+https://tgaadi-web.tech/portal.php?tv=156063
+#EXTINF:-1 tvg-id="MahaMovie.in" tvg-name="HINDI| MAHA MOVIES" tvg-logo="http://logo.protv.cc/picons/logos/logos/MAHA-MOVIES.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| MAHA MOVIES
+https://tgaadi-web.tech/portal.php?tv=155986
+#EXTINF:-1 tvg-id="ManoranjanTV.in" tvg-name="HINDI| MANORANJAN" tvg-logo="http://logo.protv.cc/picons/logos/logos/MANORANJAN.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| MANORANJAN
+https://tgaadi-web.tech/portal.php?tv=280860
+#EXTINF:-1 tvg-id="" tvg-name="HINDI| MANORANJAN GRAND" tvg-logo="http://logo.protv.cc/picons/logos/logos/MANORANJAN-GRAND.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| MANORANJAN GRAND
+https://tgaadi-web.tech/portal.php?tv=1532841
+#EXTINF:-1 tvg-id="" tvg-name="HINDI| MN+ MOVIES FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/MN-PLUS-MOVIES.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| MN+ MOVIES FHD
+https://tgaadi-web.tech/portal.php?tv=1532854
+#EXTINF:-1 tvg-id="MNX.in" tvg-name="HINDI| MNX FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/MNX.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| MNX FHD
+https://tgaadi-web.tech/portal.php?tv=156021
+#EXTINF:-1 tvg-id="" tvg-name="HINDI| MOVIE HOUSE" tvg-logo="http://logo.protv.cc/picons/logos/logos/MOVIE-HOUSE.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| MOVIE HOUSE
+https://tgaadi-web.tech/portal.php?tv=155980
+#EXTINF:-1 tvg-id="" tvg-name="HINDI| MOVIE PLUS" tvg-logo="http://logo.protv.cc/picons/logos/logos/MOVIE-PLUS.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| MOVIE PLUS
+https://tgaadi-web.tech/portal.php?tv=1112148
+#EXTINF:-1 tvg-id="HDMoviesNow.in" tvg-name="HINDI| MOVIES NOW FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/MOVIES-NOW.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| MOVIES NOW FHD
+https://tgaadi-web.tech/portal.php?tv=156022
+#EXTINF:-1 tvg-id="" tvg-name="HINDI| PASAND" tvg-logo="http://logo.protv.cc/picons/logos/logos/PASAND.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| PASAND
+https://tgaadi-web.tech/portal.php?tv=1532840
+#EXTINF:-1 tvg-id="RomedyNow.in" tvg-name="HINDI| ROMEDY NOW" tvg-logo="http://logo.protv.cc/picons/logos/logos/ROMEDY-NOW.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| ROMEDY NOW
+https://tgaadi-web.tech/portal.php?tv=1532834
+#EXTINF:-1 tvg-id="" tvg-name="HINDI| SHEMAROO TV HD" tvg-logo="http://logo.protv.cc/picons/logos/logos/SHEMAROO.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| SHEMAROO TV HD
+https://tgaadi-web.tech/portal.php?tv=280897
+#EXTINF:-1 tvg-id="" tvg-name="HINDI| SHUBH CINEMA" tvg-logo="http://logo.protv.cc/picons/logos/logos/SHUBH-CINEMA.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| SHUBH CINEMA
+https://tgaadi-web.tech/portal.php?tv=1112150
+#EXTINF:-1 tvg-id="SuryaMovies.in" tvg-name="HINDI| SURYA CINEMA" tvg-logo="http://logo.protv.cc/picons/logos/logos/SURYA-CINEMA.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| SURYA CINEMA
+https://tgaadi-web.tech/portal.php?tv=280905
+#EXTINF:-1 tvg-id="" tvg-name="HINDI| THE Q ENTERTAINMENT" tvg-logo="http://logo.protv.cc/picons/logos/logos/THE-Q-ENTERTAINMENT.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| THE Q ENTERTAINMENT
+https://tgaadi-web.tech/portal.php?tv=1532855
+#EXTINF:-1 tvg-id="" tvg-name="HINDI| UTV BINDASS" tvg-logo="http://logo.protv.cc/picons/logos/logos/UTV-BINDASS.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| UTV BINDASS
+https://tgaadi-web.tech/portal.php?tv=1532846
+#EXTINF:-1 tvg-id="WOWCinema.in" tvg-name="HINDI| WOW CINEMA ONE" tvg-logo="http://logo.protv.cc/picons/logos/logos/WOW-CINEMA-ONE.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| WOW CINEMA ONE
+https://tgaadi-web.tech/portal.php?tv=280910
+#EXTINF:-1 tvg-id="Zing.in" tvg-name="HINDI| ZING" tvg-logo="http://logo.protv.cc/picons/logos/logos/ZING.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| ZING
+https://tgaadi-web.tech/portal.php?tv=156046
+-------
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| SPORTS 18 FHD" tvg-logo="http://logo.protv.cc/picons/logos/SPORTS-18-WCUP.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| SPORTS 18 FHD
+https://tgaadi-web.tech/portal.php?tv=1057243
+#EXTINF:-1 tvg-id="ARYFamily.pk" tvg-name="SPORTS| A SPORTS HD" tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/a-sport.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| A SPORTS HD
+https://tgaadi-web.tech/portal.php?tv=281100
+#EXTINF:-1 tvg-id="DDSports.in" tvg-name="SPORTS| D SPORTS HD" tvg-logo="http://logo.protv.cc/picons/logos/D-SPORTS-HD.jpg" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| D SPORTS HD
+https://tgaadi-web.tech/portal.php?tv=156027
+#EXTINF:-1 tvg-id="DDSports.in" tvg-name="SPORTS| DD SPORTS" tvg-logo="http://logo.protv.cc/picons/logos/ddsports.jpg" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| DD SPORTS
+https://tgaadi-web.tech/portal.php?tv=155983
+#EXTINF:-1 tvg-id="StarCricket.sg" tvg-name="SPORTS| ASTRO CRICKET HD" tvg-logo="http://logo.protv.cc/picons/logos/astrotv.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| ASTRO CRICKET HD
+https://tgaadi-web.tech/portal.php?tv=315181
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| TSPORTS" tvg-logo="" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| TSPORTS
+https://tgaadi-web.tech/portal.php?tv=156016
+#EXTINF:-1 tvg-id="SonySIX.in" tvg-name="SPORTS| STAR SPORTS KANNADA" tvg-logo="http://logo.protv.cc/picons/logos/SONY-SIX.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| STAR SPORTS KANNADA
+https://tgaadi-web.tech/portal.php?tv=156102
+#EXTINF:-1 tvg-id="StarSports1.in" tvg-name="SPORTS| STAR SPORTS 1 ENGLISH HD" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-1-HD.jpg" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| STAR SPORTS 1 ENGLISH HD
+https://tgaadi-web.tech/portal.php?tv=155968
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| STAR SPORTS HINDI 1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-1-HINDI-HD.jpg" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| STAR SPORTS HINDI 1 FHD
+https://tgaadi-web.tech/portal.php?tv=1114582
+#EXTINF:-1 tvg-id="StarSports1Hindi.in" tvg-name="SPORTS| STAR SPORTS 1 HINDI HD" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-1-HINDI-HD.jpg" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| STAR SPORTS 1 HINDI HD
+https://tgaadi-web.tech/portal.php?tv=155967
+#EXTINF:-1 tvg-id="StarSports1Hindi.in" tvg-name="SPORTS| STAR SPORTS HINDI 1" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-1-HINDI-HD.jpg" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| STAR SPORTS HINDI 1
+https://tgaadi-web.tech/portal.php?tv=282674
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| STAR SPORTS 1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-1-HD.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| STAR SPORTS 1 FHD
+https://tgaadi-web.tech/portal.php?tv=1114580
+#EXTINF:-1 tvg-id="StarSports1.in" tvg-name="SPORTS| STAR SPORTS 1" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-1-HD.jpg" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| STAR SPORTS 1
+https://tgaadi-web.tech/portal.php?tv=282677
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| STAR SPORTS 2 FHD" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-2-HD.jpeg" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| STAR SPORTS 2 FHD
+https://tgaadi-web.tech/portal.php?tv=1114581
+#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="SPORTS| STAR SPORTS 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-2-HD.jpeg" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| STAR SPORTS 2 HD
+https://tgaadi-web.tech/portal.php?tv=155966
+#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="SPORTS| STAR SPORTS 2" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-2-HD.jpeg" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| STAR SPORTS 2
+https://tgaadi-web.tech/portal.php?tv=282673
+#EXTINF:-1 tvg-id="StarSports3.in" tvg-name="SPORTS| STAR SPORTS 3" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-3.jpeg" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| STAR SPORTS 3
+https://tgaadi-web.tech/portal.php?tv=155976
+#EXTINF:-1 tvg-id="StarSports3.in" tvg-name="SPORTS| STAR SPORTS 3" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-3-HD.jpeg" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| STAR SPORTS 3
+https://tgaadi-web.tech/portal.php?tv=282678
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| STAR SPORTS SELECT 1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-SELECT-1-HD.jpg" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| STAR SPORTS SELECT 1 FHD
+https://tgaadi-web.tech/portal.php?tv=1114583
+#EXTINF:-1 tvg-id="StarSportsSelect1.in" tvg-name="SPORTS| STAR SPORTS SELECT 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-SELECT-1-HD.jpg" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| STAR SPORTS SELECT 1 HD
+https://tgaadi-web.tech/portal.php?tv=155972
+#EXTINF:-1 tvg-id="StarSportsSelect1.in" tvg-name="SPORTS| STAR SPORTS SELECT 1" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-SELECT-1-HD.jpg" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| STAR SPORTS SELECT 1
+https://tgaadi-web.tech/portal.php?tv=282675
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| STAR SPORTS SELECT 2 FHD" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-SELECT-2-HD.jpg" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| STAR SPORTS SELECT 2 FHD
+https://tgaadi-web.tech/portal.php?tv=1114584
+#EXTINF:-1 tvg-id="StarSportsSelect2.in" tvg-name="SPORTS| STAR SPORTS SELECT 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-SELECT-2-HD.jpg" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| STAR SPORTS SELECT 2 HD
+https://tgaadi-web.tech/portal.php?tv=155973
+#EXTINF:-1 tvg-id="StarSportsSelect2.in" tvg-name="SPORTS| STAR SPORTS SELECT 2" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-SELECT-2-HD.jpg" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| STAR SPORTS SELECT 2
+https://tgaadi-web.tech/portal.php?tv=282676
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| TEN 1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/SONY-TEN-1.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| TEN 1 FHD
+https://tgaadi-web.tech/portal.php?tv=1114576
+#EXTINF:-1 tvg-id="SonyTEN1.in" tvg-name="SPORTS| TEN 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/TEN-1-HD.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| TEN 1 HD
+https://tgaadi-web.tech/portal.php?tv=156017
+#EXTINF:-1 tvg-id="SonyTEN1.in" tvg-name="SPORTS| TEN 1" tvg-logo="http://logo.protv.cc/picons/logos/TEN-1-HD.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| TEN 1
+https://tgaadi-web.tech/portal.php?tv=282670
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| TEN 2 FHD" tvg-logo="http://logo.protv.cc/picons/logos/SONY-TEN-2.jpeg" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| TEN 2 FHD
+https://tgaadi-web.tech/portal.php?tv=1114577
+#EXTINF:-1 tvg-id="SonyTEN2.in" tvg-name="SPORTS| TEN 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/TEN-2-HD.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| TEN 2 HD
+https://tgaadi-web.tech/portal.php?tv=156010
+#EXTINF:-1 tvg-id="SonyTEN2.in" tvg-name="SPORTS| TEN 2" tvg-logo="http://logo.protv.cc/picons/logos/TEN-2-HD.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| TEN 2
+https://tgaadi-web.tech/portal.php?tv=282671
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| TEN 3 FHD" tvg-logo="http://logo.protv.cc/picons/logos/SONY-TEN-3.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| TEN 3 FHD
+https://tgaadi-web.tech/portal.php?tv=1114578
+#EXTINF:-1 tvg-id="SonyTEN3.in" tvg-name="SPORTS| TEN 3 HD" tvg-logo="http://logo.protv.cc/picons/logos/TEN-3-HD.jpeg" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| TEN 3 HD
+https://tgaadi-web.tech/portal.php?tv=156024
+#EXTINF:-1 tvg-id="SonyTEN3.in" tvg-name="SPORTS| TEN 3" tvg-logo="http://logo.protv.cc/picons/logos/TEN-3-HD.jpeg" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| TEN 3
+https://tgaadi-web.tech/portal.php?tv=282672
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| TEN 4 FHD" tvg-logo="http://logo.protv.cc/picons/logos/SONY-TEN-4.jpeg" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| TEN 4 FHD
+https://tgaadi-web.tech/portal.php?tv=1114579
+#EXTINF:-1 tvg-id="NowSports1En.hk" tvg-name="SPORTS| HK NOW SPORTS 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/nowsports.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| HK NOW SPORTS 1 HD
+https://tgaadi-web.tech/portal.php?tv=1110615
+#EXTINF:-1 tvg-id="NowSports2En.hk" tvg-name="SPORTS| HK NOW SPORTS 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/nowsports.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| HK NOW SPORTS 2 HD
+https://tgaadi-web.tech/portal.php?tv=1110616
+#EXTINF:-1 tvg-id="NowSports3En.hk" tvg-name="SPORTS| HK NOW SPORTS 3 HD" tvg-logo="http://logo.protv.cc/picons/logos/nowsports.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| HK NOW SPORTS 3 HD
+https://tgaadi-web.tech/portal.php?tv=1110617
+#EXTINF:-1 tvg-id="NowSports4En.hk" tvg-name="SPORTS| HK NOW SPORTS 4 HD" tvg-logo="http://logo.protv.cc/picons/logos/nowsports.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| HK NOW SPORTS 4 HD
+https://tgaadi-web.tech/portal.php?tv=1110618
+#EXTINF:-1 tvg-id="NowSports5En.hk" tvg-name="SPORTS| HK NOW SPORTS 5 HD" tvg-logo="http://logo.protv.cc/picons/logos/nowsports.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| HK NOW SPORTS 5 HD
+https://tgaadi-web.tech/portal.php?tv=1110619
+#EXTINF:-1 tvg-id="NowSports6En.hk" tvg-name="SPORTS| HK NOW SPORTS 6 HD" tvg-logo="http://logo.protv.cc/picons/logos/nowsports.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| HK NOW SPORTS 6 HD
+https://tgaadi-web.tech/portal.php?tv=1110620
+#EXTINF:-1 tvg-id="NowSports7En.hk" tvg-name="SPORTS| HK NOW SPORTS 7 HD" tvg-logo="http://logo.protv.cc/picons/logos/nowsports.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| HK NOW SPORTS 7 HD
+https://tgaadi-web.tech/portal.php?tv=1110621
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| HK NOW PREMIER SPORTS 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/nowsports.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| HK NOW PREMIER SPORTS 1 HD
+https://tgaadi-web.tech/portal.php?tv=1110622
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| HUB SPORTS 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/HUB-SPORTS-1.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| HUB SPORTS 1 HD
+https://tgaadi-web.tech/portal.php?tv=1110667
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| HUB SPORTS 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/HUB-SPORTS-2.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| HUB SPORTS 2 HD
+https://tgaadi-web.tech/portal.php?tv=1110666
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| HUB SPORTS 3 HD" tvg-logo="http://logo.protv.cc/picons/logos/HUB-SPORTS-3.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| HUB SPORTS 3 HD
+https://tgaadi-web.tech/portal.php?tv=1110665
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| MY SUPERSPORTS 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/supersport1.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| MY SUPERSPORTS 1 HD
+https://tgaadi-web.tech/portal.php?tv=1111034
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| MY SUPERSPORTS 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/supersport2.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| MY SUPERSPORTS 2 HD
+https://tgaadi-web.tech/portal.php?tv=1111033
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| MY SUPERSPORTS 3 HD" tvg-logo="http://logo.protv.cc/picons/logos/supersport3.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| MY SUPERSPORTS 3 HD
+https://tgaadi-web.tech/portal.php?tv=1111032
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| MY SUPERSPORTS 4 HD" tvg-logo="http://logo.protv.cc/picons/logos/supersport4.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="SPORTS",SPORTS| MY SUPERSPORTS 4 HD
+https://tgaadi-web.tech/portal.php?tv=1111031
+-------
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI COMEDY CLIP
+https://tgaadi-web.tech/spice.m3u8?tv=13033
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",ENGLISH HINDI DUBBED MOVIES 1 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13036
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",ENGLISH HINDI DUBBED MOVIES 2 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13039
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",ENGLISH HINDI DUBBED MOVIES 3 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13042
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",ENGLISH HINDI DUBBED MOVIES 4 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13045
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",ENGLISH HINDI DUBBED MOVIES 5 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13048
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",ENGLISH HINDI DUBBED MOVIES 6 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13051
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",DUBBED CINEBOX PICTURES CINEMA HD
+https://tgaadi-web.tech/spice.m3u8?tv=13054
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",DUBBED WAM CINEMA HD
+https://tgaadi-web.tech/spice.m3u8?tv=13057
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",DUBBED VENUS DUBBED CINEMA HD
+https://tgaadi-web.tech/spice.m3u8?tv=13060
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",DUBBED DJR RECORDS DUBBED CINEMA HD
+https://tgaadi-web.tech/spice.m3u8?tv=13063
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",DUBBED AD-WISE MEDIA ACTION CINEMA HD
+https://tgaadi-web.tech/spice.m3u8?tv=13066
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",DUBBED ACTION DIGIPLEX CINEMA HD
+https://tgaadi-web.tech/spice.m3u8?tv=13069
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",DUBBED PEN ACTION CINEMA HD
+https://tgaadi-web.tech/spice.m3u8?tv=13072
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI EROSNOW CINEMA HD 1
+https://tgaadi-web.tech/spice.m3u8?tv=13075
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI EROSNOW CLASSIC CINEMA HD 1
+https://tgaadi-web.tech/spice.m3u8?tv=13078
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI EROSNOW CLASSIC CINEMA HD 2
+https://tgaadi-web.tech/spice.m3u8?tv=13081
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI SHAMAROO CINEMA 1 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13084
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI SHAMAROO CLASSIC CINEMA 1 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13087
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI SHAMAROO CLASSIC CINEMA 2 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13090
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI 2020-2022 CINEMA HD
+https://tgaadi-web.tech/spice.m3u8?tv=13093
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI 2020-2022 CINEMA 2 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13096
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI 2020-2022 2 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13099
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CINEMA BLOCKBUSTER 1 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13102
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI SUPER HIT CINEMA 1 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13105
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI HIT CINEMA 2 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13108
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI HIT CINEMA 3 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13111
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI HIT CINEMA 4 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13114
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI MOVIE CINEMA HD
+https://tgaadi-web.tech/spice.m3u8?tv=13117
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",KIDS CLASSIC CINEMA HD
+https://tgaadi-web.tech/spice.m3u8?tv=13120
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CINEMA HD
+https://tgaadi-web.tech/spice.m3u8?tv=13123
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CINEMA 1 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13126
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CINEMA 2 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13129
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CINEMA 3 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13132
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CINEMA 4 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13135
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CINEMA 5 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13138
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CINEMA 6 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13141
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CINEMA 7 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13144
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CINEMA 8 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13147
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CINEMA 9 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13150
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CINEMA 10 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13153
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CINEMA 11 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13156
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CINEMA 12 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13159
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CINEMA 13 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13162
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CINEMA 14 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13165
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI BOLLYWOOD CINEMA 1 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13168
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI BOLLYWOOD CINEMA 2 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13171
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI BOLLYWOOD CINEMA 3 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13174
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI BOLLYWOOD CINEMA 4 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13177
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI PEN CINEMA HD
+https://tgaadi-web.tech/spice.m3u8?tv=13180
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI RAJSHRI CINEMA HD
+https://tgaadi-web.tech/spice.m3u8?tv=13183
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ULTRA CLASSIC CINEMA MOVIES 1
+https://tgaadi-web.tech/spice.m3u8?tv=13186
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ULTRA CLASSIC CINEMA MOVIES 2
+https://tgaadi-web.tech/spice.m3u8?tv=13189
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC CINEMA 1 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13192
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC CINEMA 2 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13195
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC CINEMA 3 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13198
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC CINEMA 4 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13201
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC CINEMA 5 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13204
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC CINEMA 6 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13207
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC CINEMA 7 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13210
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC CINEMA 8 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13213
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC CINEMA 9 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13216
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC ACTION DRAMA HD
+https://tgaadi-web.tech/spice.m3u8?tv=13219
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CALSSIC ACTION DRAMA 2 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13222
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC ACTION DRAMA 3 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13225
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC BIOGRAPHY HD
+https://tgaadi-web.tech/spice.m3u8?tv=13228
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC MUSIC HD
+https://tgaadi-web.tech/spice.m3u8?tv=13231
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC DRAMA THRILLER HD
+https://tgaadi-web.tech/spice.m3u8?tv=13234
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC DRAMA ROMANCE HD
+https://tgaadi-web.tech/spice.m3u8?tv=13237
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC DRAMA ROMANCE 2 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13240
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC DRAMA HD
+https://tgaadi-web.tech/spice.m3u8?tv=13243
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC DRAMA 2 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13246
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC COMEDY ROMANCE HD
+https://tgaadi-web.tech/spice.m3u8?tv=13249
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC COMEDY DRAMA HD
+https://tgaadi-web.tech/spice.m3u8?tv=13252
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC COMEDY HD
+https://tgaadi-web.tech/spice.m3u8?tv=13255
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC ADVENTURE HD
+https://tgaadi-web.tech/spice.m3u8?tv=13258
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC ACTION THRILLER HD
+https://tgaadi-web.tech/spice.m3u8?tv=13261
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC ACTION CRIME HD
+https://tgaadi-web.tech/spice.m3u8?tv=13264
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC ACTION COMEDY HD
+https://tgaadi-web.tech/spice.m3u8?tv=13267
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC ACTION ADVENTURE HD
+https://tgaadi-web.tech/spice.m3u8?tv=13270
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC ACTION HD
+https://tgaadi-web.tech/spice.m3u8?tv=13273
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI DRAMA ROMANCE CINEMA HD
+https://tgaadi-web.tech/spice.m3u8?tv=13276
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI COMEDY ROMANCE CINEMA HD
+https://tgaadi-web.tech/spice.m3u8?tv=13279
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI FANTASY CINEMA HD
+https://tgaadi-web.tech/spice.m3u8?tv=13282
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI MYSTERY CINEMA HD
+https://tgaadi-web.tech/spice.m3u8?tv=13285
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI SCIFI CINEMA HD
+https://tgaadi-web.tech/spice.m3u8?tv=13288
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ADVENTURE CINEMA HD
+https://tgaadi-web.tech/spice.m3u8?tv=13291
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CRIME CINEMA HD
+https://tgaadi-web.tech/spice.m3u8?tv=13294
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI FAMILY CINEMA HD
+https://tgaadi-web.tech/spice.m3u8?tv=13297
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ANIMATED CINEMA HD
+https://tgaadi-web.tech/spice.m3u8?tv=13300
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI HORROR CINEMA HD
+https://tgaadi-web.tech/spice.m3u8?tv=13303
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI BIOGRAPHY CINEMA HD
+https://tgaadi-web.tech/spice.m3u8?tv=13306
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI WAR CINEMA HD
+https://tgaadi-web.tech/spice.m3u8?tv=13309
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI THRILLER CINEMA HD
+https://tgaadi-web.tech/spice.m3u8?tv=13312
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ROMANCE CINEMA 1 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13315
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI SPORTS CINEMA HD
+https://tgaadi-web.tech/spice.m3u8?tv=13318
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTION ADVENTURE CINEMA HD
+https://tgaadi-web.tech/spice.m3u8?tv=13321
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI HISTORY CINEMA HD
+https://tgaadi-web.tech/spice.m3u8?tv=13324
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI AVERAGE CINEMA 1 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13327
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI AVERAGE CINEMA 2 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13330
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI AVERAGE CINEMA 3 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13333
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI AVERAGE CINEMA 4 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13336
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI AVERAGE CINEMA 5 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13339
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTION MOVIES 1 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13342
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI COMEDY MOVIES 1 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13345
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI MUSICAL MOVIES HD
+https://tgaadi-web.tech/spice.m3u8?tv=13348
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI DRAMA MOVIES 1 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13351
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI DRAMA ROMANCE 2 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13354
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI DRAMA THRILLER HD
+https://tgaadi-web.tech/spice.m3u8?tv=13357
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI COMEDY DRAMA HD
+https://tgaadi-web.tech/spice.m3u8?tv=13360
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTION DRAMA 2 HD
+https://tgaadi-web.tech/spice.m3u8?tv=13363
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTION THRILLER HD
+https://tgaadi-web.tech/spice.m3u8?tv=13366
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTION DRAMA HD
+https://tgaadi-web.tech/spice.m3u8?tv=13369
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTION CRIME HD
+https://tgaadi-web.tech/spice.m3u8?tv=13372
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTION COMEDY HD
+https://tgaadi-web.tech/spice.m3u8?tv=13375
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR ABHAY DEOL HD
+https://tgaadi-web.tech/spice.m3u8?tv=13378
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR ABHISHEK BACHCHAN HD
+https://tgaadi-web.tech/spice.m3u8?tv=13381
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR AFTAB SHIVDASANI HD
+https://tgaadi-web.tech/spice.m3u8?tv=13384
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR AJAY DEVGAN HD
+https://tgaadi-web.tech/spice.m3u8?tv=13387
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR AKSHAY KUMAR HD
+https://tgaadi-web.tech/spice.m3u8?tv=13390
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR SHAMMI KAPOOR HD
+https://tgaadi-web.tech/spice.m3u8?tv=13393
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR AMIR KHAN HD
+https://tgaadi-web.tech/spice.m3u8?tv=13396
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR AMITABH BACHCHAN HD
+https://tgaadi-web.tech/spice.m3u8?tv=13399
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR JOHNY WALKER HD
+https://tgaadi-web.tech/spice.m3u8?tv=13402
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR ANIL KAPOOR HD
+https://tgaadi-web.tech/spice.m3u8?tv=13405
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR ARBAAZ KHAN HD
+https://tgaadi-web.tech/spice.m3u8?tv=13408
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR ASHUTOSH RANA HD
+https://tgaadi-web.tech/spice.m3u8?tv=13411
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR AYUSHMANN KHURRANA HD
+https://tgaadi-web.tech/spice.m3u8?tv=13414
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR BOBBY DEOL HD
+https://tgaadi-web.tech/spice.m3u8?tv=13417
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR BOMAN IRANI HD
+https://tgaadi-web.tech/spice.m3u8?tv=13420
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR DHARMENDRA HD
+https://tgaadi-web.tech/spice.m3u8?tv=13423
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR DILIP KUMAR HD
+https://tgaadi-web.tech/spice.m3u8?tv=13426
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR OM PURI HD
+https://tgaadi-web.tech/spice.m3u8?tv=13429
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR EMRAAN HASHMI HD
+https://tgaadi-web.tech/spice.m3u8?tv=13432
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR FARHAN AKHTAR HD
+https://tgaadi-web.tech/spice.m3u8?tv=13435
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR GOVINDA HD
+https://tgaadi-web.tech/spice.m3u8?tv=13438
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR GULSHAN GROVER HD
+https://tgaadi-web.tech/spice.m3u8?tv=13441
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR HRITHIK ROSHAN HD
+https://tgaadi-web.tech/spice.m3u8?tv=13444
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR FEROZ KHAN HD
+https://tgaadi-web.tech/spice.m3u8?tv=13447
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR ANUPAM KHER HD
+https://tgaadi-web.tech/spice.m3u8?tv=13450
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR JACKIE SHROFF HD
+https://tgaadi-web.tech/spice.m3u8?tv=13453
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR JHONNY LEVER HD
+https://tgaadi-web.tech/spice.m3u8?tv=13456
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR JOHN ABRAHAM HD
+https://tgaadi-web.tech/spice.m3u8?tv=13459
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR RAJ BABBAR HD
+https://tgaadi-web.tech/spice.m3u8?tv=13462
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR KADER KHAN HD
+https://tgaadi-web.tech/spice.m3u8?tv=13465
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR KAY KAY MENON HD
+https://tgaadi-web.tech/spice.m3u8?tv=13468
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR MITHUN CHAKRABORTY HD
+https://tgaadi-web.tech/spice.m3u8?tv=13471
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR NANA PATEKAR HD
+https://tgaadi-web.tech/spice.m3u8?tv=13474
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR NAWAZUDDIN SIDDIQIU HD
+https://tgaadi-web.tech/spice.m3u8?tv=13477
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR PANKAJ TRIPATHI HD
+https://tgaadi-web.tech/spice.m3u8?tv=13480
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR PARESH RAWAL HD
+https://tgaadi-web.tech/spice.m3u8?tv=13483
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR PREM CHOPRA HD
+https://tgaadi-web.tech/spice.m3u8?tv=13486
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR RAJESH KHANNA HD
+https://tgaadi-web.tech/spice.m3u8?tv=13489
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR RAJKUMMAR RAO HD
+https://tgaadi-web.tech/spice.m3u8?tv=13492
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR RANBIR KAPOOR HD
+https://tgaadi-web.tech/spice.m3u8?tv=13495
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR RANDEEP HOODA HD
+https://tgaadi-web.tech/spice.m3u8?tv=13498
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR RANVEER SINGH HD
+https://tgaadi-web.tech/spice.m3u8?tv=13501
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR RISHI KAPOOR HD
+https://tgaadi-web.tech/spice.m3u8?tv=13504
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR RITEISH DESHMUKH HD
+https://tgaadi-web.tech/spice.m3u8?tv=13507
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR SUNIEL DUTT HD
+https://tgaadi-web.tech/spice.m3u8?tv=13510
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR SAIF ALI KHAN HD
+https://tgaadi-web.tech/spice.m3u8?tv=13513
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR SALMAN KHAN HD
+https://tgaadi-web.tech/spice.m3u8?tv=13516
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR SANJAY DUTT HD
+https://tgaadi-web.tech/spice.m3u8?tv=13519
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR SANJAY MISHRA HD
+https://tgaadi-web.tech/spice.m3u8?tv=13522
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR SHAHID KAPOOR HD
+https://tgaadi-web.tech/spice.m3u8?tv=13525
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR SHAHRUKH KHAN HD
+https://tgaadi-web.tech/spice.m3u8?tv=13528
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR SHAKTI KAPOOR HD
+https://tgaadi-web.tech/spice.m3u8?tv=13531
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR SHARMAN JOSHI HD
+https://tgaadi-web.tech/spice.m3u8?tv=13534
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR SHATRUGHAN SINHA HD
+https://tgaadi-web.tech/spice.m3u8?tv=13537
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR RAAJ KUMAR HD
+https://tgaadi-web.tech/spice.m3u8?tv=13540
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR SUNIEL SHETTY HD
+https://tgaadi-web.tech/spice.m3u8?tv=13543
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR SUNNY DEOL HD
+https://tgaadi-web.tech/spice.m3u8?tv=13546
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR SUSHANT SINGH RAJPUT HD
+https://tgaadi-web.tech/spice.m3u8?tv=13549
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR TIGER SHROFF HD
+https://tgaadi-web.tech/spice.m3u8?tv=13552
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR VARUN DHAWAN HD
+https://tgaadi-web.tech/spice.m3u8?tv=13555
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR VIDUTJAMMWAL HD
+https://tgaadi-web.tech/spice.m3u8?tv=13558
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR VINOD KHANNA HD
+https://tgaadi-web.tech/spice.m3u8?tv=13561
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR VIVEK OBEROI HD
+https://tgaadi-web.tech/spice.m3u8?tv=13564
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR RAJENDRA KUMAR HD
+https://tgaadi-web.tech/spice.m3u8?tv=13567
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR SADASHIV AMRAPURKAR HD
+https://tgaadi-web.tech/spice.m3u8?tv=13570
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR NASEERDDIN SHAH HD
+https://tgaadi-web.tech/spice.m3u8?tv=13573
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR MIX HD
+https://tgaadi-web.tech/spice.m3u8?tv=13576
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR KISHORE KUMAR
+https://tgaadi-web.tech/spice.m3u8?tv=13579
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR BHARAT BHUSHAN HD
+https://tgaadi-web.tech/spice.m3u8?tv=13582
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR DEV ANAND HD
+https://tgaadi-web.tech/spice.m3u8?tv=13585
+#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR AMRISH PURI
+https://tgaadi-web.tech/spice.m3u8?tv=13588
+--------
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| HOTSTAR HD" tvg-logo="http://logo.protv.cc/picons/logos/ASIA/HOTSTAR.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| HOTSTAR HD
 https://tgaadi-web.tech/portal.php?tv=636448
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| ZEE5 HD" tvg-logo="http://logo.protv.cc/picons/logos/ASIA/ZEE5.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| ZEE5 HD
@@ -373,7 +1012,6 @@ https://tgaadi-web.tech/portal.php?tv=1024830
 https://tgaadi-web.tech/portal.php?tv=1024828
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| CLASSIC" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/classic-1-logo-png-transparent.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| CLASSIC
 https://tgaadi-web.tech/portal.php?tv=1024827
--------
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| BOLLYWOOD 1" tvg-logo="http://logo.protv.cc/picons/logos/047bollywood.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| BOLLYWOOD 1
 https://tgaadi-web.tech/portal.php?tv=1019880
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| BOLLYWOOD 2" tvg-logo="http://logo.protv.cc/picons/logos/047bollywood.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| BOLLYWOOD 2
@@ -392,7 +1030,6 @@ https://tgaadi-web.tech/portal.php?tv=1019888
 https://tgaadi-web.tech/portal.php?tv=1019886
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| BOLLYWOOD 9" tvg-logo="http://logo.protv.cc/picons/logos/047bollywood.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| BOLLYWOOD 9
 https://tgaadi-web.tech/portal.php?tv=1019887
--------
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| PUNJABI 1" tvg-logo="http://logo.protv.cc/picons/logos/DD-PUNJABI.jpeg" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| PUNJABI 1
 https://tgaadi-web.tech/portal.php?tv=1019900
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| PUNJABI 2" tvg-logo="http://logo.protv.cc/picons/logos/DD-PUNJABI.jpeg" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| PUNJABI 2
@@ -403,7 +1040,6 @@ https://tgaadi-web.tech/portal.php?tv=1019902
 https://tgaadi-web.tech/portal.php?tv=1019904
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| PUNJABI 5" tvg-logo="http://logo.protv.cc/picons/logos/DD-PUNJABI.jpeg" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| PUNJABI 5
 https://tgaadi-web.tech/portal.php?tv=1019903
--------
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| ALTBALAJI SERIES" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| ALTBALAJI SERIES
 https://tgaadi-web.tech/portal.php?tv=636197
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| AMAZON PRIME SERIES" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| AMAZON PRIME SERIES
@@ -430,7 +1066,6 @@ https://tgaadi-web.tech/portal.php?tv=636186
 https://tgaadi-web.tech/portal.php?tv=636184
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| VOOT SERIES" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| VOOT SERIES
 https://tgaadi-web.tech/portal.php?tv=636185
--------
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| HINDI CLASSIC ACTION" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| HINDI CLASSIC ACTION
 https://tgaadi-web.tech/portal.php?tv=636182
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| HINDI CLASSIC COMEDY" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| HINDI CLASSIC COMEDY
@@ -445,7 +1080,6 @@ https://tgaadi-web.tech/portal.php?tv=636175
 https://tgaadi-web.tech/portal.php?tv=636174
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| HINDI CLASSIC DRAMA" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| HINDI CLASSIC DRAMA
 https://tgaadi-web.tech/portal.php?tv=636193
--------
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| HINDI CRIME" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| HINDI CRIME
 https://tgaadi-web.tech/portal.php?tv=636173
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| HINDI FAMILY" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| HINDI FAMILY
@@ -462,7 +1096,6 @@ https://tgaadi-web.tech/portal.php?tv=636165
 https://tgaadi-web.tech/portal.php?tv=636164
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| HINDI WAR" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| HINDI WAR
 https://tgaadi-web.tech/portal.php?tv=636162
--------
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| SHAMAROO HINDI" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| SHAMAROO HINDI
 https://tgaadi-web.tech/portal.php?tv=636160
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| SHAMAROO HINDI 1" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| SHAMAROO HINDI 1
@@ -475,14 +1108,12 @@ https://tgaadi-web.tech/portal.php?tv=636157
 https://tgaadi-web.tech/portal.php?tv=636156
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| SHAMAROO HINDI 5" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| SHAMAROO HINDI 5
 https://tgaadi-web.tech/portal.php?tv=636155
--------
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| SOLO BLOCKBUSTER" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| SOLO BLOCKBUSTER
 https://tgaadi-web.tech/portal.php?tv=636154
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| SOLO HINDI MOVIES" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| SOLO HINDI MOVIES
 https://tgaadi-web.tech/portal.php?tv=636153
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| SOLO HINDI MOVIES 5" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| SOLO HINDI MOVIES 5
 https://tgaadi-web.tech/portal.php?tv=636148
--------
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| ABHISHEK BACHCHAN" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| ABHISHEK BACHCHAN
 https://tgaadi-web.tech/portal.php?tv=636141
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| AKSHAYE KHANNA" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| AKSHAYE KHANNA
@@ -553,7 +1184,6 @@ https://tgaadi-web.tech/portal.php?tv=636103
 https://tgaadi-web.tech/portal.php?tv=636102
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| KUMAR SANU" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| KUMAR SANU
 https://tgaadi-web.tech/portal.php?tv=636101
--------
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| LATA MANGESHKAR" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| LATA MANGESHKAR
 https://tgaadi-web.tech/portal.php?tv=636100
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| LATA MANGESKHAR 1" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| LATA MANGESKHAR 1
@@ -562,7 +1192,6 @@ https://tgaadi-web.tech/portal.php?tv=636099
 https://tgaadi-web.tech/portal.php?tv=636098
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| LATA MANGESKHAR 3" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| LATA MANGESKHAR 3
 https://tgaadi-web.tech/portal.php?tv=636097
--------
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| MAHENDRA KAPOOR" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| MAHENDRA KAPOOR
 https://tgaadi-web.tech/portal.php?tv=636096
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| MOHIT CHOHAN" tvg-logo="http://logo.protv.cc/picons/logos/premium.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="24×7 MOVIES",IN-PREM| MOHIT CHOHAN
@@ -926,173 +1555,6 @@ https://tgaadi-web.tech/portal.php?tv=156098
 https://tgaadi-web.tech/portal.php?tv=1526163
 #EXTINF:-1 tvg-id="" tvg-name="N-NEWS | TS ZEE NEWS MP/CHATTISGARH" tvg-logo="http://logo.protv.cc/picons/logos/logos/TS-ZEE-NEWS-MPCHATTISGARH.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="NEWS",N-NEWS | TS ZEE NEWS MP/CHATTISGARH
 https://tgaadi-web.tech/portal.php?tv=1526162
--------
-#EXTINF:-1 tvg-id="AndFlix.in" tvg-name="HINDI| & FLIX FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/AFLIX.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| & FLIX FHD
-https://tgaadi-web.tech/portal.php?tv=155990
-#EXTINF:-1 tvg-id="" tvg-name="HINDI| & FLIX HINDI FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/FLIX-HINDI.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| & FLIX HINDI FHD
-https://tgaadi-web.tech/portal.php?tv=1532831
-#EXTINF:-1 tvg-id="AndPictures.in" tvg-name="HINDI| & PICTURES" tvg-logo="http://logo.protv.cc/picons/logos/logos/INDIA-TV.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| & PICTURES
-https://tgaadi-web.tech/portal.php?tv=280744
-#EXTINF:-1 tvg-id="AndPictures.in" tvg-name="HINDI| & PICTURES FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/INDIA-TV.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| & PICTURES FHD
-https://tgaadi-web.tech/portal.php?tv=155997
-#EXTINF:-1 tvg-id="AndPrive.in" tvg-name="HINDI| & PRIVE FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/privetv.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| & PRIVE FHD
-https://tgaadi-web.tech/portal.php?tv=1532832
-#EXTINF:-1 tvg-id="" tvg-name="HINDI| COLORS CINEPLEX BOLLYWOOD" tvg-logo="http://logo.protv.cc/picons/logos/logos/COLORS-CINEPLEX-BOLLYWOOD.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| COLORS CINEPLEX BOLLYWOOD
-https://tgaadi-web.tech/portal.php?tv=946375
-#EXTINF:-1 tvg-id="Cineplex.in" tvg-name="HINDI| COLORS CINEPLEX FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/COLORS-CINEPLEX.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| COLORS CINEPLEX FHD
-https://tgaadi-web.tech/portal.php?tv=156003
-#EXTINF:-1 tvg-id="Cineplex.in" tvg-name="HINDI| COLORS CINEPLEX SD" tvg-logo="http://logo.protv.cc/picons/logos/logos/colorscineplex.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| COLORS CINEPLEX SD
-https://tgaadi-web.tech/portal.php?tv=280749
-#EXTINF:-1 tvg-id="ColorsInfinity.in" tvg-name="HINDI| COLORS INFINITY FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/COLORS-INFINITY.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| COLORS INFINITY FHD
-https://tgaadi-web.tech/portal.php?tv=1532833
-#EXTINF:-1 tvg-id="SonyMax.in" tvg-name="HINDI| SONY MAX FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/SONY-MAX.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| SONY MAX FHD
-https://tgaadi-web.tech/portal.php?tv=156013
-#EXTINF:-1 tvg-id="SonyMax.in" tvg-name="HINDI| SONY MAX HD" tvg-logo="http://logo.protv.cc/picons/logos/logos/SONY-MAX.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| SONY MAX HD
-https://tgaadi-web.tech/portal.php?tv=156106
-#EXTINF:-1 tvg-id="SonyMax2.in" tvg-name="HINDI| SONY MAX 2" tvg-logo="http://logo.protv.cc/picons/logos/logos/SONY-MAX-2.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| SONY MAX 2
-https://tgaadi-web.tech/portal.php?tv=156118
-#EXTINF:-1 tvg-id="SonyMax2.in" tvg-name="HINDI| SONY MAX 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/logos/SONY-MAX-2.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| SONY MAX 2 HD
-https://tgaadi-web.tech/portal.php?tv=280780
-#EXTINF:-1 tvg-id="SonyPix.in" tvg-name="HINDI| SONY PIX FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/SONY-PIX.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| SONY PIX FHD
-https://tgaadi-web.tech/portal.php?tv=156004
-#EXTINF:-1 tvg-id="SonyWah.in" tvg-name="HINDI| SONY WAH" tvg-logo="http://logo.protv.cc/picons/logos/logos/SONY-WAH.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| SONY WAH
-https://tgaadi-web.tech/portal.php?tv=156039
-#EXTINF:-1 tvg-id="StarGold.in" tvg-name="HINDI| STAR GOLD FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/STAR-GOLD.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| STAR GOLD FHD
-https://tgaadi-web.tech/portal.php?tv=155969
-#EXTINF:-1 tvg-id="StarGold.in" tvg-name="HINDI| STAR GOLD HD" tvg-logo="http://logo.protv.cc/picons/logos/logos/STAR-GOLD.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| STAR GOLD HD
-https://tgaadi-web.tech/portal.php?tv=280766
-#EXTINF:-1 tvg-id="StarGold2.in" tvg-name="HINDI| STAR GOLD 2 FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/STAR-GOLD-2.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| STAR GOLD 2 FHD
-https://tgaadi-web.tech/portal.php?tv=1112132
-#EXTINF:-1 tvg-id="StarGold2.in" tvg-name="HINDI| STAR GOLD 2" tvg-logo="http://logo.protv.cc/picons/logos/logos/STAR-GOLD-2.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| STAR GOLD 2
-https://tgaadi-web.tech/portal.php?tv=1532835
-#EXTINF:-1 tvg-id="UTVMovies.in" tvg-name="HINDI| STAR GOLD ROMANCE" tvg-logo="http://logo.protv.cc/picons/logos/logos/STAR-GOLD-ROMANCE.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| STAR GOLD ROMANCE
-https://tgaadi-web.tech/portal.php?tv=156033
-#EXTINF:-1 tvg-id="StarGoldSelect.in" tvg-name="HINDI| STAR GOLD SELECT FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/STAR-GOLD-SELECT.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| STAR GOLD SELECT FHD
-https://tgaadi-web.tech/portal.php?tv=155970
-#EXTINF:-1 tvg-id="" tvg-name="HINDI| STAR GOLD THRILLS" tvg-logo="http://logo.protv.cc/picons/logos/logos/STAR-GOLD-THRILLS.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| STAR GOLD THRILLS
-https://tgaadi-web.tech/portal.php?tv=1118072
-#EXTINF:-1 tvg-id="StarUtsavMovies.in" tvg-name="HINDI| STAR MOVIES FHD" tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/STAR-UTSAV-MOVIES.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| STAR MOVIES FHD
-https://tgaadi-web.tech/portal.php?tv=1112131
-#EXTINF:-1 tvg-id="StarGoldSelect.in" tvg-name="HINDI| STARGOLD SELECT HD" tvg-logo="http://logo.protv.cc/picons/logos/logos/STARGOLD-SELECT.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| STARGOLD SELECT HD
-https://tgaadi-web.tech/portal.php?tv=280778
-#EXTINF:-1 tvg-id="" tvg-name="HINDI| TATA PLAY HIFHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/TATA-PLAY-HIFHD.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| TATA PLAY HIFHD
-https://tgaadi-web.tech/portal.php?tv=1532849
-#EXTINF:-1 tvg-id="" tvg-name="HINDI| TATA PLAY HOLLYWOOD LOCAL" tvg-logo="http://logo.protv.cc/picons/logos/logos/TATA-PLAY-HOLLYWOOD-LOCAL.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| TATA PLAY HOLLYWOOD LOCAL
-https://tgaadi-web.tech/portal.php?tv=1532848
-#EXTINF:-1 tvg-id="" tvg-name="HINDI| TATA PLAY JAVED AKHTAR" tvg-logo="http://logo.protv.cc/picons/logos/logos/TATA-PLAY-JAVED-AKHTAR.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| TATA PLAY JAVED AKHTAR
-https://tgaadi-web.tech/portal.php?tv=1532850
-#EXTINF:-1 tvg-id="" tvg-name="HINDI| TATA PLAY ROMANCE" tvg-logo="http://logo.protv.cc/picons/logos/logos/TATA-PLAY-TOONS.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| TATA PLAY ROMANCE
-https://tgaadi-web.tech/portal.php?tv=1532839
-#EXTINF:-1 tvg-id="" tvg-name="HINDI| TATA PLAY SHORTV" tvg-logo="http://logo.protv.cc/picons/logos/logos/TATA-PLAY-SHORTV.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| TATA PLAY SHORTV
-https://tgaadi-web.tech/portal.php?tv=1532852
-#EXTINF:-1 tvg-id="" tvg-name="HINDI| TATA PLAY SOUTH TALKIES" tvg-logo="http://logo.protv.cc/picons/logos/logos/TATA-PLAY-TOONS.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| TATA PLAY SOUTH TALKIES
-https://tgaadi-web.tech/portal.php?tv=1532838
-#EXTINF:-1 tvg-id="" tvg-name="HINDI| TATA PLAY VIDESHI KAHANIYAN" tvg-logo="http://logo.protv.cc/picons/logos/logos/TATA-PLAY-VIDESHI-KAHANIYAN.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| TATA PLAY VIDESHI KAHANIYAN
-https://tgaadi-web.tech/portal.php?tv=1532837
-#EXTINF:-1 tvg-id="" tvg-name="HINDI| TATA PLAY ZINDAGI" tvg-logo="http://logo.protv.cc/picons/logos/logos/TATA-PLAY-ZINDAGI.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| TATA PLAY ZINDAGI
-https://tgaadi-web.tech/portal.php?tv=1532847
-#EXTINF:-1 tvg-id="" tvg-name="HINDI| TATA SKY THEATRE FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/TATA-SKY-THEATRE.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| TATA SKY THEATRE FHD
-https://tgaadi-web.tech/portal.php?tv=1532851
-#EXTINF:-1 tvg-id="ZeeAction.in" tvg-name="HINDI| ZEE ACTION" tvg-logo="http://logo.protv.cc/picons/logos/logos/ZEE-ACTION.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| ZEE ACTION
-https://tgaadi-web.tech/portal.php?tv=156139
-#EXTINF:-1 tvg-id="ZeeAnmol.in" tvg-name="HINDI| ZEE ANMOL" tvg-logo="http://logo.protv.cc/picons/logos/logos/ZEE-ANMOL.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| ZEE ANMOL
-https://tgaadi-web.tech/portal.php?tv=156165
-#EXTINF:-1 tvg-id="ZeeAnmolCinema.in" tvg-name="HINDI| ZEE ANMOL CINEMA" tvg-logo="http://logo.protv.cc/picons/logos/logos/ZEE-ANMOL-CINEMA.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| ZEE ANMOL CINEMA
-https://tgaadi-web.tech/portal.php?tv=156146
-#EXTINF:-1 tvg-id="ZETCBollywood.in" tvg-name="HINDI| ZEE BOLLWOOD" tvg-logo="http://logo.protv.cc/picons/logos/logos/ZEE-BOLLWOOD.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| ZEE BOLLWOOD
-https://tgaadi-web.tech/portal.php?tv=311859
-#EXTINF:-1 tvg-id="ZeeCafe.in" tvg-name="HINDI| ZEE CAFE HD" tvg-logo="http://logo.protv.cc/picons/logos/logos/ZEE-CAFE.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| ZEE CAFE HD
-https://tgaadi-web.tech/portal.php?tv=1532856
-#EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="HINDI| ZEE CINEMA FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/ZEE-CINEMA.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| ZEE CINEMA FHD
-https://tgaadi-web.tech/portal.php?tv=155975
-#EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="HINDI| ZEE CINEMA HD" tvg-logo="http://logo.protv.cc/picons/logos/logos/ZEE-CINEMA.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| ZEE CINEMA HD
-https://tgaadi-web.tech/portal.php?tv=280772
-#EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="HINDI| ZEE CINEMA SD" tvg-logo="http://logo.protv.cc/picons/logos/logos/zeecinema.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| ZEE CINEMA SD
-https://tgaadi-web.tech/portal.php?tv=1532857
-#EXTINF:-1 tvg-id="ZeeClassic.in" tvg-name="HINDI| ZEE CLASSIC" tvg-logo="http://logo.protv.cc/picons/logos/logos/ZEE-CLASSIC.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| ZEE CLASSIC
-https://tgaadi-web.tech/portal.php?tv=311858
-#EXTINF:-1 tvg-id="" tvg-name="HINDI| ZEE ETC BOLLYWOOD" tvg-logo="http://logo.protv.cc/picons/logos/logos/ZEE-ETC-BOLLYWOOD.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| ZEE ETC BOLLYWOOD
-https://tgaadi-web.tech/portal.php?tv=156166
-#EXTINF:-1 tvg-id="" tvg-name="HINDI| ANAADI TV" tvg-logo="http://logo.protv.cc/picons/logos/logos/ANAADI.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| ANAADI TV
-https://tgaadi-web.tech/portal.php?tv=1532845
-#EXTINF:-1 tvg-id="B4UKadak.in" tvg-name="HINDI| B4U KADAK" tvg-logo="http://logo.protv.cc/picons/logos/logos/B4UKADAK.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| B4U KADAK
-https://tgaadi-web.tech/portal.php?tv=280798
-#EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="HINDI| B4U MOVIES" tvg-logo="http://logo.protv.cc/picons/logos/logos/B4U-MOVIES.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| B4U MOVIES
-https://tgaadi-web.tech/portal.php?tv=155987
-#EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="HINDI| B4U MOVIES INDIA" tvg-logo="http://logo.protv.cc/picons/logos/logos/B4UMOVIESINDIA.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| B4U MOVIES INDIA
-https://tgaadi-web.tech/portal.php?tv=280799
-#EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="HINDI| B4U MOVIES USA" tvg-logo="http://logo.protv.cc/picons/logos/logos/B4U-MOVIES.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| B4U MOVIES USA
-https://tgaadi-web.tech/portal.php?tv=157163
-#EXTINF:-1 tvg-id="BflixMovies.in" tvg-name="HINDI| BFLIX MOVIE" tvg-logo="http://logo.protv.cc/picons/logos/logos/BFLIX-MOVIE.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| BFLIX MOVIE
-https://tgaadi-web.tech/portal.php?tv=280803
-#EXTINF:-1 tvg-id="" tvg-name="HINDI| BOX CINEMA" tvg-logo="http://logo.protv.cc/picons/logos/logos/BOX-CINEMA.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| BOX CINEMA
-https://tgaadi-web.tech/portal.php?tv=280810
-#EXTINF:-1 tvg-id="CinemaTV.in" tvg-name="HINDI| CINEMA TV" tvg-logo="http://logo.protv.cc/picons/logos/logos/cinema.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| CINEMA TV
-https://tgaadi-web.tech/portal.php?tv=155979
-#EXTINF:-1 tvg-id="CinemaTV.in" tvg-name="HINDI| CINEMA TV INDIA" tvg-logo="http://logo.protv.cc/picons/logos/CINEMA-TV-INDIA.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| CINEMA TV INDIA
-https://tgaadi-web.tech/portal.php?tv=280811
-#EXTINF:-1 tvg-id="ComedyActive.in" tvg-name="HINDI| COMEDY ACTIVE" tvg-logo="http://logo.protv.cc/picons/logos/logos/COMEDY-ACTIVE.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| COMEDY ACTIVE
-https://tgaadi-web.tech/portal.php?tv=155991
-#EXTINF:-1 tvg-id="" tvg-name="HINDI| DANGAL 2" tvg-logo="http://logo.protv.cc/picons/logos/logos/DANGAL-2.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| DANGAL 2
-https://tgaadi-web.tech/portal.php?tv=1532844
-#EXTINF:-1 tvg-id="" tvg-name="HINDI| DHAMAKA MOVIES B4U" tvg-logo="http://logo.protv.cc/picons/logos/logos/DHAMAKA-MOVIES-B4U.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| DHAMAKA MOVIES B4U
-https://tgaadi-web.tech/portal.php?tv=1532843
-#EXTINF:-1 tvg-id="" tvg-name="HINDI| DISH CINE ACTIVE" tvg-logo="http://logo.protv.cc/picons/logos/logos/DISH-CINE-ACTIVE.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| DISH CINE ACTIVE
-https://tgaadi-web.tech/portal.php?tv=155993
-#EXTINF:-1 tvg-id="" tvg-name="HINDI| ENTER 10 HD" tvg-logo="http://logo.protv.cc/picons/logos/logos/ENTER-10.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| ENTER 10 HD
-https://tgaadi-web.tech/portal.php?tv=155988
-#EXTINF:-1 tvg-id="Enterr10.in" tvg-name="HINDI| ENTERR 10" tvg-logo="http://logo.protv.cc/picons/logos/logos/ENTERR-10.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| ENTERR 10
-https://tgaadi-web.tech/portal.php?tv=280834
-#EXTINF:-1 tvg-id="ETVCinema.in" tvg-name="HINDI| ETV CINEMA" tvg-logo="http://logo.protv.cc/picons/logos/logos/ETV-CINEMA.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| ETV CINEMA
-https://tgaadi-web.tech/portal.php?tv=1532853
-#EXTINF:-1 tvg-id="" tvg-name="HINDI| GOLDMINES" tvg-logo="http://logo.protv.cc/picons/logos/logos/GOLDMINES.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| GOLDMINES
-https://tgaadi-web.tech/portal.php?tv=1532842
-#EXTINF:-1 tvg-id="" tvg-name="HINDI| GUJRATI CINEMA" tvg-logo="http://logo.protv.cc/picons/logos/logos/GUJRATI-CINEMA.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| GUJRATI CINEMA
-https://tgaadi-web.tech/portal.php?tv=1532858
-#EXTINF:-1 tvg-id="" tvg-name="HINDI| HOUSEFULL MOVIES" tvg-logo="http://logo.protv.cc/picons/logos/logos/HOUSEFULL-MOVIES.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| HOUSEFULL MOVIES
-https://tgaadi-web.tech/portal.php?tv=156054
-#EXTINF:-1 tvg-id="" tvg-name="HINDI| JAYA MOVIES" tvg-logo="http://logo.protv.cc/picons/logos/logos/JAYA-MOVIES.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| JAYA MOVIES
-https://tgaadi-web.tech/portal.php?tv=945584
-#EXTINF:-1 tvg-id="" tvg-name="HINDI| JIO PRIME FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/JIO-PRIME.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| JIO PRIME FHD
-https://tgaadi-web.tech/portal.php?tv=1532836
-#EXTINF:-1 tvg-id="MaaMovies.in" tvg-name="HINDI| MAA MOVIES" tvg-logo="http://logo.protv.cc/picons/logos/logos/MAA-MOVIES.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| MAA MOVIES
-https://tgaadi-web.tech/portal.php?tv=945555
-#EXTINF:-1 tvg-id="MahaMovie.in" tvg-name="HINDI| MAHA MOVIE HD" tvg-logo="http://logo.protv.cc/picons/logos/logos/MAHA-MOVIE.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| MAHA MOVIE HD
-https://tgaadi-web.tech/portal.php?tv=156063
-#EXTINF:-1 tvg-id="MahaMovie.in" tvg-name="HINDI| MAHA MOVIES" tvg-logo="http://logo.protv.cc/picons/logos/logos/MAHA-MOVIES.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| MAHA MOVIES
-https://tgaadi-web.tech/portal.php?tv=155986
-#EXTINF:-1 tvg-id="ManoranjanTV.in" tvg-name="HINDI| MANORANJAN" tvg-logo="http://logo.protv.cc/picons/logos/logos/MANORANJAN.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| MANORANJAN
-https://tgaadi-web.tech/portal.php?tv=280860
-#EXTINF:-1 tvg-id="" tvg-name="HINDI| MANORANJAN GRAND" tvg-logo="http://logo.protv.cc/picons/logos/logos/MANORANJAN-GRAND.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| MANORANJAN GRAND
-https://tgaadi-web.tech/portal.php?tv=1532841
-#EXTINF:-1 tvg-id="" tvg-name="HINDI| MN+ MOVIES FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/MN-PLUS-MOVIES.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| MN+ MOVIES FHD
-https://tgaadi-web.tech/portal.php?tv=1532854
-#EXTINF:-1 tvg-id="MNX.in" tvg-name="HINDI| MNX FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/MNX.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| MNX FHD
-https://tgaadi-web.tech/portal.php?tv=156021
-#EXTINF:-1 tvg-id="" tvg-name="HINDI| MOVIE HOUSE" tvg-logo="http://logo.protv.cc/picons/logos/logos/MOVIE-HOUSE.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| MOVIE HOUSE
-https://tgaadi-web.tech/portal.php?tv=155980
-#EXTINF:-1 tvg-id="" tvg-name="HINDI| MOVIE PLUS" tvg-logo="http://logo.protv.cc/picons/logos/logos/MOVIE-PLUS.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| MOVIE PLUS
-https://tgaadi-web.tech/portal.php?tv=1112148
-#EXTINF:-1 tvg-id="HDMoviesNow.in" tvg-name="HINDI| MOVIES NOW FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/MOVIES-NOW.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| MOVIES NOW FHD
-https://tgaadi-web.tech/portal.php?tv=156022
-#EXTINF:-1 tvg-id="" tvg-name="HINDI| PASAND" tvg-logo="http://logo.protv.cc/picons/logos/logos/PASAND.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| PASAND
-https://tgaadi-web.tech/portal.php?tv=1532840
-#EXTINF:-1 tvg-id="RomedyNow.in" tvg-name="HINDI| ROMEDY NOW" tvg-logo="http://logo.protv.cc/picons/logos/logos/ROMEDY-NOW.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| ROMEDY NOW
-https://tgaadi-web.tech/portal.php?tv=1532834
-#EXTINF:-1 tvg-id="" tvg-name="HINDI| SHEMAROO TV HD" tvg-logo="http://logo.protv.cc/picons/logos/logos/SHEMAROO.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| SHEMAROO TV HD
-https://tgaadi-web.tech/portal.php?tv=280897
-#EXTINF:-1 tvg-id="" tvg-name="HINDI| SHUBH CINEMA" tvg-logo="http://logo.protv.cc/picons/logos/logos/SHUBH-CINEMA.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| SHUBH CINEMA
-https://tgaadi-web.tech/portal.php?tv=1112150
-#EXTINF:-1 tvg-id="SuryaMovies.in" tvg-name="HINDI| SURYA CINEMA" tvg-logo="http://logo.protv.cc/picons/logos/logos/SURYA-CINEMA.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| SURYA CINEMA
-https://tgaadi-web.tech/portal.php?tv=280905
-#EXTINF:-1 tvg-id="" tvg-name="HINDI| THE Q ENTERTAINMENT" tvg-logo="http://logo.protv.cc/picons/logos/logos/THE-Q-ENTERTAINMENT.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| THE Q ENTERTAINMENT
-https://tgaadi-web.tech/portal.php?tv=1532855
-#EXTINF:-1 tvg-id="" tvg-name="HINDI| UTV BINDASS" tvg-logo="http://logo.protv.cc/picons/logos/logos/UTV-BINDASS.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| UTV BINDASS
-https://tgaadi-web.tech/portal.php?tv=1532846
-#EXTINF:-1 tvg-id="WOWCinema.in" tvg-name="HINDI| WOW CINEMA ONE" tvg-logo="http://logo.protv.cc/picons/logos/logos/WOW-CINEMA-ONE.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| WOW CINEMA ONE
-https://tgaadi-web.tech/portal.php?tv=280910
-#EXTINF:-1 tvg-id="Zing.in" tvg-name="HINDI| ZING" tvg-logo="http://logo.protv.cc/picons/logos/logos/ZING.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="MOVIES",HINDI| ZING
-https://tgaadi-web.tech/portal.php?tv=156046
 -------
 #EXTINF:-1 tvg-id="EPIC.in" tvg-name="RELIGIOUS|  EPIC" tvg-logo="http://logo.protv.cc/picons/logos/logos/EPIC.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="RELIGIOUS",RELIGIOUS|  EPIC
 https://tgaadi-web.tech/portal.php?tv=1533111
@@ -1571,376 +2033,3 @@ https://tgaadi-web.tech/portal.php?tv=155944
 https://tgaadi-web.tech/portal.php?tv=282059
 #EXTINF:-1 tvg-id="" tvg-name="PUNJABI| ZEE PUNJABI NEWS" tvg-logo="http://logo.protv.cc/picons/logos/logos/ZEE-PUNJABI-NEWS.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="PUNJABI",PUNJABI| ZEE PUNJABI NEWS
 https://tgaadi-web.tech/portal.php?tv=282060
--------
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI COMEDY CLIP
-https://tgaadi-web.tech/spice.m3u8?tv=13033
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",ENGLISH HINDI DUBBED MOVIES 1 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13036
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",ENGLISH HINDI DUBBED MOVIES 2 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13039
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",ENGLISH HINDI DUBBED MOVIES 3 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13042
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",ENGLISH HINDI DUBBED MOVIES 4 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13045
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",ENGLISH HINDI DUBBED MOVIES 5 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13048
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",ENGLISH HINDI DUBBED MOVIES 6 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13051
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",DUBBED CINEBOX PICTURES CINEMA HD
-https://tgaadi-web.tech/spice.m3u8?tv=13054
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",DUBBED WAM CINEMA HD
-https://tgaadi-web.tech/spice.m3u8?tv=13057
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",DUBBED VENUS DUBBED CINEMA HD
-https://tgaadi-web.tech/spice.m3u8?tv=13060
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",DUBBED DJR RECORDS DUBBED CINEMA HD
-https://tgaadi-web.tech/spice.m3u8?tv=13063
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",DUBBED AD-WISE MEDIA ACTION CINEMA HD
-https://tgaadi-web.tech/spice.m3u8?tv=13066
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",DUBBED ACTION DIGIPLEX CINEMA HD
-https://tgaadi-web.tech/spice.m3u8?tv=13069
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",DUBBED PEN ACTION CINEMA HD
-https://tgaadi-web.tech/spice.m3u8?tv=13072
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI EROSNOW CINEMA HD 1
-https://tgaadi-web.tech/spice.m3u8?tv=13075
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI EROSNOW CLASSIC CINEMA HD 1
-https://tgaadi-web.tech/spice.m3u8?tv=13078
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI EROSNOW CLASSIC CINEMA HD 2
-https://tgaadi-web.tech/spice.m3u8?tv=13081
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI SHAMAROO CINEMA 1 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13084
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI SHAMAROO CLASSIC CINEMA 1 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13087
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI SHAMAROO CLASSIC CINEMA 2 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13090
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI 2020-2022 CINEMA HD
-https://tgaadi-web.tech/spice.m3u8?tv=13093
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI 2020-2022 CINEMA 2 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13096
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI 2020-2022 2 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13099
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CINEMA BLOCKBUSTER 1 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13102
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI SUPER HIT CINEMA 1 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13105
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI HIT CINEMA 2 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13108
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI HIT CINEMA 3 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13111
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI HIT CINEMA 4 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13114
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI MOVIE CINEMA HD
-https://tgaadi-web.tech/spice.m3u8?tv=13117
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",KIDS CLASSIC CINEMA HD
-https://tgaadi-web.tech/spice.m3u8?tv=13120
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CINEMA HD
-https://tgaadi-web.tech/spice.m3u8?tv=13123
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CINEMA 1 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13126
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CINEMA 2 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13129
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CINEMA 3 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13132
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CINEMA 4 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13135
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CINEMA 5 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13138
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CINEMA 6 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13141
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CINEMA 7 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13144
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CINEMA 8 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13147
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CINEMA 9 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13150
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CINEMA 10 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13153
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CINEMA 11 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13156
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CINEMA 12 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13159
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CINEMA 13 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13162
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CINEMA 14 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13165
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI BOLLYWOOD CINEMA 1 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13168
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI BOLLYWOOD CINEMA 2 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13171
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI BOLLYWOOD CINEMA 3 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13174
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI BOLLYWOOD CINEMA 4 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13177
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI PEN CINEMA HD
-https://tgaadi-web.tech/spice.m3u8?tv=13180
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI RAJSHRI CINEMA HD
-https://tgaadi-web.tech/spice.m3u8?tv=13183
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ULTRA CLASSIC CINEMA MOVIES 1
-https://tgaadi-web.tech/spice.m3u8?tv=13186
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ULTRA CLASSIC CINEMA MOVIES 2
-https://tgaadi-web.tech/spice.m3u8?tv=13189
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC CINEMA 1 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13192
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC CINEMA 2 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13195
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC CINEMA 3 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13198
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC CINEMA 4 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13201
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC CINEMA 5 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13204
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC CINEMA 6 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13207
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC CINEMA 7 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13210
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC CINEMA 8 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13213
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC CINEMA 9 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13216
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC ACTION DRAMA HD
-https://tgaadi-web.tech/spice.m3u8?tv=13219
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CALSSIC ACTION DRAMA 2 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13222
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC ACTION DRAMA 3 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13225
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC BIOGRAPHY HD
-https://tgaadi-web.tech/spice.m3u8?tv=13228
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC MUSIC HD
-https://tgaadi-web.tech/spice.m3u8?tv=13231
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC DRAMA THRILLER HD
-https://tgaadi-web.tech/spice.m3u8?tv=13234
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC DRAMA ROMANCE HD
-https://tgaadi-web.tech/spice.m3u8?tv=13237
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC DRAMA ROMANCE 2 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13240
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC DRAMA HD
-https://tgaadi-web.tech/spice.m3u8?tv=13243
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC DRAMA 2 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13246
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC COMEDY ROMANCE HD
-https://tgaadi-web.tech/spice.m3u8?tv=13249
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC COMEDY DRAMA HD
-https://tgaadi-web.tech/spice.m3u8?tv=13252
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC COMEDY HD
-https://tgaadi-web.tech/spice.m3u8?tv=13255
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC ADVENTURE HD
-https://tgaadi-web.tech/spice.m3u8?tv=13258
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC ACTION THRILLER HD
-https://tgaadi-web.tech/spice.m3u8?tv=13261
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC ACTION CRIME HD
-https://tgaadi-web.tech/spice.m3u8?tv=13264
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC ACTION COMEDY HD
-https://tgaadi-web.tech/spice.m3u8?tv=13267
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC ACTION ADVENTURE HD
-https://tgaadi-web.tech/spice.m3u8?tv=13270
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CLASSIC ACTION HD
-https://tgaadi-web.tech/spice.m3u8?tv=13273
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI DRAMA ROMANCE CINEMA HD
-https://tgaadi-web.tech/spice.m3u8?tv=13276
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI COMEDY ROMANCE CINEMA HD
-https://tgaadi-web.tech/spice.m3u8?tv=13279
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI FANTASY CINEMA HD
-https://tgaadi-web.tech/spice.m3u8?tv=13282
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI MYSTERY CINEMA HD
-https://tgaadi-web.tech/spice.m3u8?tv=13285
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI SCIFI CINEMA HD
-https://tgaadi-web.tech/spice.m3u8?tv=13288
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ADVENTURE CINEMA HD
-https://tgaadi-web.tech/spice.m3u8?tv=13291
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI CRIME CINEMA HD
-https://tgaadi-web.tech/spice.m3u8?tv=13294
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI FAMILY CINEMA HD
-https://tgaadi-web.tech/spice.m3u8?tv=13297
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ANIMATED CINEMA HD
-https://tgaadi-web.tech/spice.m3u8?tv=13300
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI HORROR CINEMA HD
-https://tgaadi-web.tech/spice.m3u8?tv=13303
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI BIOGRAPHY CINEMA HD
-https://tgaadi-web.tech/spice.m3u8?tv=13306
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI WAR CINEMA HD
-https://tgaadi-web.tech/spice.m3u8?tv=13309
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI THRILLER CINEMA HD
-https://tgaadi-web.tech/spice.m3u8?tv=13312
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ROMANCE CINEMA 1 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13315
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI SPORTS CINEMA HD
-https://tgaadi-web.tech/spice.m3u8?tv=13318
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTION ADVENTURE CINEMA HD
-https://tgaadi-web.tech/spice.m3u8?tv=13321
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI HISTORY CINEMA HD
-https://tgaadi-web.tech/spice.m3u8?tv=13324
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI AVERAGE CINEMA 1 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13327
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI AVERAGE CINEMA 2 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13330
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI AVERAGE CINEMA 3 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13333
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI AVERAGE CINEMA 4 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13336
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI AVERAGE CINEMA 5 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13339
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTION MOVIES 1 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13342
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI COMEDY MOVIES 1 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13345
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI MUSICAL MOVIES HD
-https://tgaadi-web.tech/spice.m3u8?tv=13348
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI DRAMA MOVIES 1 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13351
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI DRAMA ROMANCE 2 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13354
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI DRAMA THRILLER HD
-https://tgaadi-web.tech/spice.m3u8?tv=13357
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI COMEDY DRAMA HD
-https://tgaadi-web.tech/spice.m3u8?tv=13360
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTION DRAMA 2 HD
-https://tgaadi-web.tech/spice.m3u8?tv=13363
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTION THRILLER HD
-https://tgaadi-web.tech/spice.m3u8?tv=13366
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTION DRAMA HD
-https://tgaadi-web.tech/spice.m3u8?tv=13369
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTION CRIME HD
-https://tgaadi-web.tech/spice.m3u8?tv=13372
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTION COMEDY HD
-https://tgaadi-web.tech/spice.m3u8?tv=13375
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR ABHAY DEOL HD
-https://tgaadi-web.tech/spice.m3u8?tv=13378
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR ABHISHEK BACHCHAN HD
-https://tgaadi-web.tech/spice.m3u8?tv=13381
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR AFTAB SHIVDASANI HD
-https://tgaadi-web.tech/spice.m3u8?tv=13384
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR AJAY DEVGAN HD
-https://tgaadi-web.tech/spice.m3u8?tv=13387
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR AKSHAY KUMAR HD
-https://tgaadi-web.tech/spice.m3u8?tv=13390
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR SHAMMI KAPOOR HD
-https://tgaadi-web.tech/spice.m3u8?tv=13393
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR AMIR KHAN HD
-https://tgaadi-web.tech/spice.m3u8?tv=13396
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR AMITABH BACHCHAN HD
-https://tgaadi-web.tech/spice.m3u8?tv=13399
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR JOHNY WALKER HD
-https://tgaadi-web.tech/spice.m3u8?tv=13402
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR ANIL KAPOOR HD
-https://tgaadi-web.tech/spice.m3u8?tv=13405
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR ARBAAZ KHAN HD
-https://tgaadi-web.tech/spice.m3u8?tv=13408
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR ASHUTOSH RANA HD
-https://tgaadi-web.tech/spice.m3u8?tv=13411
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR AYUSHMANN KHURRANA HD
-https://tgaadi-web.tech/spice.m3u8?tv=13414
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR BOBBY DEOL HD
-https://tgaadi-web.tech/spice.m3u8?tv=13417
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR BOMAN IRANI HD
-https://tgaadi-web.tech/spice.m3u8?tv=13420
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR DHARMENDRA HD
-https://tgaadi-web.tech/spice.m3u8?tv=13423
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR DILIP KUMAR HD
-https://tgaadi-web.tech/spice.m3u8?tv=13426
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR OM PURI HD
-https://tgaadi-web.tech/spice.m3u8?tv=13429
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR EMRAAN HASHMI HD
-https://tgaadi-web.tech/spice.m3u8?tv=13432
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR FARHAN AKHTAR HD
-https://tgaadi-web.tech/spice.m3u8?tv=13435
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR GOVINDA HD
-https://tgaadi-web.tech/spice.m3u8?tv=13438
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR GULSHAN GROVER HD
-https://tgaadi-web.tech/spice.m3u8?tv=13441
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR HRITHIK ROSHAN HD
-https://tgaadi-web.tech/spice.m3u8?tv=13444
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR FEROZ KHAN HD
-https://tgaadi-web.tech/spice.m3u8?tv=13447
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR ANUPAM KHER HD
-https://tgaadi-web.tech/spice.m3u8?tv=13450
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR JACKIE SHROFF HD
-https://tgaadi-web.tech/spice.m3u8?tv=13453
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR JHONNY LEVER HD
-https://tgaadi-web.tech/spice.m3u8?tv=13456
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR JOHN ABRAHAM HD
-https://tgaadi-web.tech/spice.m3u8?tv=13459
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR RAJ BABBAR HD
-https://tgaadi-web.tech/spice.m3u8?tv=13462
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR KADER KHAN HD
-https://tgaadi-web.tech/spice.m3u8?tv=13465
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR KAY KAY MENON HD
-https://tgaadi-web.tech/spice.m3u8?tv=13468
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR MITHUN CHAKRABORTY HD
-https://tgaadi-web.tech/spice.m3u8?tv=13471
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR NANA PATEKAR HD
-https://tgaadi-web.tech/spice.m3u8?tv=13474
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR NAWAZUDDIN SIDDIQIU HD
-https://tgaadi-web.tech/spice.m3u8?tv=13477
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR PANKAJ TRIPATHI HD
-https://tgaadi-web.tech/spice.m3u8?tv=13480
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR PARESH RAWAL HD
-https://tgaadi-web.tech/spice.m3u8?tv=13483
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR PREM CHOPRA HD
-https://tgaadi-web.tech/spice.m3u8?tv=13486
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR RAJESH KHANNA HD
-https://tgaadi-web.tech/spice.m3u8?tv=13489
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR RAJKUMMAR RAO HD
-https://tgaadi-web.tech/spice.m3u8?tv=13492
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR RANBIR KAPOOR HD
-https://tgaadi-web.tech/spice.m3u8?tv=13495
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR RANDEEP HOODA HD
-https://tgaadi-web.tech/spice.m3u8?tv=13498
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR RANVEER SINGH HD
-https://tgaadi-web.tech/spice.m3u8?tv=13501
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR RISHI KAPOOR HD
-https://tgaadi-web.tech/spice.m3u8?tv=13504
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR RITEISH DESHMUKH HD
-https://tgaadi-web.tech/spice.m3u8?tv=13507
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR SUNIEL DUTT HD
-https://tgaadi-web.tech/spice.m3u8?tv=13510
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR SAIF ALI KHAN HD
-https://tgaadi-web.tech/spice.m3u8?tv=13513
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR SALMAN KHAN HD
-https://tgaadi-web.tech/spice.m3u8?tv=13516
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR SANJAY DUTT HD
-https://tgaadi-web.tech/spice.m3u8?tv=13519
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR SANJAY MISHRA HD
-https://tgaadi-web.tech/spice.m3u8?tv=13522
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR SHAHID KAPOOR HD
-https://tgaadi-web.tech/spice.m3u8?tv=13525
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR SHAHRUKH KHAN HD
-https://tgaadi-web.tech/spice.m3u8?tv=13528
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR SHAKTI KAPOOR HD
-https://tgaadi-web.tech/spice.m3u8?tv=13531
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR SHARMAN JOSHI HD
-https://tgaadi-web.tech/spice.m3u8?tv=13534
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR SHATRUGHAN SINHA HD
-https://tgaadi-web.tech/spice.m3u8?tv=13537
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR RAAJ KUMAR HD
-https://tgaadi-web.tech/spice.m3u8?tv=13540
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR SUNIEL SHETTY HD
-https://tgaadi-web.tech/spice.m3u8?tv=13543
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR SUNNY DEOL HD
-https://tgaadi-web.tech/spice.m3u8?tv=13546
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR SUSHANT SINGH RAJPUT HD
-https://tgaadi-web.tech/spice.m3u8?tv=13549
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR TIGER SHROFF HD
-https://tgaadi-web.tech/spice.m3u8?tv=13552
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR VARUN DHAWAN HD
-https://tgaadi-web.tech/spice.m3u8?tv=13555
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR VIDUTJAMMWAL HD
-https://tgaadi-web.tech/spice.m3u8?tv=13558
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR VINOD KHANNA HD
-https://tgaadi-web.tech/spice.m3u8?tv=13561
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR VIVEK OBEROI HD
-https://tgaadi-web.tech/spice.m3u8?tv=13564
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR RAJENDRA KUMAR HD
-https://tgaadi-web.tech/spice.m3u8?tv=13567
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR SADASHIV AMRAPURKAR HD
-https://tgaadi-web.tech/spice.m3u8?tv=13570
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR NASEERDDIN SHAH HD
-https://tgaadi-web.tech/spice.m3u8?tv=13573
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR MIX HD
-https://tgaadi-web.tech/spice.m3u8?tv=13576
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR KISHORE KUMAR
-https://tgaadi-web.tech/spice.m3u8?tv=13579
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR BHARAT BHUSHAN HD
-https://tgaadi-web.tech/spice.m3u8?tv=13582
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR DEV ANAND HD
-https://tgaadi-web.tech/spice.m3u8?tv=13585
-#EXTINF:-1 tvg-logo="" group-logo=" group-title="MOVIE v1 | 24/7",HINDI ACTOR AMRISH PURI
-https://tgaadi-web.tech/spice.m3u8?tv=13588
