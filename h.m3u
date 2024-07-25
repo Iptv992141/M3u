@@ -40,7 +40,6 @@ http://125.209.88.166:45793/BRN/ExpressNews.stream/playlist.m3u8
 #EXTINF:-1,NEO News
 http://125.209.88.166:45793/BRN/NeoNewsHD.stream/playlist.m3u8
 
-
 #EXTINF:-1,GreenTv
 http://125.209.88.166:45793/BRN/Greentv.stream/playlist.m3u8
 #EXTINF:-1,ARY SPORTS
@@ -260,9 +259,9 @@ http://103.120.172.74:5200
 http://103.120.172.74:5300
 #EXTINF:-1,Sony Sports Ten 1
 http://103.120.172.74:5400
-
 #EXTINF:-1,NDTV
 http://103.120.172.74:5500
+
 #EXTINF:-1, LINDA TV HD
 http://45.166.92.22:58001/play/a060/index.m3u8
 #EXTINF:-1,3ABN LATINO
