@@ -29,8 +29,6 @@ http://125.209.88.166:45793/BRN/NewsOne.stream/playlist.m3u8
 http://125.209.88.166:45793/BRN/PTVNews.stream/playlist.m3u8
 #EXTINF:-1,PTV Home
 http://125.209.88.166:45793/BRN/PtvHome.stream/playlist.m3u8
-#EXTINF:-1,PTV TeleSchool
-http://125.209.88.166:45793/BRN/PTVTeleSchool.stream/playlist.m3u8
 #EXTINF:-1,PTV Sports
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 #EXTINF:-1,Public News
@@ -53,8 +51,6 @@ http://125.209.88.166:45793/BRN/SaudiSunnahHD.stream/playlist.m3u8
 http://125.209.88.166:45793/BRN/SaudiQuranHD.stream/playlist.m3u8
 #EXTINF:-1,Peace TV
 http://125.209.88.166:45793/BRN/PeaceTvUrdu.stream/playlist.m3u8
-#EXTINF:-1,National Geographic Wild
-http://125.209.88.166:45793/BRN/NatGeoWild.stream/playlist.m3u8
 #EXTINF:-1,National Geographic HD
 http://125.209.88.166:45793/BRN/NatGeoHD.stream/playlist.m3u8
 #EXTINF:-1,Kids Zone HD
