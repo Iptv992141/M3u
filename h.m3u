@@ -65,22 +65,7 @@ http://125.209.88.166:45793/BRN/KidsZoneHD.stream/playlist.m3u8
 http://125.209.88.166:45793/BRN/FilmWorld.stream/playlist.m3u8
 #EXTINF:-1,Express Entertainment
 http://125.209.88.166:45793/BRN/ExpressEnt.stream/playlist.m3u8
-#EXTINF:-1,Disney Junior
-http://125.209.88.166:45793/BRN/DisneyJuniorHD.stream/playlist.m3u8
-#EXTINF:-1,Discovery Channel
-http://125.209.88.166:45793/BRN/DiscovChannel.stream/playlist.m3u8
-#EXTINF:-1,DW
-http://125.209.88.166:45793/BRN/DW.stream/playlist.m3u8
-#EXTINF:-1,DTX
-http://125.209.88.166:45793/BRN/DTX.stream/playlist.m3u8
-#EXTINF:-1,CineMax
-http://125.209.88.166:45793/BRN/Cinemax1.stream/playlist.m3u8
-#EXTINF:-1,CNA News
-http://125.209.88.166:45793/BRN/CNANews.stream/playlist.m3u8
-#EXTINF:-1,Comedy Central HD
-http://125.209.88.166:45793/BRN/CCHD.stream/playlist.m3u8
-#EXTINF:-1,Baby TV
-http://125.209.88.166:45793/BRN/BabyTv.stream/playlist.m3u8
+
 #EXTINF:-1,BBC First
 http://125.209.88.166:45793/BRN/BBCFirstHD.stream/playlist.m3u8
 #EXTINF:-1,BBC Earth
@@ -89,18 +74,7 @@ http://125.209.88.166:45793/BRN/BBCEarthHD.stream/playlist.m3u8
 http://125.209.88.166:45793/BRN/AryZindage.stream/playlist.m3u8
 #EXTINF:-1,Ahlebait
 http://125.209.88.166:45793/BRN/AhlEBait.stream/playlist.m3u8
-#EXTINF:-1,AXN Spin HD
-http://125.209.88.166:45793/BRN/AXNSpinHD.stream/playlist.m3u8
-#EXTINF:-1,AXN HD
-http://125.209.88.166:45793/BRN/AXNHD.stream/playlist.m3u8
-#EXTINF:-1,4 Fun Dance
-http://125.209.88.166:45793/BRN/4FunDance.stream/playlist.m3u8
-#EXTINF:-1,24B HD
-http://125.209.88.166:45793/BRN/24BHD.stream/playlist.m3u8
-#EXTINF:-1,13 Ulica HD
-http://125.209.88.166:45793/BRN/13UlicaHD.stream/playlist.m3u8
-#EXTINF:-1,Disney XD
-http://125.209.88.166:45793/BRN/DisneyXDHD.stream/playlist.m3u8
+
 #EXTINF:-1,Disney Channel
 http://125.209.88.166:45793/BRN/DisneyChannelHD.stream/playlist.m3u8
 #EXTINF:-1,Sky News
