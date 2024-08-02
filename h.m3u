@@ -54,24 +54,6 @@ http://125.209.88.166:45793/BRN/SaudiSunnahHD.stream/playlist.m3u8
 http://125.209.88.166:45793/BRN/SaudiQuranHD.stream/playlist.m3u8
 #EXTINF:-1,Peace TV
 http://125.209.88.166:45793/BRN/PeaceTvUrdu.stream/playlist.m3u8
-#EXTINF:-1,Paramount Comedy
-http://125.209.88.166:45793/BRN/ParamountComedy.stream/playlist.m3u8
-#EXTINF:-1,Paramount
-http://125.209.88.166:45793/BRN/Paramount.stream/playlist.m3u8
-#EXTINF:-1,OSN Series
-http://125.209.88.166:45793/BRN/OsnSeriesHD.stream/playlist.m3u8
-#EXTINF:-1,OSN Movies
-http://125.209.88.166:45793/BRN/OsnMoviesHD.stream/playlist.m3u8
-#EXTINF:-1,OSN Enigma
-http://125.209.88.166:45793/BRN/OsnEnigmaHD.stream/playlist.m3u8
-#EXTINF:-1,OSN Comedy
-http://125.209.88.166:45793/BRN/OsnComedyHD.stream/playlist.m3u8
-#EXTINF:-1,OSN Action
-http://125.209.88.166:45793/BRN/OsnActionHD.stream/playlist.m3u8
-#EXTINF:-1,OX Cartoon
-http://125.209.88.166:45793/BRN/OXCartoonHD.stream/playlist.m3u8
-#EXTINF:-1,Nickelodeon
-http://125.209.88.166:45793/BRN/Nickelodeon.stream/playlist.m3u8
 #EXTINF:-1,Nick Junior
 http://125.209.88.166:45793/BRN/NickJr.stream/playlist.m3u8
 #EXTINF:-1,National Geographic Wild
