@@ -31,8 +31,6 @@ http://125.209.88.166:45793/BRN/PTVNews.stream/playlist.m3u8
 http://125.209.88.166:45793/BRN/PtvHome.stream/playlist.m3u8
 #EXTINF:-1,PTV Sports
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
-#EXTINF:-1,Public News
-http://125.209.88.166:45793/BRN/PublicNewsHD.stream/playlist.m3u8
 #EXTINF:-1,NEO News
 http://125.209.88.166:45793/BRN/NeoNewsHD.stream/playlist.m3u8
 #EXTINF:-1,GreenTv
