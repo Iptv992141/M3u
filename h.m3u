@@ -54,48 +54,13 @@ http://125.209.88.166:45793/BRN/SaudiSunnahHD.stream/playlist.m3u8
 http://125.209.88.166:45793/BRN/SaudiQuranHD.stream/playlist.m3u8
 #EXTINF:-1,Peace TV
 http://125.209.88.166:45793/BRN/PeaceTvUrdu.stream/playlist.m3u8
-#EXTINF:-1,Nick Junior
-http://125.209.88.166:45793/BRN/NickJr.stream/playlist.m3u8
 #EXTINF:-1,National Geographic Wild
 http://125.209.88.166:45793/BRN/NatGeoWild.stream/playlist.m3u8
 #EXTINF:-1,National Geographic HD
 http://125.209.88.166:45793/BRN/NatGeoHD.stream/playlist.m3u8
-#EXTINF:-1,MTV Music
-http://125.209.88.166:45793/BRN/MtvMusic.stream/playlist.m3u8
-#EXTINF:-1,Motor Vision
-http://125.209.88.166:45793/BRN/MotorVision.stream/playlist.m3u8
-#EXTINF:-1,MTV Hits
-http://125.209.88.166:45793/BRN/MTVHits.stream/playlist.m3u8
-#EXTINF:-1,MIFA Music
-http://125.209.88.166:45793/BRN/MIFAHD.stream/playlist.m3u8
-#EXTINF:-1,MBC Max
-http://125.209.88.166:45793/BRN/MBCMax.stream/playlist.m3u8
-#EXTINF:-1,MBC Action
-http://125.209.88.166:45793/BRN/MBCAction.stream/playlist.m3u8
-#EXTINF:-1,MBC2
-http://125.209.88.166:45793/BRN/MBC2.stream/playlist.m3u8
-#EXTINF:-1,LOTUS
-http://125.209.88.166:45793/BRN/Lotus.stream/playlist.m3u8
-#EXTINF:-1,LTN Family
-http://125.209.88.166:45793/BRN/LTNFamilyHD/playlist.m3u8
 #EXTINF:-1,Kids Zone HD
 http://125.209.88.166:45793/BRN/KidsZoneHD.stream/playlist.m3u8
-#EXTINF:-1,History
-http://125.209.88.166:45793/BRN/History.stream/playlist.m3u8
-#EXTINF:-1,Hadi TV
-http://125.209.88.166:45793/BRN/HadiTv.stream/playlist.m3u8
-#EXTINF:-1,HBO HD
-http://125.209.88.166:45793/BRN/HBOHD.stream/playlist.m3u8
-#EXTINF:-1,HBO 2 HD
-http://125.209.88.166:45793/BRN/HBO2HD.stream/playlist.m3u8
-#EXTINF:-1,France 24
-http://125.209.88.166:45793/BRN/France24.stream/playlist.m3u8
-#EXTINF:-1,FOX HD
-http://125.209.88.166:45793/BRN/FoxHD.stream/playlist.m3u8
-#EXTINF:-1,Fox Comedy
-http://125.209.88.166:45793/BRN/FoxComedyHD.stream/playlist.m3u8
-#EXTINF:-1,Food Network
-http://125.209.88.166:45793/BRN/FoodNetwork.stream/playlist.m3u8
+
 #EXTINF:-1,Film World
 http://125.209.88.166:45793/BRN/FilmWorld.stream/playlist.m3u8
 #EXTINF:-1,Express Entertainment
@@ -144,14 +109,7 @@ http://125.209.88.166:45793/BRN/SkyNews.stream/playlist.m3u8
 http://125.209.88.166:45793/BRN/CNNNews.stream/playlist.m3u8
 #EXTINF:-1,Aljazeera HD
 http://125.209.88.166:45793/BRN/AlJazeerahHD.stream/playlist.m3u8
-#EXTINF:-1,beIN Sports HD 11
-http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
-#EXTINF:-1,beIN Sports HD 13
-http://125.209.88.166:45793/BRN/beINSP13.stream/playlist.m3u8
-#EXTINF:-1,beIN Premiere
-http://125.209.88.166:45793/BRN/beINPremiere1.stream/playlist.m3u8
-#EXTINF:-1,OX Premiere
-http://125.209.88.166:45793/BRN/OXPremiere.stream/playlist.m3u8
+
 #EXTINF:-1,URDU 1
 http://125.209.88.166:45793/BRN/Urdu1.stream/playlist.m3u8
 #EXTINF:-1,TEN Sports
@@ -160,8 +118,7 @@ http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 http://125.209.88.166:45793/BRN/RT.stream/playlist.m3u8
 #EXTINF:-1,HUM Masala
 http://125.209.88.166:45793/BRN/HumMasalah.stream/playlist.m3u8
-#EXTINF:-1,HBO
-http://125.209.88.166:45793/BRN/HBOPk.stream/playlist.m3u8
+
 #EXTINF:-1,GEO Kahani
 http://125.209.88.166:45793/BRN/GeoKahani.stream/playlist.m3u8
 #EXTINF:-1,GEO Entertainment
@@ -176,56 +133,3 @@ http://125.209.88.166:45793/BRN/HumTvHD.stream/playlist.m3u8
 http://125.209.88.166:45793/BRN/BBCWorld.stream/playlist.m3u8
 #EXTINF:-1,ARY Digital
 http://125.209.88.166:45793/BRN/AryDigital.stream/playlist.m3u8
-#EXTINF:-1,8XM
-http://125.209.88.166:45793/BRN/8XM.stream/playlist.m3u8
-
-#EXTINF:-1,Hindi Hits HD
-http://146.59.253.52:8080/hindihitshd/index.m3u8
-#EXTINF:-1,ZEE TV
-http://103.110.110.11:8081/live/zeetv/playlist.m3u8
-#EXTINF:-1,Star Sports Select 1
-http://103.120.172.74:1030
-#EXTINF:-1,Zee Marathi 
-http://103.120.172.74:1040
-#EXTINF:-1,Star Pravah
-http://103.120.172.74:1060
-#EXTINF:-1,Colors
-http://103.120.172.74:1070
-#EXTINF:-1,Hindi News
-http://103.120.172.74:1090
-#EXTINF:-1,SET India
-http://103.120.172.74:1110
-#EXTINF:-1,StarPlus
-http://103.120.172.74:1120
-#EXTINF:-1,Zee TV
-http://103.120.172.74:1140
-#EXTINF:-1,Sony Max
-http://103.120.172.74:1150
-#EXTINF:-1,DD news
-http://103.120.172.74:1170
-#EXTINF:-1,Zee TV
-http://103.120.172.74:4000
-#EXTINF:-1,Zee Cinema
-http://103.120.172.74:4100
-#EXTINF:-1,Star Sports 2
-http://103.120.172.74:4200
-#EXTINF:-1,StarPlus
-http://103.120.172.74:4300
-#EXTINF:-1,Sony SAB
-http://103.120.172.74:4400
-#EXTINF:-1,Star Sports Select 2
-http://103.120.172.74:4700
-#EXTINF:-1,Sony Sports Ten 2
-http://103.120.172.74:4800
-#EXTINF:-1,Star Gold
-http://103.120.172.74:5000
-#EXTINF:-1,SET
-http://103.120.172.74:5100
-#EXTINF:-1,Star Bharat
-http://103.120.172.74:5200
-#EXTINF:-1,*Sony Sport5
-http://103.120.172.74:5300
-#EXTINF:-1,Sony Sports Ten 1
-http://103.120.172.74:5400
-#EXTINF:-1,NDTV
-http://103.120.172.74:5500
