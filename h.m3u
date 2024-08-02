@@ -48,16 +48,6 @@ http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 http://125.209.88.166:45793/BRN/TvOne.stream/playlist.m3u8
 #EXTINF:-1,TRT World
 http://125.209.88.166:45793/BRN/TRTWorld.stream/playlist.m3u8
-#EXTINF:-1,TNT
-http://125.209.88.166:45793/BRN/TNT.stream/playlist.m3u8
-#EXTINF:-1,TLC
-http://125.209.88.166:45793/BRN/TLC.stream/playlist.m3u8
-#EXTINF:-1,Sony Turbo
-http://125.209.88.166:45793/BRN/SonyTurbo.stream/playlist.m3u8
-#EXTINF:-1,Sony SciFi
-http://125.209.88.166:45793/BRN/SonySciFi.stream/playlist.m3u8
-#EXTINF:-1,Sony HD
-http://125.209.88.166:45793/BRN/SonyHD.stream/playlist.m3u8
 #EXTINF:-1,Saudi Sunnah
 http://125.209.88.166:45793/BRN/SaudiSunnahHD.stream/playlist.m3u8
 #EXTINF:-1,Saudi Quran
