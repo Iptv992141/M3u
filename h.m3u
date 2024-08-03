@@ -7,6 +7,8 @@ http://125.209.88.166:45793/BRN/AryNews.stream/playlist.m3u8
 https://tgaadi-web.tech/portal.php?tv=1118065
 #EXTINF:-1,HISTORY TV 18 FHD 2
 https://tgaadi-web.tech/portal.php?tv=156018
+#EXTINF:-1,Star Sports 1 Hindi FHD
+https://tgaadi-web.tech/portal.php?tv=155967
 #EXTINF:-1,City 42
 http://125.209.88.166:45793/BRN/City42.stream/playlist.m3u8
 #EXTINF:-1,Lahore News
