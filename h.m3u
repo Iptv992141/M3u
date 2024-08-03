@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1,GEO News
+#EXTINF:-1,01 GEO News
 http://125.209.88.166:45793/BRN/GeoNews.stream/playlist.m3u8
-#EXTINF:-1,ARY News
+#EXTINF:-1,02 ARY News
 http://125.209.88.166:45793/BRN/AryNews.stream/playlist.m3u8
 #EXTINF:-1,DC Hindi
 http://dc.web-hostiger.com:8880/live/809469557884/TVSTARIPTV/325231.ts
@@ -19,35 +19,35 @@ https://tgaadi-web.tech/portal.php?tv=1118065
 https://tgaadi-web.tech/portal.php?tv=156018
 #EXTINF:-1,Star Sports 1 Hindi FHD
 https://tgaadi-web.tech/portal.php?tv=155967
-#EXTINF:-1,City 42
+#EXTINF:-1,03 City 42
 http://125.209.88.166:45793/BRN/City42.stream/playlist.m3u8
-#EXTINF:-1,Lahore News
+#EXTINF:-1,04 Lahore News
 http://125.209.88.166:45793/BRN/LahoreNewsHD.stream/playlist.m3u8
-#EXTINF:-1,HUM News
+#EXTINF:-1,05 HUM News
 http://125.209.88.166:45793/BRN/HumNewsHD.stream/playlist.m3u8
-#EXTINF:-1,GNN News
+#EXTINF:-1,06 GNN News
 http://125.209.88.166:45793/BRN/GNNHD.stream/playlist.m3u8
-#EXTINF:-1,SAMA News
+#EXTINF:-1,07 SAMA News
 http://125.209.88.166:45793/BRN/Sama.stream/playlist.m3u8
-#EXTINF:-1,Dunya News
+#EXTINF:-1,08 Dunya News
 http://125.209.88.166:45793/BRN/DuniyaNews.stream/playlist.m3u8
-#EXTINF:-1,Dawn News
+#EXTINF:-1,09 Dawn News
 http://125.209.88.166:45793/BRN/DawnNews.stream/playlist.m3u8
-#EXTINF:-1,BOL News
+#EXTINF:-1,10 BOL News
 http://125.209.88.166:45793/BRN/BolNews.stream/playlist.m3u8
-#EXTINF:-1,92 News
+#EXTINF:-1,11 92 News
 http://125.209.88.166:45793/BRN/92News.stream/playlist.m3u8
-#EXTINF:-1,GEO Tez
+#EXTINF:-1,12 GEO Tez
 http://125.209.88.166:45793/BRN/GeoTez.stream/playlist.m3u8
-#EXTINF:-1,News One
+#EXTINF:-1,13 News One
 http://125.209.88.166:45793/BRN/NewsOne.stream/playlist.m3u8
-#EXTINF:-1,PTV News
+#EXTINF:-1,14 PTV News
 http://125.209.88.166:45793/BRN/PTVNews.stream/playlist.m3u8
 #EXTINF:-1,PTV Home
 http://125.209.88.166:45793/BRN/PtvHome.stream/playlist.m3u8
 #EXTINF:-1,PTV Sports
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
-#EXTINF:-1,NEO News
+#EXTINF:-1,15 NEO News
 http://125.209.88.166:45793/BRN/NeoNewsHD.stream/playlist.m3u8
 #EXTINF:-1,GreenTv
 http://125.209.88.166:45793/BRN/Greentv.stream/playlist.m3u8
@@ -55,7 +55,7 @@ http://125.209.88.166:45793/BRN/Greentv.stream/playlist.m3u8
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 #EXTINF:-1,TV One
 http://125.209.88.166:45793/BRN/TvOne.stream/playlist.m3u8
-#EXTINF:-1,TRT World
+#EXTINF:-1,20 TRT World
 http://125.209.88.166:45793/BRN/TRTWorld.stream/playlist.m3u8
 #EXTINF:-1,Saudi Sunnah
 http://125.209.88.166:45793/BRN/SaudiSunnahHD.stream/playlist.m3u8
@@ -81,17 +81,17 @@ http://125.209.88.166:45793/BRN/AryZindage.stream/playlist.m3u8
 http://125.209.88.166:45793/BRN/AhlEBait.stream/playlist.m3u8
 #EXTINF:-1,Disney Channel
 http://125.209.88.166:45793/BRN/DisneyChannelHD.stream/playlist.m3u8
-#EXTINF:-1,Sky News
+#EXTINF:-1,19 Sky News
 http://125.209.88.166:45793/BRN/SkyNews.stream/playlist.m3u8
-#EXTINF:-1,CNN
+#EXTINF:-1,18 CNN
 http://125.209.88.166:45793/BRN/CNNNews.stream/playlist.m3u8
-#EXTINF:-1,Aljazeera HD
+#EXTINF:-1,17 Aljazeera HD
 http://125.209.88.166:45793/BRN/AlJazeerahHD.stream/playlist.m3u8
 #EXTINF:-1,URDU 1
 http://125.209.88.166:45793/BRN/Urdu1.stream/playlist.m3u8
 #EXTINF:-1,TEN Sports
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
-#EXTINF:-1,RT News
+#EXTINF:-1,21 RT News
 http://125.209.88.166:45793/BRN/RT.stream/playlist.m3u8
 #EXTINF:-1,HUM Masala
 http://125.209.88.166:45793/BRN/HumMasalah.stream/playlist.m3u8
@@ -105,7 +105,7 @@ http://125.209.88.166:45793/BRN/CartoonNetwork.stream/playlist.m3u8
 http://125.209.88.166:45793/BRN/BolEnt.stream/playlist.m3u8
 #EXTINF:-1,HUM TV
 http://125.209.88.166:45793/BRN/HumTvHD.stream/playlist.m3u8
-#EXTINF:-1,BBC World News
+#EXTINF:-1,16 BBC World News
 http://125.209.88.166:45793/BRN/BBCWorld.stream/playlist.m3u8
 #EXTINF:-1,ARY Digital
 http://125.209.88.166:45793/BRN/AryDigital.stream/playlist.m3u8
