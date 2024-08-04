@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1,Sony YAY HD
+https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-yay/index.ts
+#EXTINF:-1,Sony BBC Earth
+https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-bbc-earth-hd/index.ts
 #EXTINF:-1 group-title="01- News",GEO News
 http://125.209.88.166:45793/BRN/GeoNews.stream/playlist.m3u8
 #EXTINF:-1 group-title="01- News",ARY News
